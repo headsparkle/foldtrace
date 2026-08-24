@@ -9,6 +9,7 @@ authors:
     given-names: Marc
     affiliation: "Department of Chemistry, Connecticut College"
     email: mzim@conncoll.edu
+    orcid: "https://orcid.org/0000-0001-8460-9064"
 repository-code: "https://github.com/headsparkle/foldsite"
 keywords:
   - structural bioinformatics
@@ -22,4 +23,5 @@ preferred-citation:
   authors:
     - family-names: Zimmer
       given-names: Marc
+      orcid: "https://orcid.org/0000-0001-8460-9064"
   year: 2026
