@@ -5,7 +5,10 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
-foldsite map \
+# use the installed console script if present, else the module entry point
+if command -v foldsite >/dev/null 2>&1; then FOLDSITE="foldsite"; else FOLDSITE="python3 -m foldsite"; fi
+
+$FOLDSITE map \
   --reference reference/SARM1_TIR_6O0R_A.pdb \
   --sites catalytic_sites.tsv \
   --candidates candidates/*.pdb \
