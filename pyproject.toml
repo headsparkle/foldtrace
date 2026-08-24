@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "foldsite"
+version = "0.1.0"
+description = "Structure-first active-site mapping: read the catalytic state of a fold from predicted structures"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Marc Zimmer", email = "mzim@conncoll.edu" }]
+keywords = ["structural bioinformatics", "AlphaFold", "active site", "pseudoenzyme", "protein annotation", "TM-align"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+    "Operating System :: OS Independent",
+]
+# Pinned for reproducibility of v0.1 (see requirements.txt for the exact tested set).
+dependencies = [
+    "numpy>=1.24,<3",
+    "biopython==1.82",
+    "tmtools==0.3.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/headsparkle/foldsite"
+Repository = "https://github.com/headsparkle/foldsite"
+
+[project.scripts]
+foldsite = "foldsite.cli:main"
+
+[project.optional-dependencies]
+test = ["pytest==7.4.4"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

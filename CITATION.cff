@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use foldsite, please cite the software and the associated paper."
+title: "foldsite: structure-first active-site mapping across protein folds"
+version: 0.1.0
+date-released: 2026-08-24
+license: MIT
+authors:
+  - family-names: Zimmer
+    given-names: Marc
+    affiliation: "Department of Chemistry, Connecticut College"
+    email: mzim@conncoll.edu
+repository-code: "https://github.com/headsparkle/foldsite"
+keywords:
+  - structural bioinformatics
+  - AlphaFold
+  - active site
+  - pseudoenzyme
+  - protein annotation
+preferred-citation:
+  type: article
+  title: "Structure-first search and active-site mapping across protein folds"
+  authors:
+    - family-names: Zimmer
+      given-names: Marc
+  year: 2026

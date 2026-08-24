@@ -1,0 +1,6 @@
+# SARM1 TIR NADase site (reference PDB 6O0R chain A, avGFP-independent SARM1 numbering)
+# expected: one-letter codes counting as "retained"; Y,F = aromatic retained at position 568
+label	ref_resnum	expected	role	key
+Tyr568	568	Y,F	pocket_aromatic	0
+Trp638	638	W	nicotinamide_stack	0
+Glu642	642	E	catalytic	1

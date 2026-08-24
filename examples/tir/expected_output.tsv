@@ -1,0 +1,5 @@
+candidate	tm_norm_ref	rmsd	fold_ok	Tyr568_obs	Tyr568_offsetA	Tyr568_state	Trp638_obs	Trp638_offsetA	Trp638_state	Glu642_obs	Glu642_offsetA	Glu642_state	verdict
+A0A7Y7TLD0	0.898	1.95	true	Y9	0.28	retained	W79	0.13	retained	E83	0.38	retained	retained
+A0A933QTC5	0.752	2.11	true	Y13	0.43	retained	L76	1.22	lost	T80	0.90	lost	lost
+A0A953THP3	0.886	1.83	true	Y77	0.07	retained	W143	0.52	retained	E147	0.44	retained	retained
+Q9FHM1	0.801	2.09	true	F17	1.12	retained	W80	0.76	retained	E84	0.94	retained	retained
