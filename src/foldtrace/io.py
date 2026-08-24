@@ -22,9 +22,10 @@ class Site:
     """One chemistry-defining position in the reference, plus the residues that count as retained."""
     label: str
     resnum: int
-    expected: frozenset[str]   # one-letter codes that mean "retained"
+    expected: frozenset[str]            # one-letter codes that mean "retained"
     role: str
-    key: bool                  # does this residue drive the overall verdict?
+    key: bool                           # does this residue drive the overall verdict?
+    altered: frozenset[str] = frozenset()  # optional: codes that mean "altered" (changed but related)
 
 
 def _one(resname: str) -> str:
@@ -63,12 +64,14 @@ def load_structure(path: str, chain: str | None = None) -> Structure:
 def parse_sites(path: str) -> list[Site]:
     """Parse a catalytic-sites TSV.
 
-    Columns (tab-separated, header required): label, ref_resnum, expected, role, key
+    Required columns (tab-separated, header required): label, ref_resnum, expected, role, key
       - expected: one or more one-letter codes, comma-separated (e.g. ``E`` or ``Y,F``).
-                  Any listed residue counts as "retained"; multiple codes express a
-                  conservative/altered-but-functional set.
+                  Any listed residue counts as "retained".
       - role:     free text (e.g. ``catalytic``, ``pocket``).
       - key:      1/true if this residue determines the overall verdict, else 0/false.
+    Optional column:
+      - altered:  one-letter codes that count as "altered" (changed but related
+                  chemistry) rather than lost; comma-separated, may be empty.
     Lines beginning with ``#`` are ignored.
     """
     sites: list[Site] = []
@@ -89,8 +92,9 @@ def parse_sites(path: str) -> list[Site]:
             row = dict(zip(header, parts))
             key = row["key"].strip().lower() in ("1", "true", "yes", "y")
             expected = frozenset(c.strip().upper() for c in row["expected"].split(",") if c.strip())
+            altered = frozenset(c.strip().upper() for c in row.get("altered", "").split(",") if c.strip())
             sites.append(Site(row["label"].strip(), int(row["ref_resnum"]),
-                              expected, row["role"].strip(), key))
+                              expected, row["role"].strip(), key, altered))
     if not sites:
         raise ValueError(f"no sites parsed from {path}")
     return sites

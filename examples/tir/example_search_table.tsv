@@ -1,0 +1,12 @@
+# DEMONSTRATION FIXTURE - not a live AlphaFold/Foldseek search.
+# This is a hand-built foldtrace search table over four hand-picked candidates chosen to
+# span active-site states (three retained, one catalytic-Glu-lost) for the worked example.
+# fident/alnlen/qcov/tcov/alntmscore are real TM-align-derived values for these four
+# structures; prob/evalue/bits are NA because no afdb50 Foldseek run was performed.
+# For a real search over the AlphaFold/UniProt50 set:
+#   foldtrace search --query reference/SARM1_TIR_6O0R_A.pdb --database afdb50 --out hits.tsv
+rank	query	target	prob	evalue	bits	fident	alnlen	qcov	tcov	alntmscore
+1	SARM1_TIR_6O0R_A	A0A7Y7TLD0	NA	NA	NA	0.3381	139	0.9929	0.3432	0.8978
+2	SARM1_TIR_6O0R_A	A0A953THP3	NA	NA	NA	0.3852	135	0.9643	0.2394	0.8863
+3	SARM1_TIR_6O0R_A	Q9FHM1	NA	NA	NA	0.2	130	0.9286	0.1049	0.8015
+4	SARM1_TIR_6O0R_A	A0A933QTC5	NA	NA	NA	0.1789	123	0.8786	0.1422	0.7522

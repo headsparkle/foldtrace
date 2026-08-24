@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "foldtrace"
-version = "0.1.0"
+version = "0.2.0"
 description = "Structure-first active-site mapping: read the catalytic state of a fold from predicted structures"
 readme = "README.md"
 requires-python = ">=3.9"

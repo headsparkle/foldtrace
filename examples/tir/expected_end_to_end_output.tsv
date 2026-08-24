@@ -1,0 +1,5 @@
+candidate_id	rank	foldseek_prob	foldseek_evalue	foldseek_bits	foldseek_fident	foldseek_qcov	foldseek_alntmscore	tmalign_tm_norm_ref	tmalign_rmsd	fold_ok	Tyr568_obs	Tyr568_offsetA	Tyr568_state	Trp638_obs	Trp638_offsetA	Trp638_state	Glu642_obs	Glu642_offsetA	Glu642_state	verdict	state_reason
+A0A7Y7TLD0	1	NA	NA	NA	0.3381	0.9929	0.8978	0.8978	1.953	true	Y9	0.282	retained	W79	0.1346	retained	E83	0.3844	retained	retained	Glu642 E83 retained
+A0A953THP3	2	NA	NA	NA	0.3852	0.9643	0.8863	0.8863	1.835	true	Y77	0.07395	retained	W143	0.5166	retained	E147	0.4385	retained	retained	Glu642 E147 retained
+Q9FHM1	3	NA	NA	NA	0.2	0.9286	0.8015	0.8015	2.088	true	F17	1.116	retained	W80	0.7618	retained	E84	0.9351	retained	retained	Glu642 E84 retained
+A0A933QTC5	4	NA	NA	NA	0.1789	0.8786	0.7522	0.7522	2.111	true	Y13	0.4309	retained	L76	1.223	lost	T80	0.8963	lost	lost	Glu642 T not in expected {E}

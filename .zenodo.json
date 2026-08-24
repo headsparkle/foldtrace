@@ -1,6 +1,6 @@
 {
-  "title": "FOLDTRACE: structure-first active-site mapping across protein folds",
-  "description": "A tool that reads the catalytic state of a protein fold from predicted structures. It superposes a candidate on a reference with TM-align and reports, for each chemistry-defining position, whether the catalytic residue is retained, lost, or unresolved, using an order-aware residue correspondence. Version 0.1.0 implements the active-site-mapping stage with a worked TIR (SARM1 NADase) demo.",
+  "title": "FOLDTRACE: structure-first search and active-site mapping across protein folds",
+  "description": "A tool implementing a two-stage, structure-first workflow. Stage 1 (foldtrace search) searches a Foldseek database, e.g. the AlphaFold/UniProt50 set, by fold and returns a ranked hit table. Stage 2 (foldtrace map) superposes each candidate on a reference with TM-align and reads every chemistry-defining position as retained, altered, lost, or unresolved using an order-aware residue correspondence; unresolved calls carry an explicit reason. foldtrace run chains the two stages. Version 0.2.0 completes both stages, with a worked TIR (SARM1 NADase) example. The concept DOI 10.5281/zenodo.22081699 always resolves to the latest version; each release receives its own version DOI.",
   "upload_type": "software",
   "license": "MIT",
   "access_right": "open",
@@ -22,9 +22,15 @@
   ],
   "related_identifiers": [
     {
+      "relation": "isVersionOf",
+      "identifier": "10.5281/zenodo.22081699",
+      "scheme": "doi"
+    },
+    {
       "relation": "isSupplementTo",
       "identifier": "https://github.com/headsparkle/foldtrace",
       "scheme": "url"
     }
-  ]
+  ],
+  "version": "0.2.0"
 }

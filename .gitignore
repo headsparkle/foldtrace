@@ -6,3 +6,4 @@ dist/
 .pytest_cache/
 .venv/
 examples/tir/demo_output.tsv
+examples/tir/end_to_end_output.tsv

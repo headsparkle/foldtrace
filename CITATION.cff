@@ -1,8 +1,9 @@
 cff-version: 1.2.0
 message: "If you use foldtrace, please cite the software and the associated paper."
 title: "FOLDTRACE: structure-first active-site mapping across protein folds"
-version: 0.1.0
+version: 0.2.0
 date-released: 2026-08-24
+doi: "10.5281/zenodo.22081699"
 license: MIT
 authors:
   - family-names: Zimmer
