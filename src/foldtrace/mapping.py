@@ -1,8 +1,8 @@
-"""Core of foldsite: superpose a candidate on the reference and read the active-site state.
+"""Core of foldtrace: superpose a candidate on the reference and read the active-site state.
 
 The reading is *order-aware*. Rather than taking the residue whose CA happens to sit
 nearest each reference catalytic atom (which can grab a spatially-close but
-sequence-unrelated residue), foldsite uses the TM-align residue correspondence, which
+sequence-unrelated residue), foldtrace uses the TM-align residue correspondence, which
 preserves sequence order, and only then checks that the corresponding residue's CA lies
 within a distance cutoff of the reference position. A call is emitted only when fold
 correspondence and spatial placement agree.

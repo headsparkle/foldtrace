@@ -3,8 +3,8 @@ import os
 
 import pytest
 
-from foldsite.io import load_structure, parse_sites
-from foldsite.mapping import map_candidate, RETAINED, LOST
+from foldtrace.io import load_structure, parse_sites
+from foldtrace.mapping import map_candidate, RETAINED, LOST
 
 HERE = os.path.dirname(__file__)
 TIR = os.path.join(HERE, "..", "examples", "tir")

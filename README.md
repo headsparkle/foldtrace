@@ -1,16 +1,16 @@
-# foldsite
+# foldtrace
 
 **Structure-first active-site mapping: read the catalytic state of a fold from predicted structures.**
 
 Sequence homology assigns a protein the function of its closest annotated relative. That
 fails when a familiar fold is retained after the chemistry inside it has been altered,
-repurposed, or lost. `foldsite` reads the active site directly from structure instead: it
+repurposed, or lost. `foldtrace` reads the active site directly from structure instead: it
 superposes a candidate on a reference with TM-align and reports, for each chemistry-defining
 position, whether the catalytic residue is **retained**, **lost**, or **unresolved**.
 
 The reading is *order-aware*. Rather than taking the residue whose Cα happens to sit nearest a
 reference catalytic atom (which can grab a spatially-close but sequence-unrelated residue),
-`foldsite` uses the TM-align residue correspondence, which preserves sequence order, and only
+`foldtrace` uses the TM-align residue correspondence, which preserves sequence order, and only
 then checks that the corresponding residue lies within a distance cutoff of the reference
 position. A call is emitted only when fold correspondence and spatial placement agree.
 
@@ -22,8 +22,8 @@ thin wrapper over [Foldseek](https://github.com/steineggerlab/foldseek) (see bel
 ## Install
 
 ```bash
-git clone https://github.com/headsparkle/foldsite
-cd foldsite
+git clone https://github.com/headsparkle/foldtrace
+cd foldtrace
 pip install -e .
 ```
 
@@ -33,7 +33,7 @@ runs in-process via `tmtools`; no external binary is required. Python >= 3.9.
 ## Worked demo (TIR NADase, ~1 s)
 
 ```bash
-foldsite map \
+foldtrace map \
   --reference examples/tir/reference/SARM1_TIR_6O0R_A.pdb \
   --sites     examples/tir/catalytic_sites.tsv \
   --candidates examples/tir/candidates/*.pdb \
@@ -87,7 +87,7 @@ this rather than re-implementing it; the canonical call is:
 foldseek easy-search reference.pdb afdb50 hits.m8 tmp --format-output "query,target,evalue,alntmscore"
 ```
 
-Feed the resulting hit structures to `foldsite map`. A native `foldsite search` wrapper is
+Feed the resulting hit structures to `foldtrace map`. A native `foldtrace search` wrapper is
 planned for v0.2.
 
 ## Tests

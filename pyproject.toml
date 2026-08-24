@@ -3,7 +3,7 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "foldsite"
+name = "foldtrace"
 version = "0.1.0"
 description = "Structure-first active-site mapping: read the catalytic state of a fold from predicted structures"
 readme = "README.md"
@@ -26,11 +26,11 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/headsparkle/foldsite"
-Repository = "https://github.com/headsparkle/foldsite"
+Homepage = "https://github.com/headsparkle/foldtrace"
+Repository = "https://github.com/headsparkle/foldtrace"
 
 [project.scripts]
-foldsite = "foldsite.cli:main"
+foldtrace = "foldtrace.cli:main"
 
 [project.optional-dependencies]
 test = ["pytest==7.4.4"]

@@ -1,4 +1,4 @@
-# Exact versions foldsite v0.1.0 was tested against (Python 3.9, macOS/Linux).
+# Exact versions foldtrace v0.1.0 was tested against (Python 3.9, macOS/Linux).
 numpy==2.0.0
 biopython==1.82
 tmtools==0.3.0

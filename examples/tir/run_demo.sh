@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
-# foldsite worked demo: SARM1 TIR NADase site read across four AlphaFold candidates.
+# foldtrace worked demo: SARM1 TIR NADase site read across four AlphaFold candidates.
 # Reproduces the retained/lost calls in Zimmer, "Structure-first search and active-site
 # mapping across protein folds". Runtime: ~1 s for 4 candidates on one CPU core.
 set -euo pipefail
 cd "$(dirname "$0")"
 
 # use the installed console script if present, else the module entry point
-if command -v foldsite >/dev/null 2>&1; then FOLDSITE="foldsite"; else FOLDSITE="python3 -m foldsite"; fi
+if command -v foldtrace >/dev/null 2>&1; then FOLDTRACE="foldtrace"; else FOLDTRACE="python3 -m foldtrace"; fi
 
-$FOLDSITE map \
+$FOLDTRACE map \
   --reference reference/SARM1_TIR_6O0R_A.pdb \
   --sites catalytic_sites.tsv \
   --candidates candidates/*.pdb \

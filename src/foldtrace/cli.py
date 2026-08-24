@@ -1,4 +1,4 @@
-"""Command-line interface for foldsite."""
+"""Command-line interface for foldtrace."""
 from __future__ import annotations
 
 import argparse
@@ -69,10 +69,10 @@ def cmd_map(args: argparse.Namespace) -> int:
 
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
-        prog="foldsite",
+        prog="foldtrace",
         description="Structure-first active-site mapping: read the catalytic state of a "
                     "fold from predicted structures.")
-    p.add_argument("--version", action="version", version=f"foldsite {__version__}")
+    p.add_argument("--version", action="version", version=f"foldtrace {__version__}")
     sub = p.add_subparsers(dest="command", required=True)
 
     m = sub.add_parser("map", help="read active-site state of candidate structures against a reference")

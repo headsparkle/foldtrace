@@ -1,4 +1,4 @@
-"""Structure and site-file I/O for foldsite."""
+"""Structure and site-file I/O for foldtrace."""
 from __future__ import annotations
 
 from dataclasses import dataclass

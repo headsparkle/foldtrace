@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use foldsite, please cite the software and the associated paper."
-title: "foldsite: structure-first active-site mapping across protein folds"
+message: "If you use foldtrace, please cite the software and the associated paper."
+title: "foldtrace: structure-first active-site mapping across protein folds"
 version: 0.1.0
 date-released: 2026-08-24
 license: MIT
@@ -10,7 +10,7 @@ authors:
     affiliation: "Department of Chemistry, Connecticut College"
     email: mzim@conncoll.edu
     orcid: "https://orcid.org/0000-0001-8460-9064"
-repository-code: "https://github.com/headsparkle/foldsite"
+repository-code: "https://github.com/headsparkle/foldtrace"
 keywords:
   - structural bioinformatics
   - AlphaFold
