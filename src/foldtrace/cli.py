@@ -127,6 +127,73 @@ def cmd_run(args: argparse.Namespace) -> int:
     return 0
 
 
+# --------------------------------------------------------------------- guided
+def _guided_load(path: str):
+    from .guided import GuidedProject
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"no guided project at {path} (run 'foldtrace guided init' first)")
+    return GuidedProject.load(path)
+
+
+def cmd_guided(args: argparse.Namespace) -> int:
+    from .guided import GuidedProject, GuidedError
+
+    def _dump(obj):
+        import json
+        print(json.dumps(obj, indent=2))
+
+    try:
+        if args.guided_cmd == "init":
+            proj = GuidedProject(args.name, args.reference, args.sites, args.candidate,
+                                 tm_gate=args.tm_gate, offset_threshold=args.offset_threshold)
+            proj.save(args.project)
+            print(f"created guided project '{args.name}' at {args.project}; next: observe")
+            return 0
+
+        proj = _guided_load(args.project)
+
+        if args.guided_cmd == "observe":
+            _dump(proj.observe(args.notes or ""))
+        elif args.guided_cmd == "predict":
+            preds = {}
+            for item in args.set or []:
+                if "=" not in item:
+                    print(f"error: --set expects label=state, got {item!r}", file=sys.stderr)
+                    return 2
+                lab, state = item.split("=", 1)
+                preds[lab.strip()] = state.strip()
+            _dump(proj.predict(preds, rationale=args.rationale or "", verdict=args.verdict))
+        elif args.guided_cmd == "compute":
+            r = proj.compute()
+            print(f"verdict: {r.verdict} (TM {r.tm_norm_ref:.2f}, RMSD {r.rmsd:.2f} A) -- prediction locked")
+        elif args.guided_cmd == "compare":
+            _dump(proj.compare())
+        elif args.guided_cmd == "decide":
+            _dump(proj.decide(args.conclusion, next_action=args.next or ""))
+        elif args.guided_cmd == "status":
+            _dump(proj.status())
+        elif args.guided_cmd == "report":
+            out = open(args.out, "w") if args.out else sys.stdout
+            try:
+                out.write(proj.report())
+            finally:
+                if args.out:
+                    out.close()
+            if args.out:
+                print(f"wrote {args.out}")
+            return 0
+        else:  # pragma: no cover - argparse guards this
+            print("error: unknown guided subcommand", file=sys.stderr)
+            return 2
+    except (GuidedError, FileNotFoundError, ValueError) as exc:
+        print(f"error: {exc}", file=sys.stderr)
+        return 2
+
+    if args.guided_cmd not in ("report",):
+        proj.save(args.project)
+    return 0
+
+
 # --------------------------------------------------------------------- parser
 def _add_threshold_opts(p):
     p.add_argument("--max-hits", type=int, default=1000, help="max hits to keep (default: 1000)")
@@ -195,6 +262,42 @@ def build_parser() -> argparse.ArgumentParser:
     _add_threshold_opts(r)
     _add_map_opts(r)
     r.set_defaults(func=cmd_run)
+
+    # guided: a paced, checkpointed investigation of one candidate (a JSON journal)
+    g = sub.add_parser("guided", help="paced observe->predict->compute->compare->decide workflow")
+    g.set_defaults(func=cmd_guided)
+    gsub = g.add_subparsers(dest="guided_cmd", required=True)
+
+    gi = gsub.add_parser("init", help="create a project journal")
+    gi.add_argument("--project", required=True, help="journal file to create (JSON)")
+    gi.add_argument("--name", required=True, help="short label for the investigation")
+    gi.add_argument("--reference", required=True, help="reference structure (PDB/mmCIF)")
+    gi.add_argument("--sites", required=True, help="prespecified catalytic-sites TSV")
+    gi.add_argument("--candidate", required=True, help="the one candidate structure to study")
+    _add_map_opts(gi)
+
+    for name, help_ in (("observe", "record observations; print the briefing"),
+                        ("predict", "commit a state per site (label=state)"),
+                        ("compute", "run FOLDTRACE mapping; locks the prediction"),
+                        ("compare", "score the prediction against the result"),
+                        ("decide", "record a conclusion and next step"),
+                        ("status", "show which stages are done"),
+                        ("report", "print a Markdown write-up")):
+        gp = gsub.add_parser(name, help=help_)
+        gp.add_argument("--project", required=True, help="journal file (JSON)")
+        if name == "observe":
+            gp.add_argument("--notes", help="free-text observations")
+        if name == "predict":
+            gp.add_argument("--set", action="append", metavar="LABEL=STATE",
+                            help="a site prediction, e.g. Glu642=lost (repeatable)")
+            gp.add_argument("--rationale", help="reasoning for the prediction")
+            gp.add_argument("--verdict", choices=["retained", "altered", "lost"],
+                            help="optional overall verdict prediction")
+        if name == "decide":
+            gp.add_argument("--conclusion", required=True, help="what you conclude")
+            gp.add_argument("--next", help="the next experiment/step")
+        if name == "report":
+            gp.add_argument("--out", help="write to a file instead of stdout")
 
     return p
 

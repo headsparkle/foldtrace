@@ -110,6 +110,24 @@ tmalign_tm_norm_ref, tmalign_rmsd, fold_ok, {site}_obs/_offsetA/_state ..., verd
 unresolved_reason`. A hit whose structure cannot be found is reported with verdict `unresolved`
 and reason `structure_not_found`.
 
+### `foldtrace guided` (teaching workflow)
+
+A paced, checkpointed investigation of one candidate for undergraduate research:
+`observe → predict → compute → compare → decide`, persisted as a resumable JSON journal.
+You commit a prediction *before* computing, and computing locks it, so `compare` is an
+honest self-assessment. Same thresholds and state definitions as `map`; nothing about the
+science changes. See [`guided/README.md`](guided/README.md).
+
+```bash
+foldtrace guided init    --project my.json --name my-tir \
+    --reference ref.pdb --sites sites.tsv --candidate cand.pdb
+foldtrace guided observe --project my.json
+foldtrace guided predict --project my.json --set Glu642=lost --set Tyr568=retained --set Trp638=retained
+foldtrace guided compute --project my.json     # locks the prediction
+foldtrace guided compare --project my.json
+foldtrace guided report  --project my.json
+```
+
 ## Default thresholds
 
 | stage | parameter | default | meaning |

@@ -1,5 +1,19 @@
 # Changelog
 
+## Unreleased
+
+- **FOLDTRACE Guided** (`foldtrace.guided`, new): a paced, checkpointed research
+  workflow for teaching. One project investigates a single candidate through five
+  stages, observe -> predict -> compute -> compare -> decide, persisted as a JSON
+  journal that can be stopped and resumed. Two teaching rules are enforced:
+  checkpoints (a stage cannot run before the one before it) and a prediction lock
+  (once you compute, your hypothesis is frozen, so `compare` is an honest
+  self-assessment; unresolved sites are not scored against the student).
+  Adds the `foldtrace guided` subcommand (`init` / `observe` / `predict` /
+  `compute` / `compare` / `decide` / `status` / `report`) and the `GuidedProject`
+  API. Wraps the released `map_candidate` with the same thresholds and state
+  definitions; no change to any scientific behaviour. See `guided/README.md`.
+
 ## 0.2.0 (2026-08-24)
 
 Completes the two-stage workflow described in the Nature Methods manuscript. Archived at
