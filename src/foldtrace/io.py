@@ -32,11 +32,32 @@ def _one(resname: str) -> str:
     return _THREE_TO_ONE.get(resname.capitalize(), "X")
 
 
+def _is_polymer_residue(res) -> bool:
+    """True for a chain residue that should count as a polymer position.
+
+    Standard residues (hetero flag " ") with a CA are kept as before. HETATM residues
+    are kept only when they are *modified polymer* residues -- a non-water hetero group
+    carrying a full N/CA/C mainchain (e.g. KCX carbamyl-lysine, MSE selenomethionine,
+    SEP phosphoserine). True non-polymer HETATMs (waters, metals, ligands), which have
+    no protein backbone, are still dropped so they never enter the CA trace.
+    """
+    het = res.id[0]
+    if het == "W":                      # water
+        return False
+    if "CA" not in res:
+        return False
+    if het == " ":                      # standard polymer residue
+        return True
+    return "N" in res and "C" in res    # modified residue with a real backbone
+
+
 def load_structure(path: str, chain: str | None = None) -> Structure:
     """Load the first model of a PDB/mmCIF file as a single-chain CA Structure.
 
     If ``chain`` is given, only that chain is read; otherwise the first chain is used.
-    Only standard-polymer residues with a CA atom are kept.
+    Standard polymer residues are kept, as are modified residues stored as HETATM that
+    still carry a full backbone (e.g. a carbamylated catalytic lysine); waters, metals,
+    and other non-polymer HETATMs are dropped. See :func:`_is_polymer_residue`.
     """
     parser = MMCIFParser(QUIET=True) if path.lower().endswith((".cif", ".mmcif")) else PDBParser(QUIET=True)
     model = next(iter(parser.get_structure("s", path)))
@@ -50,7 +71,7 @@ def load_structure(path: str, chain: str | None = None) -> Structure:
         if chain is None and ch.id != picked:
             continue
         for res in ch:
-            if res.id[0] != " " or "CA" not in res:
+            if not _is_polymer_residue(res):
                 continue
             ca.append(res["CA"].coord)
             resnums.append(res.id[1])

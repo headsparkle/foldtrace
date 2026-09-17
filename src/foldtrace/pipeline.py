@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import glob
 import os
+import re
 import urllib.request
 from dataclasses import dataclass
 
@@ -19,6 +20,22 @@ from .mapping import map_candidate, CandidateResult, UNRESOLVED
 from .search import Hit, HIT_COLUMNS, parse_foldseek, filter_and_rank, search as run_search
 
 _STRUCTURE_EXTS = (".pdb", ".cif", ".mmcif")
+
+# AlphaFold DB Foldseek target ids look like ``AF-A0A2P4EX30-F1-model_v4``; the webserver
+# additionally appends a free-text description (``AF-A0A2P4EX30-F1-model_v6 Urease subunit
+# alpha``). The AlphaFold prediction API is keyed by the bare UniProt accession only.
+_AFDB_TARGET_RE = re.compile(r"AF-([0-9A-Za-z]+)-F\d+-model", re.IGNORECASE)
+
+
+def afdb_accession(target: str) -> str:
+    """Return the UniProt accession the AlphaFold API expects from a Foldseek target id.
+
+    Handles bare AFDB ids and webserver ids carrying a trailing description. Falls back to
+    the first whitespace-delimited token (so a plain accession is returned unchanged)."""
+    m = _AFDB_TARGET_RE.search(target)
+    if m:
+        return m.group(1)
+    return target.split()[0] if target.split() else target
 
 
 def read_search_table(path: str) -> list[Hit]:
@@ -59,17 +76,21 @@ def resolve_structure_path(target: str, candidates_dir: str | None,
     """Find a structure file for a hit target: look in ``candidates_dir`` (``{target}.pdb`` etc.),
     then optionally download the AlphaFold model into ``fetch_dir``. Returns a path or None."""
     if candidates_dir:
-        for ext in _STRUCTURE_EXTS:
-            p = os.path.join(candidates_dir, target + ext)
-            if os.path.exists(p):
-                return p
+        # try the target verbatim, then the bare accession (webserver targets carry a
+        # trailing description that no on-disk filename would include).
+        for stem in (target, afdb_accession(target)):
+            for ext in _STRUCTURE_EXTS:
+                p = os.path.join(candidates_dir, stem + ext)
+                if os.path.exists(p):
+                    return p
     if fetch and fetch_dir:
         os.makedirs(fetch_dir, exist_ok=True)
-        dest = os.path.join(fetch_dir, target + ".pdb")
+        acc = afdb_accession(target)
+        dest = os.path.join(fetch_dir, acc + ".pdb")
         if os.path.exists(dest):
             return dest
         try:
-            api = f"https://alphafold.ebi.ac.uk/api/prediction/{target}"
+            api = f"https://alphafold.ebi.ac.uk/api/prediction/{acc}"
             import json
             meta = json.loads(urllib.request.urlopen(api, timeout=30).read().decode())
             url = meta[0]["pdbUrl"]

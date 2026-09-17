@@ -3,7 +3,7 @@ import os
 
 from foldtrace import cli
 from foldtrace.io import parse_sites
-from foldtrace.pipeline import run, write_results, result_columns
+from foldtrace.pipeline import run, write_results, result_columns, afdb_accession
 
 HERE = os.path.dirname(__file__)
 TIR = os.path.join(HERE, "..", "examples", "tir")
@@ -34,6 +34,17 @@ def test_run_merges_foldseek_metrics_and_mapping():
     # mapping produced a TM-align score and a reason for the lost verdict
     assert rec.result.tm_norm_ref > 0.5
     assert "not in expected" in rec.result.state_reason
+
+
+def test_afdb_accession_extraction():
+    # bare AFDB id
+    assert afdb_accession("AF-A0A2P4EX30-F1-model_v4") == "A0A2P4EX30"
+    # webserver id with a trailing free-text description (the reported bug)
+    assert afdb_accession("AF-A0A2P4EX30-F1-model_v6 Urease subunit alpha") == "A0A2P4EX30"
+    # model version is irrelevant; a plain accession or PDB id passes through
+    assert afdb_accession("AF-Q9FHM1-F1-model_v3") == "Q9FHM1"
+    assert afdb_accession("Q9FHM1") == "Q9FHM1"
+    assert afdb_accession("6O0R_A description text") == "6O0R_A"
 
 
 def test_unresolved_structure_not_found_is_reported_not_dropped(tmp_path):
