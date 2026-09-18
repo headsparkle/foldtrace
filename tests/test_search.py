@@ -3,6 +3,7 @@ import os
 
 from foldtrace.search import (
     parse_foldseek, filter_and_rank, write_hits_tsv, HIT_COLUMNS,
+    FOLDSEEK_FORMAT_FIELDS,
 )
 from foldtrace import cli
 
@@ -18,6 +19,26 @@ def test_parse_foldseek_reads_columns_and_normalizes_percent_identity():
     # fident given as 25.0 (percent) must be normalised to 0.25
     assert abs(a["targetB"].fident - 0.25) < 1e-9
     assert a["targetA"].fident == 0.42
+
+
+def test_parse_foldseek_strips_webserver_description(tmp_path):
+    # The Foldseek webserver returns afdb50 ids with a trailing free-text
+    # description; parse_foldseek must keep only the id token (reported bug:
+    # otherwise the description pollutes the id and everything zeroes out).
+    fields = FOLDSEEK_FORMAT_FIELDS
+    vals = {
+        "query": "queryX chain description",
+        "target": "AF-A0A8C0MM32-F1-model_v6 Carbonic anhydrase",
+        "prob": "0.9", "evalue": "1e-9", "bits": "500", "fident": "0.98",
+        "qcov": "0.9", "tcov": "0.9", "alntmscore": "0.85",
+    }
+    line = "\t".join(vals.get(f, "0") for f in fields)
+    p = tmp_path / "webserver.m8"
+    p.write_text(line + "\n")
+    h = parse_foldseek(str(p))[0]
+    assert h.target == "AF-A0A8C0MM32-F1-model_v6"
+    assert h.query == "queryX"
+    assert " " not in h.target and " " not in h.query
 
 
 def test_filter_and_rank_thresholds_and_order():

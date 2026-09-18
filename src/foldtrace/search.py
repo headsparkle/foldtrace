@@ -56,6 +56,16 @@ def _num(x):
         return None
 
 
+def _first_token(x: str) -> str:
+    """First whitespace-delimited token, or "" if empty.
+
+    A bare Foldseek id is returned unchanged; a webserver id carrying a
+    space-separated description is reduced to just the id.
+    """
+    parts = (x or "").split()
+    return parts[0] if parts else ""
+
+
 def parse_foldseek(path: str, fields: list[str] | None = None) -> list[Hit]:
     """Parse a Foldseek easy-search table (TSV) into Hit objects.
 
@@ -76,8 +86,11 @@ def parse_foldseek(path: str, fields: list[str] | None = None) -> list[Hit]:
             if fident is not None and fident > 1.0:
                 fident = fident / 100.0
             hits.append(Hit(
-                query=row.get("query", "").strip(),
-                target=row.get("target", "").strip(),
+                # The Foldseek webserver returns afdb50 ids with a trailing
+                # description ("AF-A0A8C0MM32-F1-model_v6 Carbonic anhydrase");
+                # keep only the id token so downstream fetch/labelling is clean.
+                query=_first_token(row.get("query", "")),
+                target=_first_token(row.get("target", "")),
                 prob=_num(row.get("prob")),
                 evalue=_num(row.get("evalue")),
                 bits=_num(row.get("bits")),
