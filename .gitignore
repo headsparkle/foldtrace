@@ -10,3 +10,8 @@ examples/tir/end_to_end_output.tsv
 
 # macOS
 .DS_Store
+
+# Project data — large files excluded from git
+pand_project/models/
+pand_project/cirpin_check/verified_pairs.txt
+pand_project/cirpin_check/other_pairs.txt

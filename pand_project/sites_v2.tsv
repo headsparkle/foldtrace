@@ -1,0 +1,3 @@
+label	ref_resnum	expected	role	key	altered
+Ser25	25	S	pyruvoyl_maturation	1	
+Tyr58	58	Y	inactivation_control_proton_donor	0	F,W,H

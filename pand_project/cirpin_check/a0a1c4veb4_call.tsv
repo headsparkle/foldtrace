@@ -1,0 +1,2 @@
+candidate	tm_norm_ref	rmsd	fold_ok	Ser25_obs	Ser25_offsetA	Ser25_state	verdict	state_reason
+A0A1C4VEB4	0.915	1.76	true	S320	0.22	retained	retained	Ser25 S320 retained

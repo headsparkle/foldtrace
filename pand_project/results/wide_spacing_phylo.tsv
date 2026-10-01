@@ -1,0 +1,15 @@
+acc	dist	tm	taxon	phylum	extremophile	note
+A0A238DJU6	10.8	0.709	Thiomonas sp. X19	Betaproteobacteria	Acidophile (acid mine drainage)	Low TM=0.71, borderline
+A0A1V4QGK1	6.18	0.91	candidate division WOR-3	Unknown phylum	Unknown (uncultured)	
+Q052G3	6.13	0.874	Leptospira borgpetersenii	Spirochaetes	No	
+Q4FVB6	6.02	0.912	Psychrobacter sp.	Gammaproteobacteria	Yes - psychrophile (Arctic/Antarctic)	
+A0A1G6CSF3	5.93	0.87	Desulfonatronum thiosulfatophilum	Deltaproteobacteria	Yes - alkaliphile/halophile (soda lakes, pH 9-10)	Missed by keyword
+K1YNK3	5.85	0.843	uncultured bacterium	Unknown	Unknown	
+A9R1G4	5.83	0.921	Yersinia pseudotuberculosis	Gammaproteobacteria	No (food-borne pathogen)	
+B2JEQ8	5.82	0.899	Paraburkholderia phymatum	Betaproteobacteria	No (N2-fixing soil)	
+C5B9K4	5.78	0.92	Edwardsiella ictaluri	Gammaproteobacteria	No (fish pathogen)	
+A1WUU3	5.78	0.907	Halorhodospira halophila	Gammaproteobacteria	Yes - halophile (salterns, ~3M NaCl)	
+Q0AB67	5.75	0.904	Alkalilimnicola ehrlichii	Gammaproteobacteria	Yes - alkaliphile/halophile (Mono Lake pH 9.8)	
+B3PCR4	5.74	0.905	Cellvibrio japonicus	Gammaproteobacteria	No (cellulose-degrading soil)	
+Q21U10	5.72	0.896	Rhodoferax ferrireducens	Betaproteobacteria	Borderline (anoxic aquifer sediment)	
+Q8U9Q9	5.63	0.875	Agrobacterium tumefaciens	Alphaproteobacteria	No (soil/plant pathogen)	

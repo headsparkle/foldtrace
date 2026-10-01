@@ -1,0 +1,49 @@
+{
+  "schema": "foldtrace-guided/1",
+  "name": "PanD Ser25 pyruvoyl site - candidate A0A535E255",
+  "created": "2026-09-06T17:48:54+00:00",
+  "reference_path": "pand_project/reference/1ppy.pdb",
+  "sites_path": "pand_project/sites.tsv",
+  "candidate_path": "pand_project/models/A0A535E255.pdb",
+  "hit": null,
+  "tm_gate": 0.5,
+  "offset_threshold": 4.0,
+  "stages": {
+    "observe": {
+      "done": true,
+      "timestamp": "2026-09-06T17:49:01+00:00",
+      "notes": "",
+      "briefing": {
+        "reference": "1ppy.pdb",
+        "candidate": "A0A535E255",
+        "tm_gate": 0.5,
+        "offset_threshold": 4.0,
+        "fold_search": null,
+        "sites": [
+          {
+            "label": "Ser25",
+            "ref_resnum": 25,
+            "role": "pyruvoyl_maturation",
+            "expected": [
+              "S"
+            ],
+            "altered": [],
+            "key": true
+          }
+        ]
+      }
+    },
+    "predict": {
+      "done": false
+    },
+    "compute": {
+      "done": false
+    },
+    "compare": {
+      "done": false
+    },
+    "decide": {
+      "done": false
+    }
+  }
+}
