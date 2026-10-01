@@ -1,0 +1,1001 @@
+candidate_id	rank	foldseek_prob	foldseek_evalue	foldseek_bits	foldseek_fident	foldseek_qcov	foldseek_alntmscore	tmalign_tm_norm_ref	tmalign_rmsd	fold_ok	Ser200_obs	Ser200_offsetA	Ser200_state	His440_obs	His440_offsetA	His440_state	Glu327_obs	Glu327_offsetA	Glu327_state	Trp84_obs	Trp84_offsetA	Trp84_state	verdict	state_reason
+AF-A0A226EW42-F1-model_v6	1	1	683	1200	0.26	1.161e-38	534	0.8698	3.137	true	S249	0.3851	retained	H536	0.6978	retained	D379	1.23	altered	-	NA	unresolved	retained	Ser200 S249 retained
+AF-A0A5M3YSV9-F1-model_v6	2	1	1008	1196	0.186	9.448e-07	534	0.4013	4.136	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+AF-A0A7R9ALB5-F1-model_v6	3	1	653	1185	0.282	1.318e-42	534	0.8605	2.779	true	S831	0.65	retained	H1088	0.6095	retained	E965	1.037	retained	-	NA	unresolved	retained	Ser200 S831 retained
+AF-A0A2J8RKY9-F1-model_v6	4	1	655	1183	0.274	1.681e-41	534	0.8438	3.306	true	R841	0.9297	lost	L1079	7.235	unresolved	D969	2.079	altered	-	NA	unresolved	lost	Ser200 R not in expected {S}
+AF-A0A7R9QJE9-F1-model_v6	5	1	680	1174	0.299	1.034e-43	534	0.8559	2.169	true	S863	0.8187	retained	H1089	0.7181	retained	E980	0.7907	retained	-	NA	unresolved	retained	Ser200 S863 retained
+AF-A0A9R1SVG0-F1-model_v6	6	1	631	1168	0.266	1.022e-39	534	0.8836	3.164	true	S212	0.8148	retained	H466	0.9483	retained	E343	1.269	retained	-	NA	unresolved	retained	Ser200 S212 retained
+AF-A0A6G0UXL2-F1-model_v6	7	1	616	1141	0.234	1.084e-19	534	0.8482	3.003	true	S808	0.9361	retained	H1050	2.092	retained	E930	1.791	retained	-	NA	unresolved	retained	Ser200 S808 retained
+AF-A0A2A6BPX2-F1-model_v6	8	1	624	1139	0.26	4.6e-39	534	0.869	2.855	true	S813	0.9861	retained	H1049	0.3139	retained	E936	0.1645	retained	-	NA	unresolved	retained	Ser200 S813 retained
+AF-A0A1I8F8Z3-F1-model_v6	9	1	724	1138	0.304	2.352e-32	534	0.7079	2.279	true	D916	0.349	lost	-	NA	unresolved	E1045	0.8258	retained	-	NA	unresolved	lost	Ser200 D not in expected {S}
+AF-A0A1A9ZUL9-F1-model_v6	10	1	602	1131	0.253	2.245e-36	534	0.8619	3.268	true	D251	0.5994	lost	H503	1.094	retained	E384	1.57	retained	-	NA	unresolved	lost	Ser200 D not in expected {S}
+AF-A0A7R9JPR5-F1-model_v6	11	1	589	1123	0.261	2.219e-37	534	0.8576	2.505	true	S791	0.8967	retained	H1042	0.6721	retained	E925	0.945	retained	-	NA	unresolved	retained	Ser200 S791 retained
+AF-A0A0K0ET88-F1-model_v6	12	1	582	1103	0.202	2.797e-37	534	0.8482	3.065	true	S221	0.5791	retained	H456	0.9586	retained	E351	0.9989	retained	T98	12.99	unresolved	retained	Ser200 S221 retained
+AF-A0A9D4PDB1-F1-model_v6	13	1	576	1092	0.256	8.397e-37	534	0.8425	3.052	true	D791	0.9188	lost	H1008	1.227	retained	E909	1.063	retained	V667	4.457	unresolved	lost	Ser200 D not in expected {S}
+AF-A0A7R8VAY1-F1-model_v6	14	1	569	1070	0.264	3.406e-35	534	0.833	2.576	true	S742	0.9259	retained	H993	0.7498	retained	E876	1.018	retained	-	NA	unresolved	retained	Ser200 S742 retained
+AF-A0A9P1M955-F1-model_v6	15	1	564	1046	0.269	3.914e-33	534	0.8051	3.027	true	S781	0.2069	retained	H971	0.6932	retained	E906	0.3702	retained	L657	2.235	lost	retained	Ser200 S781 retained
+AF-A0A0L7KY57-F1-model_v6	16	1	527	1037	0.259	2.734e-34	534	0.8395	2.738	true	S711	0.2641	retained	H944	0.6149	retained	E835	0.8509	retained	-	NA	unresolved	retained	Ser200 S711 retained
+AF-A0AAX6MD01-F1-model_v6	17	1	514	1029	0.233	1.933e-29	534	0.8145	2.823	true	S688	0.6299	retained	H924	0.5372	retained	D808	1.196	altered	-	NA	unresolved	retained	Ser200 S688 retained
+AF-A0A8H4J0J0-F1-model_v6	18	1	428	995	0.238	7.142e-36	534	0.8685	2.983	true	S626	0.7866	retained	H879	0.6851	retained	D759	1.362	altered	S504	5.783	unresolved	retained	Ser200 S626 retained
+AF-A0A813HAP6-F1-model_v6	19	1	444	984	0.234	4.444e-37	534	0.8568	2.769	true	S648	0.8478	retained	H905	0.5019	retained	E775	0.5472	retained	I524	1.623	lost	retained	Ser200 S648 retained
+AF-A0A182LUK3-F1-model_v6	20	1	429	956	0.262	3.068e-39	534	0.87	2.909	true	S609	0.6032	retained	H861	0.8109	retained	D743	1.188	altered	-	NA	unresolved	retained	Ser200 S609 retained
+AF-A0A819F0S1-F1-model_v6	21	1	387	920	0.213	8.207e-34	534	0.8279	2.846	true	S583	1.097	retained	H812	0.7193	retained	E702	1.242	retained	-	NA	unresolved	retained	Ser200 S583 retained
+AF-A0A1D2N280-F1-model_v6	22	1	359	912	0.251	5.227e-33	534	0.8346	3.204	true	S524	0.4479	retained	H800	1.141	retained	E654	1.47	retained	-	NA	unresolved	retained	Ser200 S524 retained
+AF-A0AAV8ZJE0-F1-model_v6	23	1	383	909	0.285	5.408e-40	534	0.8694	3.19	true	S568	0.2685	retained	H813	0.4322	retained	E694	0.4781	retained	-	NA	unresolved	retained	Ser200 S568 retained
+AF-A0A5A8DNZ3-F1-model_v6	24	1	362	909	0.247	1.551e-33	534	0.8625	2.981	true	G554	0.5149	lost	H806	0.7865	retained	D678	1.751	altered	D424	6.727	unresolved	lost	Ser200 G not in expected {S}
+AF-A0AAN7P9N1-F1-model_v6	25	1	333	892	0.264	1.72e-39	534	0.8849	3.213	true	S522	0.35	retained	H785	1.346	retained	E657	1.155	retained	-	NA	unresolved	retained	Ser200 S522 retained
+AF-A0A8H7CHG9-F1-model_v6	26	1	444	890	0.248	2.611e-28	534	0.73	3.319	true	S636	0.1845	retained	H840	0.6001	retained	E769	1.199	retained	L510	5.084	unresolved	retained	Ser200 S636 retained
+AF-A0A977XMF0-F1-model_v6	27	1	343	886	0.237	3.289e-38	534	0.8722	3.068	true	S541	0.3205	retained	H786	1.15	retained	E672	1.28	retained	F417	3.728	altered	retained	Ser200 S541 retained
+AF-A0A819PQ36-F1-model_v6	28	1	457	881	0.284	3.486e-33	534	0.71	2.582	true	S656	0.3007	retained	-	NA	unresolved	E794	1.013	retained	I528	1.919	lost	retained	Ser200 S656 retained
+AF-A0AAW0C6S8-F1-model_v6	29	1	337	880	0.233	9.538e-36	534	0.8351	3.181	true	S545	1.007	retained	H773	1.013	retained	D668	1.121	altered	-	NA	unresolved	retained	Ser200 S545 retained
+AF-A0A8J2PX24-F1-model_v6	30	1	307	879	0.258	9.207e-44	534	0.92	2.053	true	G515	0.1993	lost	R775	0.966	lost	S660	0.8878	lost	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A8H4W1G1-F1-model_v6	31	1	364	874	0.242	3.779e-36	534	0.8072	3.179	true	S568	0.9436	retained	H781	0.3246	retained	E689	0.7201	retained	-	NA	unresolved	retained	Ser200 S568 retained
+AF-A0AAE1M4I3-F1-model_v6	32	1	351	868	0.247	3.486e-33	534	0.8489	2.619	true	S533	0.6532	retained	H774	0.48	retained	E658	0.6634	retained	F418	3.282	altered	retained	Ser200 S533 retained
+AF-A0A553P2K2-F1-model_v6	33	1	298	867	0.27	4.192e-42	534	0.9151	2.278	true	G503	0.4621	lost	H762	0.8057	retained	D647	1.101	altered	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A835GCR2-F1-model_v6	34	1	319	847	0.3	1.887e-41	534	0.8813	2.909	true	S504	0.3271	retained	H758	1.013	retained	E634	1.152	retained	G391	11.1	unresolved	retained	Ser200 S504 retained
+AF-A0A7S3PU08-F1-model_v6	35	1	103	844	0.202	1.189e-26	534	0.756	3.363	true	S300	0.5958	retained	-	NA	unresolved	E473	0.5987	retained	-	NA	unresolved	retained	Ser200 S300 retained
+AF-A0A8H4YDG7-F1-model_v6	36	1	339	834	0.273	1.932e-34	534	0.7816	3.229	true	S543	0.7255	retained	H782	0.5113	retained	E658	0.3864	retained	-	NA	unresolved	retained	Ser200 S543 retained
+AF-A0A9Q0MAL1-F1-model_v6	37	1	318	831	0.304	1.034e-43	534	0.8848	2.406	true	S504	0.2233	retained	H740	0.6811	retained	E622	0.9803	retained	-	NA	unresolved	retained	Ser200 S504 retained
+AF-A0A364N4E8-F1-model_v6	38	1	333	830	0.206	1.846e-23	534	0.7492	3.781	true	S458	0.7253	retained	H698	0.5804	retained	E585	0.8032	retained	F343	5.649	unresolved	retained	Ser200 S458 retained
+AF-A0A7M7K7K9-F1-model_v6	39	1	350	828	0.221	1.259e-31	534	0.7994	3.253	true	G525	0.7051	lost	-	NA	unresolved	S633	1.761	lost	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A1B0CR75-F1-model_v6	40	1	27	823	0.197	5.538e-33	534	0.7605	3.022	true	S214	0.2128	retained	H475	0.8754	retained	E347	1.164	retained	-	NA	unresolved	retained	Ser200 S214 retained
+AF-A0A137Q6J2-F1-model_v6	41	1	17	822	0.173	6.147e-29	534	0.7115	3.508	true	S491	0.5262	retained	H737	0.3678	retained	E620	0.5711	retained	-	NA	unresolved	retained	Ser200 S491 retained
+AF-A0A6A4WKS6-F1-model_v6	42	1	265	821	0.258	1.134e-40	534	0.8777	2.778	true	G467	0.4673	lost	H725	0.9144	retained	E592	1.12	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A0N5BQD1-F1-model_v6	43	1	291	820	0.289	2.895e-44	534	0.9107	2.363	true	S471	0.5154	retained	H724	0.5199	retained	E600	0.7313	retained	L357	0.9429	lost	retained	Ser200 S471 retained
+AF-A0A1S3AGZ2-F1-model_v6	44	1	276	811	0.578	7.455e-82	534	0.9855	1.141	true	S472	0.2146	retained	H716	0.1542	retained	E603	0.5152	retained	W355	0.3135	retained	retained	Ser200 S472 retained
+AF-A0A5F7ZDK1-F1-model_v6	45	1	272	808	0.577	1.345e-80	534	0.9844	1.169	true	S468	0.1548	retained	H712	0.1427	retained	E599	0.7266	retained	W351	0.3377	retained	retained	Ser200 S468 retained
+AF-A0A8S3TQU7-F1-model_v6	46	1	351	805	0.285	1.662e-37	534	0.7863	2.841	true	S535	0.3988	retained	-	NA	unresolved	E664	0.3036	retained	A422	6.902	unresolved	retained	Ser200 S535 retained
+AF-E0VCD0-F1-model_v6	47	1	316	803	0.208	1.059e-26	534	0.7784	3.649	true	R506	1.345	lost	I730	1.96	lost	S634	1.879	lost	-	NA	unresolved	lost	Ser200 R not in expected {S}
+AF-A0ABD0K4D9-F1-model_v6	48	1	200	787	0.264	2.351e-42	534	0.9024	2.433	true	S384	0.7962	retained	H639	0.4484	retained	E520	1.152	retained	-	NA	unresolved	retained	Ser200 S384 retained
+AF-A0AAD8YR94-F1-model_v6	49	1	293	782	0.308	1.624e-39	534	0.825	2.968	true	S487	0.9055	retained	H716	0.5345	retained	E605	0.7626	retained	N372	9.591	unresolved	retained	Ser200 S487 retained
+AF-A0AAW0YMP0-F1-model_v6	50	1	235	776	0.197	5.11e-25	534	0.7853	3.458	true	Q423	1.423	lost	G697	2.038	lost	A529	2.287	lost	-	NA	unresolved	lost	Ser200 Q not in expected {S}
+AF-A0A4R0RJX5-F1-model_v6	51	1	251	773	0.255	1.515e-35	534	0.8419	2.979	true	S438	0.3139	retained	H677	0.6359	retained	E571	0.9049	retained	G322	3.615	lost	retained	Ser200 S438 retained
+AF-A0A8J2LU52-F1-model_v6	52	1	253	768	0.261	2.169e-34	534	0.8528	3.045	true	S431	0.7313	retained	H684	1.062	retained	E562	1.679	retained	-	NA	unresolved	retained	Ser200 S431 retained
+AF-A0A962E4C2-F1-model_v6	53	1	276	767	0.294	1.532e-39	534	0.8536	2.598	true	S468	0.4512	retained	H686	0.8403	retained	E592	1.054	retained	N343	3.431	lost	retained	Ser200 S468 retained
+AF-A0A7R8HA44-F1-model_v6	54	1	344	766	0.176	7.667e-15	534	0.626	4.203	true	S481	0.948	retained	H671	0.7711	retained	D571	1.751	altered	-	NA	unresolved	retained	Ser200 S481 retained
+AF-A0A2A4JNT9-F1-model_v6	55	1	223	764	0.259	5.536e-38	534	0.8894	2.443	true	R424	1.296	lost	S663	1.324	lost	E551	0.3648	retained	T303	4.595	unresolved	lost	Ser200 R not in expected {S}
+AF-A0A0W4ZWB9-F1-model_v6	56	1	187	758	0.236	7.745e-34	534	0.8346	2.686	true	S369	0.6722	retained	H602	0.4238	retained	E506	0.8352	retained	-	NA	unresolved	retained	Ser200 S369 retained
+AF-A0A7R9E7D3-F1-model_v6	57	1	65	756	0.217	1.515e-35	534	0.8823	2.776	true	N277	0.4646	lost	H630	0.5705	retained	E413	0.8139	retained	-	NA	unresolved	lost	Ser200 N not in expected {S}
+AF-A0A9J6E9Y2-F1-model_v6	58	1	221	747	0.411	7.553e-61	534	0.9531	1.671	true	S419	0.2775	retained	H657	0.3086	retained	E544	0.4868	retained	W300	0.2102	retained	retained	Ser200 S419 retained
+AF-A0AAU9VXC2-F1-model_v6	59	1	214	747	0.333	2.045e-49	534	0.9108	2.29	true	G405	0.7392	lost	R646	1.464	lost	E533	1.13	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A7J7ERV2-F1-model_v6	60	1	210	745	0.582	6.641e-82	534	0.9855	1.138	true	S406	0.178	retained	H650	0.1542	retained	E537	0.5906	retained	W289	0.3305	retained	retained	Ser200 S406 retained
+AF-A0A4W5R2Q7-F1-model_v6	61	1	335	743	0.287	8.598e-30	534	0.6746	3.632	true	R514	0.7909	lost	-	NA	unresolved	D641	2.241	altered	-	NA	unresolved	lost	Ser200 R not in expected {S}
+AF-A0A8H5G8D7-F1-model_v6	62	1	180	742	0.228	1.447e-34	534	0.8206	2.696	true	S421	0.7084	retained	H630	0.8563	retained	E539	0.8776	retained	-	NA	unresolved	retained	Ser200 S421 retained
+AF-A0A9P0NMD9-F1-model_v6	63	1	206	739	0.466	4.642e-73	534	0.9728	1.25	true	S404	0.3158	retained	H644	0.5007	retained	E530	0.4744	retained	W289	0.1778	retained	retained	Ser200 S404 retained
+AF-A0A7M7MJ77-F1-model_v6	64	1	172	736	0.298	1.908e-45	534	0.9186	2.077	true	G383	0.6542	lost	H619	1.092	retained	E507	0.4932	retained	L266	3.526	lost	lost	Ser200 G not in expected {S}
+AF-A0A7R9H915-F1-model_v6	65	1	127	725	0.253	1.188e-36	534	0.8507	2.699	true	S305	0.8149	retained	H636	0.8497	retained	E439	0.9725	retained	-	NA	unresolved	retained	Ser200 S305 retained
+AF-A0A9C6XD96-F1-model_v6	66	1	66	722	0.245	5.408e-40	534	0.9159	2.282	true	G283	0.4964	lost	H612	0.5879	retained	E449	0.1494	retained	L162	3.549	lost	lost	Ser200 G not in expected {S}
+AF-A0A154P2G3-F1-model_v6	67	1	177	722	0.284	3.251e-39	534	0.8822	2.402	true	D384	0.8067	lost	N611	3.174	lost	E507	0.309	retained	L261	4.238	unresolved	lost	Ser200 D not in expected {S}
+AF-A0AAN9Y3T9-F1-model_v6	68	1	394	716	0.315	1.933e-24	534	0.7073	3.673	true	S156	0.5308	retained	-	NA	unresolved	E289	2.456	retained	-	NA	unresolved	retained	Ser200 S156 retained
+AF-A0A7R9M9F2-F1-model_v6	69	1	284	711	0.252	1.162e-28	534	0.7318	2.592	true	S458	0.3066	retained	H629	0.7791	retained	E560	12.46	unresolved	-	NA	unresolved	retained	Ser200 S458 retained
+AF-A0A9P7XS33-F1-model_v6	70	1	176	710	0.253	1.108e-37	534	0.8831	2.674	true	S371	0.5274	retained	H605	0.7718	retained	E497	1.077	retained	L249	6.236	unresolved	retained	Ser200 S371 retained
+AF-A0A3B0K0Q8-F1-model_v6	71	1	115	701	0.342	5.278e-57	534	0.9537	1.736	true	S366	0.3816	retained	H608	0.3438	retained	E495	0.166	retained	W194	0.4109	retained	retained	Ser200 S366 retained
+AF-A0A212BZT1-F1-model_v6	72	1	125	701	0.324	1.121e-46	534	0.9106	2.432	true	G355	0.8818	lost	H590	0.2143	retained	E476	0.6664	retained	V217	4.645	unresolved	lost	Ser200 G not in expected {S}
+AF-I8U1W4-F1-model_v6	73	1	152	696	0.222	2.492e-37	534	0.8951	2.5	true	S358	0.5733	retained	H600	0.5519	retained	E486	0.8263	retained	D235	7.344	unresolved	retained	Ser200 S358 retained
+AF-A0A812Q7F1-F1-model_v6	74	1	161	695	0.216	6.076e-30	534	0.7911	3.427	true	S393	0.6614	retained	H623	0.7233	retained	D525	1.022	altered	-	NA	unresolved	retained	Ser200 S393 retained
+AF-A0A6G0U017-F1-model_v6	75	1	129	691	0.272	6.894e-44	534	0.9086	2.169	true	D334	0.3111	lost	H587	0.7266	retained	E476	0.5238	retained	T218	9.164	unresolved	lost	Ser200 D not in expected {S}
+AF-A0A8J7TE60-F1-model_v6	76	1	28	691	0.274	1.76e-42	534	0.9092	2.416	true	G345	0.8933	lost	H580	0.2102	retained	E466	0.5335	retained	V116	4.856	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A094EZQ4-F1-model_v6	77	1	153	691	0.224	2.831e-31	534	0.8133	3.247	true	S326	0.8562	retained	H581	0.9372	retained	D457	0.3324	altered	-	NA	unresolved	retained	Ser200 S326 retained
+AF-A0A553NPE3-F1-model_v6	78	1	35	690	0.223	3.444e-39	534	0.9122	2.452	true	G260	0.6432	lost	F530	0.7552	lost	D418	1.22	altered	L124	4.383	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A226E005-F1-model_v6	79	1	161	690	0.271	1.022e-39	534	0.8464	3.04	true	S346	1.274	retained	H598	1.027	retained	E472	1.346	retained	-	NA	unresolved	retained	Ser200 S346 retained
+AF-A0A4W2CF40-F1-model_v6	80	1	146	690	0.3	2.83e-36	534	0.8334	2.513	true	G344	0.8157	lost	H579	0.1988	retained	E465	0.6609	retained	V186	4.645	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A835NMN2-F1-model_v6	81	1	44	686	0.278	2.433e-44	534	0.9111	2.475	true	G340	0.8756	lost	H575	0.2553	retained	E461	0.5381	retained	V132	4.792	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A0K8UBV6-F1-model_v6	82	1	54	682	0.263	5.284e-42	534	0.9078	2.427	true	G291	0.5728	lost	H573	0.8477	retained	E461	0.2667	retained	L145	3.772	lost	lost	Ser200 G not in expected {S}
+AF-A0A9P4PRQ0-F1-model_v6	83	1	156	682	0.215	1.722e-24	534	0.8032	3.201	true	S337	0.6409	retained	H577	0.4547	retained	E451	0.637	retained	-	NA	unresolved	retained	Ser200 S337 retained
+AF-A0A8J6HHP2-F1-model_v6	84	1	201	681	0.26	7.482e-32	534	0.8056	3.146	true	S384	1.383	retained	H599	2.032	retained	L498	13.26	unresolved	-	NA	unresolved	retained	Ser200 S384 retained
+AF-A0A8K0F1J0-F1-model_v6	85	1	182	680	0.386	3.323e-57	534	0.8992	1.873	true	S358	0.6623	retained	H586	0.2882	retained	E474	0.1277	retained	-	NA	unresolved	retained	Ser200 S358 retained
+AF-A0A137QNA4-F1-model_v6	86	1	24	678	0.199	6.665e-32	534	0.6537	4.936	true	S354	0.2738	retained	H597	1.438	retained	E482	1.06	retained	I171	4.7	unresolved	retained	Ser200 S354 retained
+AF-A0A6C1EIU1-F1-model_v6	87	1	30	677	0.269	7.65e-45	534	0.9137	2.562	true	G263	0.7948	lost	H567	0.2285	retained	E396	0.4522	retained	I118	4.816	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A9P9PMN7-F1-model_v6	88	1	154	675	0.224	4.933e-33	534	0.8289	2.886	true	S328	0.4413	retained	H572	0.2111	retained	E448	0.267	retained	-	NA	unresolved	retained	Ser200 S328 retained
+AF-A0A1D1ULA4-F1-model_v6	89	1	146	674	0.446	2.401e-70	534	0.9656	1.46	true	S339	0.2622	retained	H577	0.3775	retained	E463	0.5674	retained	W224	0.2549	retained	retained	Ser200 S339 retained
+AF-A0A4S2L5T1-F1-model_v6	90	1	24	670	0.318	1.317e-52	534	0.9615	1.792	true	S244	0.3223	retained	H561	0.3719	retained	E409	0.4494	retained	W111	0.5692	retained	retained	Ser200 S244 retained
+AF-A0AAV1PGG2-F1-model_v6	91	1	94	667	0.317	1.045e-47	534	0.9111	2.39	true	G322	0.7574	lost	H556	0.1777	retained	E443	0.5848	retained	A186	4.298	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A9W7TT46-F1-model_v6	92	1	151	667	0.275	6.975e-43	534	0.859	2.483	true	S341	0.3779	retained	H572	0.4247	retained	E468	0.4669	retained	-	NA	unresolved	retained	Ser200 S341 retained
+AF-A0A8H5CWL8-F1-model_v6	93	1	155	665	0.238	5.288e-32	534	0.8385	3.082	true	S360	0.1625	retained	H572	0.6594	retained	D479	1.262	altered	P241	8.013	unresolved	retained	Ser200 S360 retained
+AF-A0A8H7C4I2-F1-model_v6	94	1	143	662	0.246	2.352e-37	534	0.8346	3.051	true	S347	1.049	retained	H583	0.7989	retained	E473	0.7315	retained	F225	2.505	altered	retained	Ser200 S347 retained
+AF-Q7S844-F1-model_v6	95	1	180	659	0.238	8.303e-33	534	0.8094	3.06	true	S384	0.1267	retained	H579	0.3784	retained	D515	1.049	altered	Y260	2.402	altered	retained	Ser200 S384 retained
+AF-A0A8C7KWI7-F1-model_v6	96	1	58	652	0.304	1.604e-45	534	0.9111	2.346	true	G306	0.8775	lost	H541	0.1848	retained	E427	0.572	retained	V145	4.883	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A9Q8SU07-F1-model_v6	97	1	117	651	0.247	2.964e-37	534	0.8339	3.14	true	S308	0.9429	retained	H550	0.48	retained	E435	0.8971	retained	W184	7.383	unresolved	retained	Ser200 S308 retained
+AF-A0A194PLI1-F1-model_v6	98	1	115	650	0.431	6.13e-69	534	0.9752	1.142	true	S312	0.3168	retained	H552	0.4591	retained	E438	0.4152	retained	W197	0.2795	retained	retained	Ser200 S312 retained
+AF-A0A164L9D6-F1-model_v6	99	1	115	650	0.435	1.242e-67	534	0.9633	1.486	true	S316	0.3526	retained	H559	0.3658	retained	E445	0.3085	retained	W194	0.421	retained	retained	Ser200 S316 retained
+AF-A0A1V9XQ44-F1-model_v6	100	1	117	649	0.439	4.183e-72	534	0.9724	1.236	true	S314	0.3884	retained	H552	0.3244	retained	E438	0.2104	retained	W199	0.277	retained	retained	Ser200 S314 retained
+AF-J3NXF4-F1-model_v6	101	1	114	648	0.239	2.64e-37	534	0.8459	3.046	true	S310	0.9433	retained	H551	0.7875	retained	E444	0.7065	retained	-	NA	unresolved	retained	Ser200 S310 retained
+AF-A0A2S7VLU7-F1-model_v6	102	1	164	643	0.267	5.41e-35	534	0.8161	2.882	true	S350	0.6373	retained	H567	0.6512	retained	E475	0.884	retained	-	NA	unresolved	retained	Ser200 S350 retained
+AF-A0A6P8YS79-F1-model_v6	103	1	63	642	0.261	1.333e-41	534	0.89	3.269	true	S285	0.3871	retained	H551	0.967	retained	E423	0.8951	retained	R158	9.062	unresolved	retained	Ser200 S285 retained
+AF-A0AAV6HED8-F1-model_v6	104	1	67	641	0.308	1.38e-48	534	0.9106	2.389	true	G296	0.7318	lost	H530	0.2128	retained	E417	0.5719	retained	A160	4.335	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A979FL46-F1-model_v6	105	1	43	639	0.236	1.273e-40	534	0.8826	2.47	true	S228	0.3867	retained	-	NA	unresolved	M417	3.387	lost	M113	8.592	unresolved	retained	Ser200 S228 retained
+AF-A0A183SQE2-F1-model_v6	106	1	29	637	0.343	3.065e-54	534	0.9484	2.002	true	S236	0.264	retained	H536	0.436	retained	E390	0.3454	retained	W115	0.8147	retained	retained	Ser200 S236 retained
+AF-A0A151JW79-F1-model_v6	107	1	28	636	0.274	1.16e-43	534	0.9143	2.334	true	G242	0.5843	lost	H523	0.7251	retained	E391	0.08217	retained	L120	3.841	lost	lost	Ser200 G not in expected {S}
+AF-A0A7I8X2L4-F1-model_v6	108	1	41	635	0.231	4.547e-40	534	0.88	2.744	true	D266	0.4402	lost	H531	1.113	retained	D403	1.567	altered	-	NA	unresolved	lost	Ser200 D not in expected {S}
+AF-A0A8H6VHT1-F1-model_v6	109	1	61	634	0.228	1.741e-33	534	0.8165	3.521	true	S250	1.627	retained	H501	1.035	retained	E385	0.5629	retained	-	NA	unresolved	retained	Ser200 S250 retained
+AF-A0A2I2FJK9-F1-model_v6	110	1	150	634	0.207	8.601e-25	534	0.7328	3.158	true	F338	2.431	lost	H589	1.308	retained	D469	1.453	altered	-	NA	unresolved	lost	Ser200 F not in expected {S}
+AF-A0A5F8AA06-F1-model_v6	111	1	117	633	0.327	1.641e-48	534	0.9037	2.409	true	S312	0.6413	retained	H542	0.6045	retained	E430	0.6577	retained	T197	11.89	unresolved	retained	Ser200 S312 retained
+AF-A0A1W0WLK3-F1-model_v6	112	1	55	633	0.289	1.187e-46	534	0.9192	2.273	true	S263	0.4192	retained	H522	0.1787	retained	E401	0.2898	retained	-	NA	unresolved	retained	Ser200 S263 retained
+AF-A0A552R761-F1-model_v6	113	1	126	632	0.247	6.215e-38	534	0.8337	3.183	true	S305	0.2364	retained	H542	0.7708	retained	E428	1.179	retained	-	NA	unresolved	retained	Ser200 S305 retained
+AF-A0A3E4XJ89-F1-model_v6	114	1	130	632	0.248	4.654e-38	534	0.8069	3.568	true	S322	0.8399	retained	H547	0.5037	retained	E452	1.024	retained	H201	6.353	unresolved	retained	Ser200 S322 retained
+AF-A0AAJ7SGM2-F1-model_v6	115	1	35	630	0.238	1.72e-39	534	0.9074	2.729	true	G266	0.6701	lost	I519	8.203	unresolved	E393	0.9223	retained	A147	7.335	unresolved	lost	Ser200 G not in expected {S}
+AF-Q8FQC4-F1-model_v6	116	1	117	630	0.241	4.931e-38	534	0.8345	3.02	true	S299	0.983	retained	H516	0.6757	retained	E423	1.024	retained	-	NA	unresolved	retained	Ser200 S299 retained
+AF-A0A6J1RSW5-F1-model_v6	117	1	64	627	0.238	7.48e-37	534	0.8699	2.943	true	S247	1.088	retained	H528	0.8993	retained	E387	0.8622	retained	-	NA	unresolved	retained	Ser200 S247 retained
+AF-A0A0P6DS83-F1-model_v6	118	1	40	626	0.254	1.134e-40	534	0.898	2.625	true	G255	0.4853	lost	H505	1.614	retained	E398	0.6321	retained	I131	4.254	unresolved	lost	Ser200 G not in expected {S}
+AF-A0ABD1DND4-F1-model_v6	119	1	96	626	0.25	5.348e-36	534	0.8678	2.988	true	S278	0.7111	retained	H528	0.8721	retained	E411	1.144	retained	-	NA	unresolved	retained	Ser200 S278 retained
+AF-A0A9D2YW43-F1-model_v6	120	1	185	625	0.324	2.194e-33	534	0.7495	2.861	true	G280	0.6792	lost	H515	0.1772	retained	E401	0.3768	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A1Z1C4L8-F1-model_v6	121	1	96	625	0.238	5.412e-30	534	0.7895	3.477	true	S332	0.9695	retained	H546	1.064	retained	E454	1.003	retained	-	NA	unresolved	retained	Ser200 S332 retained
+AF-A0A9D4QEY8-F1-model_v6	122	1	190	625	0.165	7.934e-22	534	0.7084	3.75	true	G374	1.303	lost	T565	7.838	unresolved	E474	2.711	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A521Y6T6-F1-model_v6	123	1	131	624	0.278	2.023e-40	534	0.851	2.702	true	S317	0.4312	retained	H540	0.3921	retained	E432	0.7144	retained	Y200	1.101	altered	retained	Ser200 S317 retained
+AF-A0A9P0DSG5-F1-model_v6	124	1	97	619	0.25	4.097e-39	534	0.8585	3.037	true	S287	0.9845	retained	H536	0.9734	retained	E425	1.234	retained	-	NA	unresolved	retained	Ser200 S287 retained
+AF-A0A4S2KN47-F1-model_v6	125	1	64	619	0.275	6.662e-37	534	0.8595	2.409	true	D273	0.8535	lost	R508	1.052	lost	E396	0.4126	retained	M150	4.055	unresolved	lost	Ser200 D not in expected {S}
+AF-A0A0M4JMB8-F1-model_v6	126	1	94	618	0.357	4.543e-50	534	0.913	2.345	true	S289	0.6953	retained	H532	1.13	retained	E418	1.321	retained	-	NA	unresolved	retained	Ser200 S289 retained
+AF-A0AA36GPX6-F1-model_v6	127	1	63	617	0.348	3.284e-58	534	0.944	1.917	true	S258	0.3337	retained	H518	0.39	retained	E390	0.6117	retained	W144	0.4338	retained	retained	Ser200 S258 retained
+AF-A0A7R9L1Y3-F1-model_v6	128	1	93	617	0.282	1.381e-38	534	0.8784	2.371	true	S288	0.5928	retained	H532	0.6825	retained	E415	1.202	retained	L167	4.349	unresolved	retained	Ser200 S288 retained
+AF-A0A3Q2NPN1-F1-model_v6	129	1	51	616	0.322	4.705e-47	534	0.9095	2.418	true	G270	0.8832	lost	H505	0.1991	retained	E391	0.6232	retained	V138	4.807	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A0M9A8D4-F1-model_v6	130	1	65	615	0.389	9.197e-59	534	0.9132	1.879	true	S304	0.3625	retained	H521	0.5326	retained	E430	0.3697	retained	W189	0.2949	retained	retained	Ser200 S304 retained
+AF-A0A3B3BCK2-F1-model_v6	131	1	51	615	0.323	1.273e-45	534	0.91	2.388	true	G269	0.8839	lost	H504	0.2123	retained	E390	0.6056	retained	V138	4.767	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A7R9EH13-F1-model_v6	132	1	9	615	0.252	3.912e-38	534	0.8747	2.908	true	S287	0.5368	retained	H539	0.5364	retained	E419	0.74	retained	-	NA	unresolved	retained	Ser200 S287 retained
+AF-A0A6P9AD45-F1-model_v6	133	1	66	615	0.243	1.781e-36	534	0.8635	3.044	true	S248	1.197	retained	H516	0.9	retained	E385	1.058	retained	-	NA	unresolved	retained	Ser200 S248 retained
+AF-A0A3Q3EVB5-F1-model_v6	134	1	176	615	0.306	8.021e-31	534	0.764	2.493	true	G270	0.5419	lost	H504	0.2907	retained	E391	0.3689	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A131YLC7-F1-model_v6	135	1	81	614	0.279	2.245e-41	534	0.8888	2.437	true	G263	0.288	lost	N520	0.8703	lost	E393	0.9939	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A9N9N2F0-F1-model_v6	136	1	130	612	0.437	6.965e-63	534	0.8911	1.445	true	S327	0.3964	retained	H567	0.3921	retained	E453	0.4488	retained	W212	0.2781	retained	retained	Ser200 S327 retained
+AF-K7AZB2-F1-model_v6	137	1	97	612	0.329	6.504e-49	534	0.9049	2.195	true	S292	0.4642	retained	H521	0.6788	retained	E409	0.7233	retained	-	NA	unresolved	retained	Ser200 S292 retained
+AF-A0A173G6E9-F1-model_v6	138	1	61	611	0.347	3.687e-58	534	0.9385	1.995	true	S252	0.2391	retained	H514	0.3665	retained	E387	0.7737	retained	W138	0.4945	retained	retained	Ser200 S252 retained
+AF-A0A4C1SWH3-F1-model_v6	139	1	36	610	0.236	9.766e-29	534	0.7778	3.326	true	G222	0.3597	lost	H557	0.5179	retained	D352	0.6202	altered	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-S3DBE1-F1-model_v6	140	1	52	609	0.234	1.741e-33	534	0.8309	3.078	true	S244	1.197	retained	H494	0.6112	retained	E374	0.4412	retained	-	NA	unresolved	retained	Ser200 S244 retained
+AF-A0AAD7RKP6-F1-model_v6	141	1	91	608	0.29	5.47e-44	534	0.8692	2.37	true	S281	0.3809	retained	H513	0.6862	retained	E409	0.6713	retained	Q158	3.876	lost	retained	Ser200 S281 retained
+AF-A0A9P0FIG8-F1-model_v6	142	1	45	607	0.283	1.681e-41	534	0.9028	2.545	true	G249	0.5606	lost	N498	1.206	lost	E372	0.5356	retained	L130	3.54	lost	lost	Ser200 G not in expected {S}
+AF-A0A1D2MU62-F1-model_v6	143	1	12	607	0.245	9.318e-38	534	0.8637	3.133	true	S189	0.6192	retained	H505	0.209	retained	E329	0.4828	retained	-	NA	unresolved	retained	Ser200 S189 retained
+AF-A0A423SQE3-F1-model_v6	144	1	297	607	0.405	5.35e-31	534	0.5758	2	true	S477	0.4192	retained	-	NA	unresolved	E604	1.496	retained	-	NA	unresolved	retained	Ser200 S477 retained
+AF-A0A9P0GXS4-F1-model_v6	145	1	71	606	0.431	1.905e-70	534	0.974	1.194	true	S269	0.3987	retained	H509	0.5401	retained	E395	0.4236	retained	W154	0.2359	retained	retained	Ser200 S269 retained
+AF-U5EVS7-F1-model_v6	146	1	60	606	0.238	7.142e-36	534	0.8782	2.952	true	S249	0.5045	retained	H507	1.184	retained	E382	1.219	retained	-	NA	unresolved	retained	Ser200 S249 retained
+AF-A0A5E4MCP1-F1-model_v6	147	1	82	606	0.248	5.348e-36	534	0.8607	3.008	true	S269	0.6952	retained	H519	1.762	retained	D394	1.987	altered	-	NA	unresolved	retained	Ser200 S269 retained
+AF-A0AAE0BMQ4-F1-model_v6	148	1	78	606	0.219	1.203e-30	534	0.824	3.39	true	S269	1.349	retained	H511	1.25	retained	E402	1.433	retained	-	NA	unresolved	retained	Ser200 S269 retained
+AF-A0A0P8XV10-F1-model_v6	149	1	128	606	0.204	5.54e-28	534	0.7537	3.657	true	R314	1.768	lost	V532	1.895	lost	E444	2.581	retained	-	NA	unresolved	lost	Ser200 R not in expected {S}
+AF-A0A1U8DP68-F1-model_v6	150	1	36	605	0.304	2.118e-46	534	0.9126	2.437	true	G260	0.7177	lost	H495	0.2209	retained	E381	0.5341	retained	V123	4.458	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A2E2HEB0-F1-model_v6	151	1	109	604	0.256	1.977e-37	534	0.8296	3.245	true	S301	0.79	retained	H518	0.3548	retained	E418	0.8476	retained	M181	2.85	lost	retained	Ser200 S301 retained
+AF-A0A5J4NSM9-F1-model_v6	152	1	98	603	0.335	2.297e-39	534	0.7549	2.092	true	A335	0.9508	lost	-	NA	unresolved	E496	0.9446	retained	W197	0.7065	retained	lost	Ser200 A not in expected {S}
+AF-A0A165EZE4-F1-model_v6	153	1	125	603	0.202	6.15e-24	534	0.6545	3.292	true	S269	0.8526	retained	H499	0.4398	retained	D378	0.7763	altered	-	NA	unresolved	retained	Ser200 S269 retained
+AF-A0A452G9C1-F1-model_v6	154	1	70	602	0.544	4.279e-80	534	0.9792	1.285	true	S267	0.2347	retained	H507	0.2424	retained	E394	0.4548	retained	W151	0.3613	retained	retained	Ser200 S267 retained
+AF-A0AAN9BK82-F1-model_v6	155	1	73	602	0.29	3.403e-45	534	0.8908	2.187	true	S255	0.75	retained	H513	0.4553	retained	E391	0.2772	retained	-	NA	unresolved	retained	Ser200 S255 retained
+AF-A0AAE1DK08-F1-model_v6	156	1	78	601	0.251	5.104e-40	534	0.866	2.875	true	S261	0.4892	retained	H514	0.3104	retained	E394	0.918	retained	-	NA	unresolved	retained	Ser200 S261 retained
+AF-A0A9P5Z7U3-F1-model_v6	157	1	81	601	0.239	2.245e-36	534	0.8181	3.156	true	S279	0.5904	retained	H491	1.139	retained	E405	1.482	retained	-	NA	unresolved	retained	Ser200 S279 retained
+AF-A0A8H4QIN1-F1-model_v6	158	1	24	601	0.23	8.9e-32	534	0.8213	3.121	true	S211	0.4166	retained	H465	0.955	retained	E336	0.9787	retained	-	NA	unresolved	retained	Ser200 S211 retained
+AF-H1UV97-F1-model_v6	159	1	55	600	0.22	5.934e-37	534	0.8636	2.844	true	S250	0.2298	retained	H496	0.5442	retained	E383	0.5919	retained	L126	8.302	unresolved	retained	Ser200 S250 retained
+AF-A0ABD0KFD8-F1-model_v6	160	1	28	599	0.253	4.192e-42	534	0.8875	2.507	true	S233	0.4841	retained	H495	0.562	retained	E366	0.9891	retained	-	NA	unresolved	retained	Ser200 S233 retained
+AF-A0A1I5GJK8-F1-model_v6	161	1	66	599	0.224	2e-36	534	0.8027	3.316	true	S274	0.2986	retained	H521	0.9446	retained	E408	1.058	retained	G153	11.25	unresolved	retained	Ser200 S274 retained
+AF-A0AAE1HU60-F1-model_v6	162	1	23	598	0.218	7.396e-33	534	0.8595	3.138	true	G206	0.2611	lost	G507	2.436	lost	E393	1.791	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A9P6S1D6-F1-model_v6	163	1	47	597	0.259	4.931e-38	534	0.8712	3.068	true	S252	0.6086	retained	H492	0.6031	retained	E382	0.9948	retained	F130	4.472	unresolved	retained	Ser200 S252 retained
+AF-A0A9P3UKA2-F1-model_v6	164	1	150	596	0.22	1.804e-25	534	0.756	3.466	true	S327	0.6826	retained	H520	1.057	retained	E447	1.002	retained	S207	9.891	unresolved	retained	Ser200 S327 retained
+AF-A0A0P6GKJ8-F1-model_v6	165	1	33	595	0.304	3.212e-45	534	0.9101	2.405	true	G244	0.5808	lost	H483	1.018	retained	E371	0.1992	retained	L124	4.092	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A1B0BI94-F1-model_v6	166	1	44	595	0.263	4.652e-43	534	0.8757	2.853	true	E251	0.6877	lost	K499	1.045	lost	E377	0.3637	retained	L127	8.395	unresolved	lost	Ser200 E not in expected {S}
+AF-A0A8S1A0T8-F1-model_v6	167	1	68	595	0.245	1.463e-38	534	0.867	3.083	true	S253	0.2707	retained	H502	0.5805	retained	E383	0.725	retained	-	NA	unresolved	retained	Ser200 S253 retained
+AF-A0A7R9BYP9-F1-model_v6	168	1	44	595	0.236	5.798e-39	534	0.8778	2.686	true	S236	0.5249	retained	H511	0.379	retained	E366	0.8389	retained	-	NA	unresolved	retained	Ser200 S236 retained
+AF-A0A0W1AKA7-F1-model_v6	169	1	27	595	0.196	4.548e-35	534	0.8868	2.936	true	S216	0.9254	retained	H493	1.232	retained	E350	0.976	retained	V98	3.567	lost	retained	Ser200 S216 retained
+AF-A0A8J2J254-F1-model_v6	170	1	64	595	0.244	2.194e-33	534	0.8617	2.997	true	S255	0.6376	retained	H506	0.6012	retained	E385	0.7223	retained	-	NA	unresolved	retained	Ser200 S255 retained
+AF-A0A8J1UBR0-F1-model_v6	171	1	40	594	0.425	9.407e-67	534	0.9689	1.486	true	S236	0.3388	retained	H490	0.7447	retained	E367	0.7253	retained	W121	0.4463	retained	retained	Ser200 S236 retained
+AF-A0A194R2U2-F1-model_v6	172	1	70	594	0.279	1.202e-40	534	0.8647	3.04	true	S255	0.352	retained	H505	0.6379	retained	E389	0.8411	retained	D141	8.629	unresolved	retained	Ser200 S255 retained
+AF-A0A927T9M5-F1-model_v6	173	1	100	594	0.251	5.104e-40	534	0.8432	2.553	true	S305	0.6125	retained	H508	0.3839	retained	E419	0.8548	retained	Y179	7.561	unresolved	retained	Ser200 S305 retained
+AF-A0A226D5Q7-F1-model_v6	174	1	65	594	0.245	4.051e-35	534	0.8754	2.773	true	N255	0.4242	lost	C505	1.296	lost	E388	1.416	retained	-	NA	unresolved	lost	Ser200 N not in expected {S}
+AF-A0A9D4B5T5-F1-model_v6	175	1	62	593	0.324	4.758e-51	534	0.9049	2.74	true	S257	0.5871	retained	H504	0.4851	retained	E391	0.7692	retained	R141	11.8	unresolved	retained	Ser200 S257 retained
+AF-A0AAW0HFK1-F1-model_v6	176	1	58	593	0.312	2.795e-47	534	0.9017	2.308	true	S252	0.745	retained	H502	0.6267	retained	E369	0.6295	retained	-	NA	unresolved	retained	Ser200 S252 retained
+AF-A0A9J7M1A4-F1-model_v6	177	1	30	592	0.474	7.461e-72	534	0.969	1.469	true	S225	0.3407	retained	H489	0.4247	retained	E350	0.4684	retained	W110	0.3203	retained	retained	Ser200 S225 retained
+AF-A0A977XKS8-F1-model_v6	178	1	40	592	0.275	3.911e-43	534	0.9149	2.223	true	G245	0.3193	lost	H481	0.7673	retained	E367	0.8183	retained	L128	4.096	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A7R9KJ69-F1-model_v6	179	1	58	592	0.255	3.366e-36	534	0.8274	3.133	true	-	NA	unresolved	H505	0.616	retained	E387	1.139	retained	-	NA	unresolved	unresolved	Ser200: reference position aligned to a gap
+AF-T1HFJ2-F1-model_v6	180	1	38	592	0.222	7.745e-34	534	0.828	3.216	true	G222	0.504	lost	H497	0.2223	retained	E365	0.4761	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A4S8QMA0-F1-model_v6	181	1	44	592	0.222	6.822e-30	534	0.7983	3.54	true	S289	0.9923	retained	H499	0.846	retained	E414	0.6911	retained	F164	6.101	unresolved	retained	Ser200 S289 retained
+AF-A0A2D6BJK0-F1-model_v6	182	1	67	591	0.276	4.762e-41	534	0.8472	3.244	true	S279	0.7773	retained	H507	1.078	retained	E405	1.344	retained	-	NA	unresolved	retained	Ser200 S279 retained
+AF-A0AAV9HT04-F1-model_v6	183	1	108	591	0.238	2.64e-37	534	0.8234	2.882	true	S310	0.2466	retained	H506	0.5259	retained	E438	1.4	retained	F192	2.365	altered	retained	Ser200 S310 retained
+AF-A0A8H4Z8P0-F1-model_v6	184	1	93	591	0.235	3.214e-35	534	0.8329	3.214	true	S274	1.432	retained	H502	1.459	retained	G400	1.745	lost	-	NA	unresolved	retained	Ser200 S274 retained
+AF-A0AAN9VN27-F1-model_v6	185	1	46	590	0.417	8.576e-65	534	0.963	1.526	true	S257	0.3689	retained	H500	0.311	retained	E386	0.2279	retained	W126	0.5562	retained	retained	Ser200 S257 retained
+AF-A0A1M3LP05-F1-model_v6	186	1	19	590	0.234	2.579e-39	534	0.8626	3.118	true	S213	0.4074	retained	H501	0.6042	retained	E351	0.7725	retained	-	NA	unresolved	retained	Ser200 S213 retained
+AF-A0A8S1DNQ6-F1-model_v6	187	1	33	589	0.289	2.219e-37	534	0.8239	2.419	true	S249	0.4944	retained	H544	1.035	retained	E431	0.5634	retained	L127	3.463	lost	retained	Ser200 S249 retained
+AF-A0A0M9VSP3-F1-model_v6	188	1	40	588	0.236	9.107e-35	534	0.8665	3.135	true	S241	0.8851	retained	H501	0.8629	retained	D369	1.429	altered	-	NA	unresolved	retained	Ser200 S241 retained
+AF-A0A947R1E9-F1-model_v6	189	1	30	588	0.247	5.106e-35	534	0.8169	3.522	true	S233	0.6351	retained	H466	0.7571	retained	E381	1.18	retained	A105	9.973	unresolved	retained	Ser200 S233 retained
+AF-A0AAF5DR94-F1-model_v6	190	1	32	587	0.268	1.953e-43	534	0.8711	2.468	true	S228	0.6636	retained	H521	0.4182	retained	E396	0.7022	retained	S113	1.362	lost	retained	Ser200 S228 retained
+AF-A0A1W6L189-F1-model_v6	191	1	48	587	0.267	2.999e-36	534	0.827	2.738	true	S240	0.1029	retained	H499	0.7732	retained	E374	0.7462	retained	-	NA	unresolved	retained	Ser200 S240 retained
+AF-A0A3Q0FV06-F1-model_v6	192	1	36	586	0.316	2.49e-47	534	0.9123	2.447	true	G241	0.7886	lost	H476	0.2181	retained	E362	0.5297	retained	V123	4.341	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A9D4CF78-F1-model_v6	193	1	38	586	0.285	2.997e-41	534	0.9002	2.266	true	S231	0.407	retained	R483	0.5583	lost	E360	0.7738	retained	F117	1.742	altered	retained	Ser200 S231 retained
+AF-A0A2M6VZ18-F1-model_v6	194	1	33	586	0.233	6.145e-34	534	0.863	2.962	true	S214	0.355	retained	H492	0.7283	retained	E357	0.9662	retained	-	NA	unresolved	retained	Ser200 S214 retained
+AF-A0A812N9Y3-F1-model_v6	195	1	26	586	0.218	5.227e-33	534	0.8371	3.039	true	S237	0.9	retained	H497	0.6083	retained	E377	0.6066	retained	F98	2.672	altered	retained	Ser200 S237 retained
+AF-B7PWE5-F1-model_v6	196	1	39	585	0.322	5.999e-46	534	0.8828	3.04	true	S236	0.4377	retained	H479	0.8582	retained	E364	1.083	retained	-	NA	unresolved	retained	Ser200 S236 retained
+AF-A0A482XKU5-F1-model_v6	197	1	40	585	0.257	1.605e-40	534	0.8692	2.851	true	S241	0.2125	retained	H505	0.6858	retained	E379	1.221	retained	-	NA	unresolved	retained	Ser200 S241 retained
+AF-A0A1V6SY00-F1-model_v6	198	1	39	585	0.263	4.817e-40	534	0.8525	3.251	true	S227	0.6159	retained	H470	0.7523	retained	E345	0.9345	retained	-	NA	unresolved	retained	Ser200 S227 retained
+AF-A0A4U5NJW3-F1-model_v6	199	1	62	584	0.214	1.551e-33	534	0.8347	2.973	true	S261	0.4205	retained	H501	0.5718	retained	E393	0.6506	retained	-	NA	unresolved	retained	Ser200 S261 retained
+AF-A0A6A0H3K2-F1-model_v6	200	1	16	584	0.213	8.4e-32	534	0.7986	3.204	true	C194	0.8792	altered	H514	0.8796	retained	V366	1.558	lost	-	NA	unresolved	altered	Ser200 C in altered set
+AF-A0A2W6SG79-F1-model_v6	201	1	92	583	0.244	4.547e-40	534	0.8528	2.137	true	S278	0.7637	retained	H493	0.5431	retained	E398	0.9946	retained	-	NA	unresolved	retained	Ser200 S278 retained
+AF-A0A553N8M7-F1-model_v6	202	1	31	583	0.255	8.794e-38	534	0.8817	2.963	true	S214	0.3024	retained	H487	0.8834	retained	E345	1.77	retained	-	NA	unresolved	retained	Ser200 S214 retained
+AF-A0A9P6S372-F1-model_v6	203	1	174	583	0.271	2.024e-30	534	0.7124	2.528	true	S369	0.8106	retained	-	NA	unresolved	E495	0.859	retained	L247	8.106	unresolved	retained	Ser200 S369 retained
+AF-A0A224YGJ7-F1-model_v6	204	1	32	582	0.284	2.167e-44	534	0.8853	3.135	true	S231	0.3404	retained	H476	0.9084	retained	E359	1.583	retained	-	NA	unresolved	retained	Ser200 S231 retained
+AF-A0A0N5AMU6-F1-model_v6	205	1	17	582	0.244	1.147e-39	534	0.8909	2.715	true	S208	0.642	retained	H473	0.6409	retained	E332	0.7637	retained	-	NA	unresolved	retained	Ser200 S208 retained
+AF-A0A1S0U5N5-F1-model_v6	206	1	48	582	0.229	4.819e-35	534	0.8295	2.501	true	D221	0.1624	lost	H475	1.081	retained	D353	1.197	altered	-	NA	unresolved	lost	Ser200 D not in expected {S}
+AF-A0A8H4YVT2-F1-model_v6	207	1	22	582	0.234	3.105e-33	534	0.8355	3.436	true	S204	0.4977	retained	H435	1.22	retained	G331	1.206	lost	-	NA	unresolved	retained	Ser200 S204 retained
+AF-A0AAN9AH44-F1-model_v6	208	1	48	580	0.294	3.176e-41	534	0.8759	3.11	true	S235	0.2581	retained	H485	1.009	retained	E363	1.501	retained	-	NA	unresolved	retained	Ser200 S235 retained
+AF-A0A246JJE1-F1-model_v6	209	1	104	580	0.275	8.897e-37	534	0.8191	3.059	true	S291	0.6406	retained	H494	0.1203	retained	E408	0.1894	retained	G171	3.233	lost	retained	Ser200 S291 retained
+AF-A0A0M3QEC2-F1-model_v6	210	1	59	580	0.264	1.781e-36	534	0.8537	3.032	true	S267	0.812	retained	H488	0.6757	retained	E383	1.227	retained	Q146	5.472	unresolved	retained	Ser200 S267 retained
+AF-A0A0G2H8V2-F1-model_v6	211	1	42	580	0.242	8.495e-36	534	0.8407	3.134	true	S237	0.1492	retained	H468	0.3598	retained	E351	0.6848	retained	A121	1.668	lost	retained	Ser200 S237 retained
+AF-A0A8J2KS68-F1-model_v6	212	1	31	579	0.263	5.536e-38	534	0.8585	3.118	true	S216	0.6324	retained	H496	0.908	retained	D354	1.362	altered	-	NA	unresolved	retained	Ser200 S216 retained
+AF-A0AAD6ZZT4-F1-model_v6	213	1	21	579	0.225	2.352e-37	534	0.841	3.342	true	S246	1.068	retained	H482	0.7649	retained	E372	0.7072	retained	L116	2.437	lost	retained	Ser200 S246 retained
+AF-A0A7E5W3Y6-F1-model_v6	214	1	22	578	0.27	7.562e-46	534	0.9063	2.38	true	D231	1.143	lost	H479	1.109	retained	E357	1.34	retained	L111	8.707	unresolved	lost	Ser200 D not in expected {S}
+AF-A0AAQ4EXR1-F1-model_v6	215	1	44	578	0.263	1.481e-32	534	0.8623	2.54	true	G232	0.6411	lost	Y484	0.8784	lost	A355	0.8145	lost	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-E9HH56-F1-model_v6	216	1	1	577	0.299	1.01e-45	534	0.9166	2.29	true	G221	0.5782	lost	H463	0.9716	retained	E351	0.292	retained	L95	3.818	lost	lost	Ser200 G not in expected {S}
+AF-A0A1W6YH65-F1-model_v6	217	1	94	577	0.255	2.297e-39	534	0.8464	2.924	true	S289	0.5771	retained	H505	0.521	retained	E403	0.8801	retained	Y169	2.413	altered	retained	Ser200 S289 retained
+AF-A0A1D2MKU8-F1-model_v6	218	1	35	577	0.236	4.819e-35	534	0.8593	3.104	true	S223	0.9096	retained	H488	0.9485	retained	E360	1.127	retained	-	NA	unresolved	retained	Ser200 S223 retained
+AF-A0AAN9TUD3-F1-model_v6	219	1	50	576	0.281	2.492e-37	534	0.8629	2.77	true	S234	0.1292	retained	H486	0.7534	retained	E365	0.7714	retained	-	NA	unresolved	retained	Ser200 S234 retained
+AF-A0A3M7EUT4-F1-model_v6	220	1	34	576	0.214	1.624e-34	534	0.8194	3.41	true	S224	1.471	retained	H475	0.9073	retained	E358	0.4686	retained	-	NA	unresolved	retained	Ser200 S224 retained
+AF-A0AA39HLC1-F1-model_v6	221	1	38	575	0.264	6.817e-40	534	0.8715	2.999	true	S229	0.6818	retained	H482	0.7043	retained	E365	0.6376	retained	V111	10.75	unresolved	retained	Ser200 S229 retained
+AF-B7PJL9-F1-model_v6	222	1	85	575	0.272	1.802e-35	534	0.8271	3.162	true	D273	0.5904	lost	H523	1.376	retained	E407	1.285	retained	-	NA	unresolved	lost	Ser200 D not in expected {S}
+AF-A0A1I8MUT4-F1-model_v6	223	1	250	575	0.34	4.992e-27	534	0.6047	3.23	true	G463	0.3201	lost	-	NA	unresolved	-	NA	unresolved	L342	3.244	lost	lost	Ser200 G not in expected {S}
+AF-A0A671XRU0-F1-model_v6	224	1	86	574	0.294	3.175e-46	534	0.8403	2.497	true	S283	0.3932	retained	H478	0.7365	retained	E367	0.8191	retained	Q168	9.381	unresolved	retained	Ser200 S283 retained
+AF-A0A8W8NV66-F1-model_v6	225	1	29	574	0.292	1.623e-44	534	0.907	2.496	true	S220	0.4237	retained	H482	0.6565	retained	E355	0.6994	retained	D105	8.519	unresolved	retained	Ser200 S220 retained
+AF-A0A6J2SYK5-F1-model_v6	226	1	26	574	0.283	1.096e-38	534	0.8721	3.03	true	S215	0.253	retained	H475	0.9335	retained	E347	0.8893	retained	-	NA	unresolved	retained	Ser200 S215 retained
+AF-A0A0B1TFH3-F1-model_v6	227	1	22	574	0.297	3.289e-38	534	0.7575	2.307	true	-	NA	unresolved	H517	0.455	retained	E397	0.323	retained	W104	0.5509	retained	unresolved	Ser200: reference position aligned to a gap
+AF-A0A7J7JB24-F1-model_v6	228	1	34	573	0.287	1.07e-40	534	0.8763	2.629	true	S212	0.625	retained	H456	0.9857	retained	D329	1.216	altered	-	NA	unresolved	retained	Ser200 S212 retained
+AF-A0A9P0E8M7-F1-model_v6	229	1	65	573	0.254	9.873e-38	534	0.8445	3.021	true	S242	0.3465	retained	H477	0.87	retained	E364	1.439	retained	-	NA	unresolved	retained	Ser200 S242 retained
+AF-A0A822AHZ2-F1-model_v6	230	1	81	572	0.209	7.573e-26	534	0.7207	3.402	true	S275	0.6136	retained	-	NA	unresolved	E399	0.3947	retained	F160	6.933	unresolved	retained	Ser200 S275 retained
+AF-A0A8B7PAC2-F1-model_v6	231	1	39	571	0.274	1.034e-43	534	0.886	2.385	true	G225	0.5472	lost	-	NA	unresolved	D354	2.103	altered	A109	8.313	unresolved	lost	Ser200 G not in expected {S}
+AF-A0ABD3U314-F1-model_v6	232	1	24	570	0.334	1.567e-52	534	0.9165	2.359	true	S215	0.2973	retained	H467	0.3276	retained	D341	1.126	altered	L99	3.484	lost	retained	Ser200 S215 retained
+AF-Q9XZ70-F1-model_v6	233	1	34	570	0.256	9.646e-40	534	0.8596	3.05	true	S218	0.3285	retained	H471	0.7116	retained	E351	1.326	retained	-	NA	unresolved	retained	Ser200 S218 retained
+AF-A0A8T6JA91-F1-model_v6	234	1	82	570	0.287	1.844e-38	534	0.8359	2.793	true	S271	0.6243	retained	H481	0.6392	retained	E397	0.4326	retained	G150	8.665	unresolved	retained	Ser200 S271 retained
+AF-A0A7R8V0S5-F1-model_v6	235	1	23	570	0.236	1.48e-37	534	0.8772	3.238	true	G219	1.528	lost	H479	1.562	retained	E348	1.673	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0AAQ4EYA0-F1-model_v6	236	1	23	569	0.316	2.323e-43	534	0.8808	3.136	true	S218	0.3983	retained	H461	0.7336	retained	E346	1.166	retained	-	NA	unresolved	retained	Ser200 S218 retained
+AF-A0A8S9ZHQ5-F1-model_v6	237	1	23	569	0.271	3.251e-39	534	0.886	2.785	true	S218	0.783	retained	H480	0.6701	retained	E344	0.3976	retained	-	NA	unresolved	retained	Ser200 S218 retained
+AF-A0A7X7TCZ7-F1-model_v6	238	1	53	569	0.256	5.536e-38	534	0.8259	3.299	true	S252	0.774	retained	H484	0.5745	retained	E386	1.075	retained	E132	5.538	unresolved	retained	Ser200 S252 retained
+AF-A0A9Q0S5C1-F1-model_v6	239	1	23	569	0.226	3.034e-35	534	0.8691	3.022	true	S214	0.5627	retained	H474	0.4991	retained	E345	1.249	retained	F96	1.789	altered	retained	Ser200 S214 retained
+AF-A0A132B5U6-F1-model_v6	240	1	13	569	0.189	1.533e-29	534	0.8242	3.328	true	S241	0.491	retained	H476	0.4146	retained	E361	0.7862	retained	E95	12.15	unresolved	retained	Ser200 S241 retained
+AF-A0A6A4K7F7-F1-model_v6	241	1	2	568	0.273	7.305e-44	534	0.9092	2.275	true	D204	0.2918	lost	H464	0.8046	retained	E349	0.4045	retained	-	NA	unresolved	lost	Ser200 D not in expected {S}
+AF-A0A0R3WDW8-F1-model_v6	242	1	3	568	0.308	7.139e-41	534	0.8144	1.887	true	G164	0.3008	lost	Q451	0.9778	lost	E319	0.8678	retained	W5	2.4	retained	lost	Ser200 G not in expected {S}
+AF-A0A7J7K6Z6-F1-model_v6	243	1	24	568	0.292	7.057e-42	534	0.8906	2.651	true	S205	0.3971	retained	H455	0.8044	retained	E327	0.9083	retained	-	NA	unresolved	retained	Ser200 S205 retained
+AF-A0A7L8SHJ2-F1-model_v6	244	1	63	568	0.237	4.145e-38	534	0.837	2.614	true	S248	0.6946	retained	H460	0.7558	retained	E362	0.8386	retained	-	NA	unresolved	retained	Ser200 S248 retained
+AF-L7M3J0-F1-model_v6	245	1	31	567	0.471	1.145e-69	534	0.9698	1.333	true	S230	0.4436	retained	H470	0.3737	retained	E356	0.2159	retained	W112	0.4015	retained	retained	Ser200 S230 retained
+AF-A0A947FV17-F1-model_v6	246	1	37	567	0.29	2.997e-41	534	0.8673	3.009	true	S226	0.2641	retained	H469	0.6053	retained	E353	0.603	retained	-	NA	unresolved	retained	Ser200 S226 retained
+AF-A0A6P4JLP7-F1-model_v6	247	1	29	567	0.261	1.954e-38	534	0.861	3.06	true	S218	0.1314	retained	H472	0.6712	retained	E353	1.085	retained	-	NA	unresolved	retained	Ser200 S218 retained
+AF-A0A226DUL6-F1-model_v6	248	1	28	567	0.253	1.954e-38	534	0.8593	3.313	true	S209	0.4233	retained	H473	0.7377	retained	E343	1.265	retained	P94	9.673	unresolved	retained	Ser200 S209 retained
+AF-A0A9P0CRZ8-F1-model_v6	249	1	30	567	0.262	5.536e-38	534	0.8512	2.817	true	S216	0.4017	retained	H471	0.4951	retained	E340	0.5858	retained	-	NA	unresolved	retained	Ser200 S216 retained
+AF-A0A811K8R4-F1-model_v6	250	1	29	566	0.341	2.321e-58	534	0.9512	1.913	true	S222	0.3603	retained	H468	0.4505	retained	E350	0.2382	retained	W107	0.3879	retained	retained	Ser200 S222 retained
+AF-A0A8C6UZC0-F1-model_v6	251	1	35	565	0.303	4.987e-42	534	0.8817	2.811	true	S221	1.185	retained	H465	0.7145	retained	D346	0.6271	altered	-	NA	unresolved	retained	Ser200 S221 retained
+AF-A0A955WIU1-F1-model_v6	252	1	77	565	0.281	7.653e-40	534	0.8512	2.412	true	S263	0.6606	retained	H478	0.2847	retained	E383	1.013	retained	-	NA	unresolved	retained	Ser200 S263 retained
+AF-A0A179F7G2-F1-model_v6	253	1	22	565	0.215	8.018e-36	534	0.8412	3.045	true	S240	1.201	retained	H477	0.927	retained	E366	0.5316	retained	S122	3.806	lost	retained	Ser200 S240 retained
+AF-A0AAF5D296-F1-model_v6	254	1	23	564	0.275	1.821e-49	534	0.911	2.385	true	S214	0.3468	retained	H468	0.5278	retained	E343	0.6901	retained	T100	0.2362	lost	retained	Ser200 S214 retained
+AF-A0A090KYF7-F1-model_v6	255	1	20	564	0.238	6.431e-45	534	0.9215	2.189	true	G214	0.4409	lost	R472	1.651	lost	E345	1.037	retained	S100	4.775	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A930JXM7-F1-model_v6	256	1	54	564	0.248	8.794e-38	534	0.8269	2.997	true	S247	0.7309	retained	H456	0.547	retained	E359	0.7344	retained	L124	3.633	lost	retained	Ser200 S247 retained
+AF-G8XGG0-F1-model_v6	257	1	94	564	0.263	6.74e-36	534	0.797	3.089	true	S278	0.4618	retained	H496	0.1951	retained	E402	0.3624	retained	-	NA	unresolved	retained	Ser200 S278 retained
+AF-A0A6J0U495-F1-model_v6	258	1	34	563	0.679	2.952e-92	534	0.9922	0.8401	true	S229	0.171	retained	H469	0.1592	retained	E356	0.2766	retained	W113	0.1556	retained	retained	Ser200 S229 retained
+AF-A0A9P3E6W3-F1-model_v6	259	1	41	563	0.26	5.472e-39	534	0.8643	3.006	true	S240	0.9449	retained	H479	0.9566	retained	E366	1.082	retained	V118	2.163	lost	retained	Ser200 S240 retained
+AF-A0A8D8QWR8-F1-model_v6	260	1	30	563	0.272	3.327e-37	534	0.8768	2.974	true	S225	0.5325	retained	H478	1.333	retained	E354	1.314	retained	-	NA	unresolved	retained	Ser200 S225 retained
+AF-A0A8G1RG21-F1-model_v6	261	1	25	563	0.259	5.472e-39	534	0.8562	3.063	true	S224	0.9893	retained	H464	0.5118	retained	E342	0.5327	retained	K100	6.988	unresolved	retained	Ser200 S224 retained
+AF-A0A6J1TZ50-F1-model_v6	262	1	33	562	0.547	1.715e-79	534	0.9818	1.214	true	S228	0.2349	retained	H468	0.2189	retained	E355	0.2167	retained	W112	0.2891	retained	retained	Ser200 S228 retained
+AF-A0A525WDR0-F1-model_v6	263	1	60	562	0.27	2.297e-39	534	0.8152	3.335	true	S247	0.6483	retained	H471	0.5211	retained	E384	0.8109	retained	I126	1.826	lost	retained	Ser200 S247 retained
+AF-A0A1A9WQZ2-F1-model_v6	264	1	5	562	0.243	4.243e-36	534	0.874	2.92	true	S197	0.6819	retained	H461	1.163	retained	E333	1.777	retained	-	NA	unresolved	retained	Ser200 S197 retained
+AF-A0A6P8I6D1-F1-model_v6	265	1	27	561	0.291	3.909e-48	534	0.9041	2.32	true	S237	0.3814	retained	H466	0.289	retained	E354	0.2441	retained	V114	11.31	unresolved	retained	Ser200 S237 retained
+AF-Q9NFK4-F1-model_v6	266	1	34	561	0.292	2.519e-46	534	0.8972	2.571	true	S230	0.3758	retained	H476	0.8423	retained	E356	1.269	retained	L115	2.027	lost	retained	Ser200 S230 retained
+AF-A0A922I2P0-F1-model_v6	267	1	33	561	0.28	4.144e-43	534	0.8957	2.552	true	S223	0.5092	retained	H468	0.5499	retained	E351	1.029	retained	R102	3.102	lost	retained	Ser200 S223 retained
+AF-A0A7U2HW20-F1-model_v6	268	1	26	561	0.283	3.176e-41	534	0.8541	3.048	true	S215	0.5227	retained	H454	0.6181	retained	E340	0.8647	retained	D91	2.351	lost	retained	Ser200 S215 retained
+AF-A0A1I8C4R4-F1-model_v6	269	1	32	561	0.182	4.099e-34	534	0.851	3.076	true	S227	0.8167	retained	H471	0.6023	retained	E358	1.055	retained	-	NA	unresolved	retained	Ser200 S227 retained
+AF-A0A0W0F3M1-F1-model_v6	270	1	25	561	0.203	4.712e-27	534	0.811	3.251	true	S200	1.012	retained	H446	1.102	retained	D329	1.288	altered	Y106	7.884	unresolved	retained	Ser200 S200 retained
+AF-A0A5F9D883-F1-model_v6	271	1	29	560	0.535	2.693e-80	534	0.9826	1.168	true	S225	0.1682	retained	H465	0.2028	retained	E352	0.4515	retained	W109	0.3209	retained	retained	Ser200 S225 retained
+AF-B5THM5-F1-model_v6	272	1	28	560	0.419	3.32e-67	534	0.9426	1.725	true	S222	0.4842	retained	H463	0.3125	retained	E349	0.295	retained	W107	1.016	retained	retained	Ser200 S222 retained
+AF-A0A8R1DG01-F1-model_v6	273	1	23	560	0.345	6.065e-55	534	0.937	2.213	true	S204	0.2304	retained	H464	0.486	retained	E334	0.7622	retained	W90	0.6412	retained	retained	Ser200 S204 retained
+AF-K1QWL6-F1-model_v6	274	1	23	560	0.282	3.524e-42	534	0.8867	2.63	true	S213	0.561	retained	H471	0.3653	retained	E346	0.6854	retained	-	NA	unresolved	retained	Ser200 S213 retained
+AF-A0A2T7PTA9-F1-model_v6	275	1	24	560	0.303	8.492e-41	534	0.8761	2.862	true	S211	0.4524	retained	H459	0.8224	retained	E342	1.134	retained	-	NA	unresolved	retained	Ser200 S211 retained
+AF-A0A1B0CZT2-F1-model_v6	276	1	26	560	0.25	2.896e-39	534	0.8415	3.01	true	S211	0.3144	retained	H475	0.9271	retained	E345	1.389	retained	-	NA	unresolved	retained	Ser200 S211 retained
+AF-A0A661Q1X9-F1-model_v6	277	1	31	560	0.264	3.567e-36	534	0.815	3.476	true	S222	0.4177	retained	H451	0.7825	retained	E360	1.274	retained	-	NA	unresolved	retained	Ser200 S222 retained
+AF-A0A3M6UFV1-F1-model_v6	278	1	21	559	0.311	1.886e-51	534	0.9179	2.337	true	S214	0.4257	retained	H462	0.4168	retained	E340	0.8084	retained	F103	9.914	unresolved	retained	Ser200 S214 retained
+AF-A0A1Q3JHP1-F1-model_v6	279	1	59	559	0.228	5.733e-35	534	0.807	3.261	true	S255	0.7237	retained	H482	0.9185	retained	E390	1.159	retained	D134	6.446	unresolved	retained	Ser200 S255 retained
+AF-C3YBW7-F1-model_v6	280	1	26	558	0.33	3.03e-50	534	0.9145	2.388	true	S216	0.6213	retained	H463	0.6629	retained	E350	0.3538	retained	-	NA	unresolved	retained	Ser200 S216 retained
+AF-A0A8J5D3V2-F1-model_v6	281	1	18	558	0.253	7.223e-40	534	0.8765	3.225	true	S214	0.4966	retained	H459	1.24	retained	E339	1.496	retained	-	NA	unresolved	retained	Ser200 S214 retained
+AF-A0AAN8WIK1-F1-model_v6	282	1	24	557	0.448	7.998e-71	534	0.9722	1.188	true	S221	0.3387	retained	H460	0.4094	retained	E346	0.391	retained	W106	0.3008	retained	retained	Ser200 S221 retained
+AF-A0AAN9Z0Z2-F1-model_v6	283	1	24	557	0.242	1.413e-36	534	0.8779	2.972	true	S207	0.05019	retained	H457	0.7487	retained	E340	1.187	retained	-	NA	unresolved	retained	Ser200 S207 retained
+AF-A0A8S9WR52-F1-model_v6	284	1	43	557	0.245	5.348e-36	534	0.8471	3.085	true	S224	0.8721	retained	H464	1.13	retained	E348	1.498	retained	-	NA	unresolved	retained	Ser200 S224 retained
+AF-A0A8H3YRS9-F1-model_v6	285	1	33	557	0.206	4.344e-29	534	0.8022	3.676	true	S225	0.8217	retained	H447	0.8748	retained	E350	0.7683	retained	G103	6.366	unresolved	retained	Ser200 S225 retained
+AF-A0A6G0V603-F1-model_v6	286	1	57	557	0.193	2.932e-28	534	0.8025	3.32	true	G226	1.129	lost	P464	3.21	lost	T360	8.544	unresolved	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A8C5HYF7-F1-model_v6	287	1	26	556	0.461	2.114e-71	534	0.9642	1.468	true	S224	0.1985	retained	H464	0.5507	retained	E351	0.8781	retained	W102	0.4183	retained	retained	Ser200 S224 retained
+AF-A0A7R9MDX1-F1-model_v6	288	1	21	556	0.314	2.519e-46	534	0.8998	2.392	true	S211	0.5006	retained	H467	0.5126	retained	E344	0.5609	retained	-	NA	unresolved	retained	Ser200 S211 retained
+AF-A0A8S1C7J4-F1-model_v6	289	1	23	556	0.244	7.307e-39	534	0.8756	3.11	true	N216	1.079	lost	Q462	1.372	lost	D350	1.606	altered	-	NA	unresolved	lost	Ser200 N not in expected {S}
+AF-A0A6P7GPY9-F1-model_v6	290	1	36	556	0.251	1.174e-37	534	0.8582	3.202	true	S228	0.722	retained	H473	0.8098	retained	E363	1.236	retained	-	NA	unresolved	retained	Ser200 S228 retained
+AF-A0A3E0NXY0-F1-model_v6	291	1	59	556	0.249	2.999e-36	534	0.8297	3.218	true	S256	0.792	retained	H470	0.4911	retained	E369	0.7675	retained	W134	5.29	unresolved	retained	Ser200 S256 retained
+AF-A0A7C8R5U9-F1-model_v6	292	1	23	556	0.238	1.781e-36	534	0.8495	3.002	true	S213	0.636	retained	H449	0.8572	retained	E334	0.8096	retained	-	NA	unresolved	retained	Ser200 S213 retained
+AF-A0A0K0FZS2-F1-model_v6	293	1	9	555	0.309	3.248e-49	534	0.9187	2.211	true	D203	0.2174	lost	H457	0.7521	retained	E332	0.8463	retained	W88	1.346	retained	lost	Ser200 D not in expected {S}
+AF-A0A8H3AM64-F1-model_v6	294	1	42	555	0.205	9.11e-30	534	0.8137	3.328	true	S242	0.969	retained	H453	1.026	retained	D369	1.777	altered	-	NA	unresolved	retained	Ser200 S242 retained
+AF-A0A336MQ68-F1-model_v6	295	1	20	554	0.259	1.303e-38	534	0.8694	2.992	true	S208	0.4637	retained	H461	0.4538	retained	E343	0.8546	retained	S94	8.662	unresolved	retained	Ser200 S208 retained
+AF-E3LP45-F1-model_v6	296	1	37	554	0.257	1.463e-38	534	0.8819	2.785	true	S229	0.7769	retained	H470	0.7037	retained	E352	0.9317	retained	A108	7.796	unresolved	retained	Ser200 S229 retained
+AF-A0A7W7SUD6-F1-model_v6	297	1	53	554	0.26	2.407e-35	534	0.8423	2.896	true	S231	0.1754	retained	H471	0.9864	retained	E366	1.178	retained	-	NA	unresolved	retained	Ser200 S231 retained
+AF-A0A8J2PB51-F1-model_v6	298	1	17	554	0.257	4.051e-35	534	0.8583	3.303	true	H206	0.7006	lost	H455	1.134	retained	E336	1.666	retained	-	NA	unresolved	lost	Ser200 H not in expected {S}
+AF-A0A9J6ELG3-F1-model_v6	299	1	226	554	0.291	2.865e-25	534	0.5731	2.733	true	D432	0.3258	lost	-	NA	unresolved	E558	1.23	retained	V308	4.719	unresolved	lost	Ser200 D not in expected {S}
+AF-A0A507AVD1-F1-model_v6	300	1	38	554	0.189	1.889e-26	534	0.7867	3.805	true	F242	1.368	lost	H467	4.208	unresolved	N367	2.411	lost	-	NA	unresolved	lost	Ser200 F not in expected {S}
+AF-A0AAV2H8Q4-F1-model_v6	301	1	32	553	0.312	2.118e-46	534	0.8823	2.86	true	S218	0.6053	retained	H458	0.2771	retained	E349	0.6133	retained	-	NA	unresolved	retained	Ser200 S218 retained
+AF-A0A2D5U6Z7-F1-model_v6	302	1	50	553	0.256	3.912e-38	534	0.8538	3.009	true	S242	1.054	retained	H466	1.213	retained	E369	2.22	retained	-	NA	unresolved	retained	Ser200 S242 retained
+AF-B7Q1U9-F1-model_v6	303	1	25	552	0.307	2.269e-50	534	0.9003	2.511	true	S221	0.1514	retained	H462	0.4746	retained	E347	0.9278	retained	E104	7.279	unresolved	retained	Ser200 S221 retained
+AF-A0A914VXH4-F1-model_v6	304	1	26	552	0.294	2.433e-44	534	0.8833	2.91	true	S219	0.6953	retained	H460	0.1073	retained	E342	0.2892	retained	P102	8.74	unresolved	retained	Ser200 S219 retained
+AF-A0AAE1FJJ4-F1-model_v6	305	1	26	552	0.293	1.586e-41	534	0.8789	2.86	true	S208	0.3723	retained	H454	1.057	retained	E333	1.129	retained	-	NA	unresolved	retained	Ser200 S208 retained
+AF-A0A2Z4HQ15-F1-model_v6	306	1	19	552	0.266	5.164e-39	534	0.8678	3.123	true	S209	0.6124	retained	H450	1.456	retained	E336	1.954	retained	-	NA	unresolved	retained	Ser200 S209 retained
+AF-A0A7G6VZX4-F1-model_v6	307	1	37	552	0.255	4.243e-36	534	0.8334	3.602	true	S242	0.7946	retained	H465	0.5314	retained	D366	1.325	altered	A124	10.63	unresolved	retained	Ser200 S242 retained
+AF-A0A928JHM4-F1-model_v6	308	1	55	552	0.26	9.001e-36	534	0.8221	3.337	true	S248	0.4397	retained	H463	0.2557	retained	E359	0.5938	retained	P125	3.884	lost	retained	Ser200 S248 retained
+AF-A0A8K0LY92-F1-model_v6	309	1	31	552	0.283	2.492e-37	534	0.8127	3.091	true	S228	1.113	retained	H459	0.6099	retained	E339	0.5566	retained	Q104	2.959	lost	retained	Ser200 S228 retained
+AF-A0A1I8CHW7-F1-model_v6	310	1	3	552	0.182	5.8e-34	534	0.8269	3.406	true	G197	0.7705	lost	K439	0.6523	lost	E327	0.6808	retained	K74	7.557	unresolved	lost	Ser200 G not in expected {S}
+AF-B7PI66-F1-model_v6	311	1	25	551	0.333	1.317e-52	534	0.918	2.34	true	S220	0.5466	retained	H465	0.7258	retained	E351	0.9598	retained	A100	2.918	lost	retained	Ser200 S220 retained
+AF-A0A9Q1BRT1-F1-model_v6	312	1	24	551	0.335	6.068e-50	534	0.9061	2.395	true	G216	0.4179	lost	H453	0.7376	retained	V346	1.414	lost	L101	3.514	lost	lost	Ser200 G not in expected {S}
+AF-A0A8C7PZK8-F1-model_v6	313	1	28	551	0.313	4.191e-47	534	0.8963	2.528	true	S227	0.3784	retained	H456	0.5202	retained	E345	0.7294	retained	E112	10.87	unresolved	retained	Ser200 S227 retained
+AF-A0A9D4CGT1-F1-model_v6	314	1	13	551	0.287	1.121e-46	534	0.8921	2.423	true	S203	0.6447	retained	H452	0.3966	retained	D323	0.9612	altered	L88	7.111	unresolved	retained	Ser200 S203 retained
+AF-A0A0P5IY14-F1-model_v6	315	1	25	551	0.306	5.534e-43	534	0.8804	2.722	true	G206	0.3441	lost	H457	1.238	retained	E338	1.337	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A7R9CL51-F1-model_v6	316	1	30	551	0.278	1.273e-40	534	0.8775	2.346	true	S211	0.8353	retained	H462	0.5435	retained	E345	0.9505	retained	-	NA	unresolved	retained	Ser200 S211 retained
+AF-A0A8F8N552-F1-model_v6	317	1	22	551	0.246	2.324e-38	534	0.8692	2.887	true	S208	0.6797	retained	H458	1.299	retained	D337	1.486	altered	-	NA	unresolved	retained	Ser200 S208 retained
+AF-A0A7E4VUT9-F1-model_v6	318	1	33	551	0.251	1.463e-38	534	0.8685	2.751	true	S218	0.99	retained	H470	0.3351	retained	E344	0.4317	retained	-	NA	unresolved	retained	Ser200 S218 retained
+AF-A0A6J1RZ37-F1-model_v6	319	1	39	551	0.288	5.866e-38	534	0.8111	2.945	true	S253	0.1137	retained	H510	1.089	retained	E393	1.218	retained	H134	8.933	unresolved	retained	Ser200 S253 retained
+AF-A0AAD9L2W2-F1-model_v6	320	1	29	550	0.292	8.391e-47	534	0.8685	2.349	true	S225	0.5251	retained	H442	0.5209	retained	E352	1.087	retained	-	NA	unresolved	retained	Ser200 S225 retained
+AF-H2XK96-F1-model_v6	321	1	28	550	0.3	1.046e-42	534	0.868	2.518	true	S232	0.9179	retained	H465	0.6225	retained	E348	0.4972	retained	V114	6.443	unresolved	retained	Ser200 S232 retained
+AF-A0A7M7Q1B4-F1-model_v6	322	1	38	550	0.282	1.7e-40	534	0.8655	2.617	true	S218	0.4067	retained	H461	0.6917	retained	E346	1.067	retained	-	NA	unresolved	retained	Ser200 S218 retained
+AF-A0A6J0BZI1-F1-model_v6	323	1	26	550	0.277	4.341e-39	534	0.8626	3.033	true	S210	0.6104	retained	H467	0.505	retained	D343	1.272	altered	-	NA	unresolved	retained	Ser200 S210 retained
+AF-A0AAD7FAK5-F1-model_v6	324	1	20	550	0.228	6.361e-36	534	0.8297	3.335	true	S240	1.473	retained	H455	1.036	retained	E367	0.9685	retained	P120	10.8	unresolved	retained	Ser200 S240 retained
+AF-A0A452G1D0-F1-model_v6	325	1	21	549	0.312	1.121e-41	534	0.8932	2.763	true	S214	1.178	retained	H455	0.6673	retained	D340	0.8082	altered	-	NA	unresolved	retained	Ser200 S214 retained
+AF-A0AAV5AD74-F1-model_v6	326	1	29	549	0.245	1.721e-34	534	0.8374	3.379	true	S219	0.8436	retained	H454	1.398	retained	D353	0.9932	altered	-	NA	unresolved	retained	Ser200 S219 retained
+AF-A0A8R1DF65-F1-model_v6	327	1	9	548	0.344	1.021e-54	534	0.9261	2.146	true	S192	0.2459	retained	H452	0.506	retained	E322	0.7131	retained	W78	0.5516	retained	retained	Ser200 S192 retained
+AF-A0A8C9ZGY3-F1-model_v6	328	1	29	548	0.325	4.047e-50	534	0.9022	2.424	true	S223	0.4666	retained	H452	0.7262	retained	E341	0.7531	retained	Q108	9.139	unresolved	retained	Ser200 S223 retained
+AF-A0A8J2JXC7-F1-model_v6	329	1	24	548	0.265	9.646e-40	534	0.8683	2.844	true	S207	0.7801	retained	H460	0.9033	retained	E338	1.668	retained	-	NA	unresolved	retained	Ser200 S207 retained
+AF-A0A2U2BUT4-F1-model_v6	330	1	58	547	0.273	8.015e-41	534	0.8189	3.231	true	S258	0.8379	retained	H458	0.4022	retained	E370	0.5548	retained	V141	7.605	unresolved	retained	Ser200 S258 retained
+AF-A0A0L0HMQ6-F1-model_v6	331	1	27	547	0.258	1.72e-39	534	0.8608	2.82	true	S213	0.6194	retained	H460	0.6555	retained	E353	1.217	retained	-	NA	unresolved	retained	Ser200 S213 retained
+AF-A0AAV2IKH0-F1-model_v6	332	1	27	547	0.25	3.692e-38	534	0.8606	2.503	true	S211	0.3367	retained	H442	1.139	retained	E335	0.927	retained	-	NA	unresolved	retained	Ser200 S211 retained
+AF-A0A7R8SEK3-F1-model_v6	333	1	30	547	0.254	5.934e-37	534	0.8673	3.012	true	S212	0.3834	retained	H466	1.161	retained	E344	1.25	retained	-	NA	unresolved	retained	Ser200 S212 retained
+AF-A0A9X9MF67-F1-model_v6	334	1	28	547	0.248	2.609e-38	534	0.8378	2.997	true	S210	0.9462	retained	H444	1.184	retained	E337	1.017	retained	F95	5.971	unresolved	retained	Ser200 S210 retained
+AF-T1JGH5-F1-model_v6	335	1	16	547	0.235	6.004e-36	534	0.8614	2.679	true	D200	0.2643	lost	H471	0.4614	retained	E333	0.7209	retained	-	NA	unresolved	lost	Ser200 D not in expected {S}
+AF-A0A8K0M994-F1-model_v6	336	1	78	547	0.241	5.41e-35	534	0.8159	3.011	true	S279	0.3552	retained	H476	0.4433	retained	E407	1.187	retained	F161	2.258	altered	retained	Ser200 S279 retained
+AF-A0A1I8PLJ9-F1-model_v6	337	1	34	547	0.226	1.161e-33	534	0.8348	3.224	true	G217	0.4921	lost	H474	1.515	retained	D348	2.063	altered	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A2B8AMD9-F1-model_v6	338	1	66	546	0.314	8.394e-42	534	0.8461	2.202	true	S255	0.3158	retained	H470	0.6884	retained	E366	0.8794	retained	L135	2.573	lost	retained	Ser200 S255 retained
+AF-A0A8S9WQI6-F1-model_v6	339	1	29	546	0.255	1.23e-38	534	0.8605	3.103	true	S211	0.1204	retained	H453	0.8101	retained	E334	1.365	retained	P99	10.65	unresolved	retained	Ser200 S211 retained
+AF-A0A0K0F5D5-F1-model_v6	340	1	24	546	0.215	3.069e-34	534	0.8455	3.139	true	S222	0.8639	retained	H457	1.131	retained	E352	1.336	retained	-	NA	unresolved	retained	Ser200 S222 retained
+AF-A0A427YLD1-F1-model_v6	341	1	49	546	0.217	1.447e-29	534	0.8174	3.038	true	S215	0.4868	retained	H455	0.8666	retained	E341	0.7809	retained	I126	4.485	unresolved	retained	Ser200 S215 retained
+AF-A0A8B6DLY9-F1-model_v6	342	1	23	545	0.29	5.863e-43	534	0.8821	2.636	true	S209	0.7539	retained	H457	0.3486	retained	E337	0.1891	retained	-	NA	unresolved	retained	Ser200 S209 retained
+AF-A0A2A6BGG9-F1-model_v6	343	1	22	545	0.265	5.223e-43	534	0.8779	2.838	true	S210	0.6666	retained	H455	0.4384	retained	E341	0.4509	retained	-	NA	unresolved	retained	Ser200 S210 retained
+AF-A0A6P4XVT1-F1-model_v6	344	1	31	545	0.287	8.998e-41	534	0.8679	2.591	true	S216	0.3112	retained	H455	0.7246	retained	E344	0.5279	retained	M98	2.819	lost	retained	Ser200 S216 retained
+AF-A0A7S9VWI4-F1-model_v6	345	1	38	545	0.254	1.463e-38	534	0.8448	2.812	true	S221	1.253	retained	H447	0.2946	retained	E345	0.3709	retained	W103	4.716	unresolved	retained	Ser200 S221 retained
+AF-A0A913XLI5-F1-model_v6	346	1	25	544	0.355	4.389e-48	534	0.9054	1.94	true	S209	0.4682	retained	H452	0.3796	retained	E329	0.4874	retained	G92	5.627	unresolved	retained	Ser200 S209 retained
+AF-A0A8B7K8W9-F1-model_v6	347	1	77	544	0.346	1.318e-42	534	0.8105	2.396	true	S271	0.7065	retained	H499	0.8426	retained	E390	1.117	retained	H156	9.811	unresolved	retained	Ser200 S271 retained
+AF-A0A8C8SQT5-F1-model_v6	348	1	20	544	0.307	1.568e-42	534	0.8925	2.713	true	S209	1.224	retained	H450	0.6323	retained	D335	0.763	altered	-	NA	unresolved	retained	Ser200 S209 retained
+AF-A0A3R7QG22-F1-model_v6	349	1	19	544	0.299	9.315e-43	534	0.8654	2.775	true	N200	0.2842	lost	H448	0.9508	retained	E324	1.439	retained	-	NA	unresolved	lost	Ser200 N not in expected {S}
+AF-A0AAR5P6B5-F1-model_v6	350	1	18	544	0.236	4.6e-39	534	0.8525	2.939	true	S204	0.7051	retained	H446	0.5714	retained	E332	0.6723	retained	-	NA	unresolved	retained	Ser200 S204 retained
+AF-A0A8C9QWR6-F1-model_v6	351	1	33	543	0.334	6.21e-48	534	0.8971	2.222	true	S222	0.6213	retained	H452	0.6087	retained	E339	0.6825	retained	-	NA	unresolved	retained	Ser200 S222 retained
+AF-A0A0N5BT05-F1-model_v6	352	1	2	543	0.277	3.139e-42	534	0.8908	2.392	true	G190	0.6074	lost	H445	0.9951	retained	E320	1.007	retained	W75	1.172	retained	lost	Ser200 G not in expected {S}
+AF-A0A5N4A153-F1-model_v6	353	1	22	543	0.271	3.607e-40	534	0.8692	3.127	true	S206	0.5997	retained	H459	1.703	retained	E335	1.523	retained	-	NA	unresolved	retained	Ser200 S206 retained
+AF-A0AAE1TMY9-F1-model_v6	354	1	31	543	0.256	7.059e-37	534	0.8611	2.626	true	S212	0.4506	retained	H449	0.4313	retained	D334	1.32	altered	-	NA	unresolved	retained	Ser200 S212 retained
+AF-A0A061AXY3-F1-model_v6	355	1	18	543	0.246	5.472e-39	534	0.8505	3.218	true	S206	0.6358	retained	H447	0.8711	retained	E328	1.22	retained	D84	1.819	lost	retained	Ser200 S206 retained
+AF-A0AAE0L572-F1-model_v6	356	1	22	543	0.264	3.289e-38	534	0.8443	3.077	true	S222	1.339	retained	H465	0.6506	retained	D344	0.6675	altered	H105	13.05	unresolved	retained	Ser200 S222 retained
+AF-A0AAW0XJX0-F1-model_v6	357	1	52	543	0.287	7.567e-36	534	0.8282	3.126	true	S239	0.3474	retained	H486	0.9663	retained	E363	1.312	retained	-	NA	unresolved	retained	Ser200 S239 retained
+AF-C5FXJ1-F1-model_v6	358	1	30	543	0.244	2.702e-35	534	0.8441	3.159	true	S211	0.685	retained	H441	1.178	retained	E337	0.9928	retained	-	NA	unresolved	retained	Ser200 S211 retained
+AF-A0A0Q8PCC4-F1-model_v6	359	1	2	543	0.244	2.071e-33	534	0.7912	3.488	true	S196	0.4244	retained	H461	0.8981	retained	E348	1.054	retained	T74	12.38	unresolved	retained	Ser200 S196 retained
+AF-A0A0C5KNZ2-F1-model_v6	360	1	26	542	0.287	5.599e-42	534	0.8685	2.493	true	S208	0.6061	retained	H455	0.5827	retained	E340	0.4438	retained	-	NA	unresolved	retained	Ser200 S208 retained
+AF-A0ABC9XEQ8-F1-model_v6	361	1	167	542	0.288	4.71e-32	534	0.6915	2.348	true	S255	0.5517	retained	H453	0.2982	retained	E338	0.5408	retained	-	NA	unresolved	retained	Ser200 S255 retained
+AF-A0AAN9B6Z0-F1-model_v6	362	1	20	541	0.31	5.344e-46	534	0.8864	2.12	true	S197	0.4756	retained	H443	0.2377	retained	E331	0.3311	retained	-	NA	unresolved	retained	Ser200 S197 retained
+AF-A0A131YML7-F1-model_v6	363	1	17	541	0.281	2.462e-43	534	0.9011	2.559	true	F211	0.3401	lost	H448	1.134	retained	E329	1.583	retained	L97	5.926	unresolved	lost	Ser200 F not in expected {S}
+AF-A0AAV2HB32-F1-model_v6	364	1	29	541	0.281	9.755e-44	534	0.8767	2.624	true	S209	0.6498	retained	H449	0.6531	retained	E340	0.8849	retained	-	NA	unresolved	retained	Ser200 S209 retained
+AF-A0A955YKR9-F1-model_v6	365	1	44	541	0.283	3.957e-42	534	0.8416	2.793	true	S230	0.5722	retained	H458	1.437	retained	E358	0.9725	retained	-	NA	unresolved	retained	Ser200 S230 retained
+AF-A0A1I7RSM9-F1-model_v6	366	1	16	541	0.254	1.931e-39	534	0.8727	2.81	true	S201	0.5782	retained	H452	0.9967	retained	E322	0.8673	retained	-	NA	unresolved	retained	Ser200 S201 retained
+AF-A0A1B6JIA5-F1-model_v6	367	1	2	541	0.254	6.897e-39	534	0.8746	2.909	true	S196	0.4299	retained	H453	1.013	retained	E329	0.6708	retained	-	NA	unresolved	retained	Ser200 S196 retained
+AF-A0AA36D3U5-F1-model_v6	368	1	5	541	0.255	3.033e-40	534	0.8586	2.867	true	S199	0.5939	retained	H437	0.9916	retained	E322	0.7199	retained	-	NA	unresolved	retained	Ser200 S199 retained
+AF-A0A8W7NZU8-F1-model_v6	369	1	4	541	0.273	1.866e-37	534	0.8682	2.658	true	S188	0.3428	retained	H439	1.081	retained	E322	1.413	retained	-	NA	unresolved	retained	Ser200 S188 retained
+AF-A0A3S2PAK4-F1-model_v6	370	1	49	541	0.287	2.83e-36	534	0.8558	3.186	true	S204	0.9634	retained	H447	0.703	retained	D332	1.123	altered	-	NA	unresolved	retained	Ser200 S204 retained
+AF-A0A5N5CVT9-F1-model_v6	371	1	19	541	0.233	6.217e-33	534	0.8291	3.028	true	S210	0.8627	retained	H431	0.7443	retained	E336	0.5996	retained	-	NA	unresolved	retained	Ser200 S210 retained
+AF-A0A166PVE6-F1-model_v6	372	1	35	541	0.21	4.877e-29	534	0.7464	3.337	true	A256	1.559	lost	H498	1.097	retained	E407	1.08	retained	-	NA	unresolved	lost	Ser200 A not in expected {S}
+AF-A0AAD8CCG2-F1-model_v6	373	1	26	540	0.323	9.531e-46	534	0.887	2.288	true	S206	0.4829	retained	H445	0.3254	retained	E337	0.4362	retained	-	NA	unresolved	retained	Ser200 S206 retained
+AF-A0A8D8X1N2-F1-model_v6	374	1	18	540	0.286	2.862e-40	534	0.8717	3.12	true	S204	0.4726	retained	H452	1.43	retained	E330	1.649	retained	-	NA	unresolved	retained	Ser200 S204 retained
+AF-A0A2Z4HPR5-F1-model_v6	375	1	7	540	0.296	9.646e-40	534	0.8559	3.178	true	S190	0.6037	retained	H449	0.9714	retained	E325	1.375	retained	-	NA	unresolved	retained	Ser200 S190 retained
+AF-A0A7W7L859-F1-model_v6	376	1	45	540	0.264	3.444e-39	534	0.851	2.754	true	S232	0.1941	retained	H456	0.8193	retained	E350	1.255	retained	D115	4.491	unresolved	retained	Ser200 S232 retained
+AF-A0A0D1YW62-F1-model_v6	377	1	26	540	0.254	9.21e-39	534	0.8656	2.566	true	S209	0.7649	retained	H448	0.6872	retained	E334	0.9775	retained	-	NA	unresolved	retained	Ser200 S209 retained
+AF-A0A8S1EN92-F1-model_v6	378	1	24	540	0.229	4.194e-37	534	0.8555	2.851	true	S203	0.9046	retained	H453	0.879	retained	E332	1.054	retained	-	NA	unresolved	retained	Ser200 S203 retained
+AF-A0A9P4I592-F1-model_v6	379	1	28	540	0.249	3.824e-35	534	0.8354	3.209	true	S220	0.6636	retained	H443	0.6123	retained	E342	0.5418	retained	N104	3.214	lost	retained	Ser200 S220 retained
+AF-A0A0A1T8L7-F1-model_v6	380	1	24	540	0.243	8.797e-33	534	0.7895	3.709	true	S238	0.3495	retained	H452	0.857	retained	E358	1.216	retained	-	NA	unresolved	retained	Ser200 S238 retained
+AF-A0AAW1IFE1-F1-model_v6	381	1	21	539	0.252	3.65e-39	534	0.8572	2.671	true	S208	0.5239	retained	H443	0.4442	retained	E334	1.404	retained	-	NA	unresolved	retained	Ser200 S208 retained
+AF-A0A7M7G3W7-F1-model_v6	382	1	24	539	0.269	1.011e-35	534	0.8661	3.056	true	S208	0.6213	retained	H458	1.571	retained	E336	1.6	retained	-	NA	unresolved	retained	Ser200 S208 retained
+AF-A0A9Q8SIX7-F1-model_v6	383	1	30	539	0.281	2.245e-36	534	0.8234	3.12	true	S218	0.3951	retained	H449	0.5288	retained	E349	0.3717	retained	M100	1.502	lost	retained	Ser200 S218 retained
+AF-A0A9P1HJD3-F1-model_v6	384	1	19	539	0.256	1.135e-35	534	0.869	2.952	true	S203	0.753	retained	H457	0.5002	retained	D326	1.107	altered	-	NA	unresolved	retained	Ser200 S203 retained
+AF-A0A353WPR2-F1-model_v6	385	1	40	539	0.228	1.011e-35	534	0.7878	3.459	true	S240	0.7422	retained	H452	0.6768	retained	E364	1.074	retained	Q118	6.723	unresolved	retained	Ser200 S240 retained
+AF-A0A7R9K7I1-F1-model_v6	386	1	8	539	0.271	1.398e-32	534	0.8229	3.309	true	S156	0.2628	retained	H441	0.7699	retained	D291	1.221	altered	-	NA	unresolved	retained	Ser200 S156 retained
+AF-A0A1L9TU55-F1-model_v6	387	1	29	539	0.241	2.492e-32	534	0.8046	3.285	true	S236	0.6731	retained	H447	0.9398	retained	E357	0.9456	retained	A109	5.756	unresolved	retained	Ser200 S236 retained
+AF-T1JW43-F1-model_v6	388	1	33	539	0.225	5.35e-31	534	0.776	3.786	true	D225	0.3405	lost	L470	8.962	unresolved	E344	0.856	retained	S109	10.44	unresolved	lost	Ser200 D not in expected {S}
+AF-A9V9I9-F1-model_v6	389	1	30	538	0.282	3.523e-47	534	0.8611	2.729	true	S221	0.6112	retained	H443	0.3689	retained	E344	0.6763	retained	-	NA	unresolved	retained	Ser200 S221 retained
+AF-A0AAW3U8K4-F1-model_v6	390	1	41	538	0.285	5.104e-40	534	0.8485	2.785	true	S219	0.819	retained	H445	1.482	retained	E342	1.834	retained	-	NA	unresolved	retained	Ser200 S219 retained
+AF-J2B5V7-F1-model_v6	391	1	54	538	0.282	2.143e-40	534	0.8243	3.056	true	S232	0.7339	retained	H454	0.7016	retained	E350	1.364	retained	F119	2.219	altered	retained	Ser200 S232 retained
+AF-A0A3G8GJA3-F1-model_v6	392	1	53	538	0.241	1.303e-38	534	0.8188	2.901	true	S239	0.4088	retained	H459	0.6794	retained	E363	0.5	retained	-	NA	unresolved	retained	Ser200 S239 retained
+AF-A0A9P0AJZ4-F1-model_v6	393	1	22	538	0.273	1.823e-39	534	0.8588	3.031	true	S210	0.3555	retained	H455	1.014	retained	E336	1.414	retained	-	NA	unresolved	retained	Ser200 S210 retained
+AF-A0A6I4I8G6-F1-model_v6	394	1	38	538	0.26	1.954e-38	534	0.8201	2.949	true	S221	0.4882	retained	H451	0.2415	retained	E351	0.6654	retained	-	NA	unresolved	retained	Ser200 S221 retained
+AF-A0A6A4J3K3-F1-model_v6	395	1	23	538	0.259	2e-36	534	0.8468	3.169	true	S204	0.5226	retained	H453	1.426	retained	E332	1.553	retained	-	NA	unresolved	retained	Ser200 S204 retained
+AF-A0A2N5CSX7-F1-model_v6	396	1	68	538	0.268	4.876e-34	534	0.807	2.667	true	S255	1.33	retained	H467	1.014	retained	E375	1.151	retained	A137	8.004	unresolved	retained	Ser200 S255 retained
+AF-A0AAD6VAW5-F1-model_v6	397	1	23	538	0.244	1.932e-34	534	0.8335	3.066	true	S207	0.4076	retained	H449	1.177	retained	E325	1.348	retained	-	NA	unresolved	retained	Ser200 S207 retained
+AF-A0A158P517-F1-model_v6	398	1	25	537	0.297	4.291e-40	534	0.8711	2.396	true	S223	0.5097	retained	H449	0.4506	retained	E333	0.6244	retained	N98	3.52	lost	retained	Ser200 S223 retained
+AF-A0A2E7ITX2-F1-model_v6	399	1	43	537	0.276	1.55e-38	534	0.8415	2.64	true	S229	0.7353	retained	H439	0.5995	retained	E354	0.2706	retained	-	NA	unresolved	retained	Ser200 S229 retained
+AF-A0A940FZH3-F1-model_v6	400	1	28	537	0.248	7.743e-39	534	0.8292	3.19	true	S228	0.9447	retained	H433	0.5041	retained	D340	0.5162	altered	T105	6.458	unresolved	retained	Ser200 S228 retained
+AF-A0A0M3HWG3-F1-model_v6	401	1	19	537	0.252	1.954e-38	534	0.8424	3.078	true	S204	0.9249	retained	H449	0.4433	retained	E337	0.147	retained	W83	10.2	unresolved	retained	Ser200 S204 retained
+AF-A0AAD6STJ8-F1-model_v6	402	1	25	537	0.246	1.681e-36	534	0.8514	2.594	true	S216	0.6773	retained	H459	0.9508	retained	E344	0.74	retained	-	NA	unresolved	retained	Ser200 S216 retained
+AF-A0A5N6YCV3-F1-model_v6	403	1	18	537	0.26	8.897e-37	534	0.8263	3.525	true	S222	0.7577	retained	H446	1.26	retained	E339	1.572	retained	N104	2.784	lost	retained	Ser200 S222 retained
+AF-A0A5N5D6T8-F1-model_v6	404	1	24	537	0.22	2.144e-35	534	0.8217	2.757	true	S239	0.3342	retained	H449	0.4657	retained	E381	1.202	retained	F117	2.372	altered	retained	Ser200 S239 retained
+AF-A0A1D2N0B0-F1-model_v6	405	1	16	537	0.25	1.866e-32	534	0.8287	2.676	true	R202	0.9153	lost	E446	1.254	lost	E330	0.3358	retained	L84	3.846	lost	lost	Ser200 R not in expected {S}
+AF-A0A955V443-F1-model_v6	406	1	17	537	0.262	5.8e-34	534	0.8174	3.127	true	S216	0.7193	retained	H450	0.7981	retained	E365	1.153	retained	G87	11.37	unresolved	retained	Ser200 S216 retained
+AF-A0A0N4ZAC4-F1-model_v6	407	1	3	536	0.256	4.494e-41	534	0.8788	2.289	true	S188	0.4134	retained	H438	0.4493	retained	E313	0.7035	retained	-	NA	unresolved	retained	Ser200 S188 retained
+AF-A0A5N4B4R1-F1-model_v6	408	1	5	536	0.266	7.48e-37	534	0.8607	3.032	true	D192	0.3524	lost	H451	0.4258	retained	E320	0.6807	retained	F75	8.41	unresolved	lost	Ser200 D not in expected {S}
+AF-A0A8H3I7I3-F1-model_v6	409	1	32	536	0.245	2.58e-34	534	0.8377	2.752	true	S241	0.2532	retained	H444	0.5916	retained	E372	0.8237	retained	I122	1.979	lost	retained	Ser200 S241 retained
+AF-A0A0C3C5Q0-F1-model_v6	410	1	28	536	0.24	4.765e-31	534	0.7793	3.461	true	S245	1.164	retained	H458	0.6197	retained	E366	0.6533	retained	-	NA	unresolved	retained	Ser200 S245 retained
+AF-A0A426VBK8-F1-model_v6	411	1	37	535	0.282	4.291e-40	534	0.8512	2.808	true	S216	0.1522	retained	H447	1.026	retained	E340	1.097	retained	L100	2.515	lost	retained	Ser200 S216 retained
+AF-A0A9D4SV08-F1-model_v6	412	1	32	535	0.298	4.341e-39	534	0.8058	2.892	true	S231	0.3302	retained	H476	0.7796	retained	E359	1.41	retained	I110	5.278	unresolved	retained	Ser200 S231 retained
+AF-A0A641AR72-F1-model_v6	413	1	51	535	0.239	1.721e-34	534	0.807	3.219	true	S235	0.7694	retained	H454	0.6346	retained	E365	1.001	retained	I122	3.395	lost	retained	Ser200 S235 retained
+AF-A0A1H0E5W4-F1-model_v6	414	1	21	535	0.239	5.666e-36	534	0.8068	3.523	true	S216	0.6016	retained	H448	0.1896	retained	E348	0.5113	retained	I100	3.687	lost	retained	Ser200 S216 retained
+AF-A0A9P5JH62-F1-model_v6	415	1	24	535	0.207	1.011e-30	534	0.8313	3.029	true	S204	0.528	retained	H441	0.3785	retained	E327	0.6529	retained	-	NA	unresolved	retained	Ser200 S204 retained
+AF-A0A9J7KAM7-F1-model_v6	416	1	24	534	0.433	2.32e-63	534	0.935	2.085	true	S217	0.4515	retained	H451	0.03314	retained	E338	0.2014	retained	W101	0.1818	retained	retained	Ser200 S217 retained
+AF-A0AB34JFI7-F1-model_v6	417	1	25	534	0.278	4.194e-37	534	0.8401	3.263	true	S215	0.7078	retained	H447	0.08061	retained	D330	0.7148	altered	D92	10.28	unresolved	retained	Ser200 S215 retained
+AF-A0A8H3ILN3-F1-model_v6	418	1	15	533	0.279	6.738e-41	534	0.8635	2.613	true	S204	0.6589	retained	H436	0.3572	retained	E318	0.7888	retained	-	NA	unresolved	retained	Ser200 S204 retained
+AF-A0A2E7CIA0-F1-model_v6	419	1	38	533	0.272	2.733e-39	534	0.8325	2.546	true	S231	0.6047	retained	H452	0.5778	retained	E351	0.5084	retained	-	NA	unresolved	retained	Ser200 S231 retained
+AF-A0A821TAK7-F1-model_v6	420	1	19	533	0.255	9.873e-38	534	0.8586	2.886	true	S202	0.4168	retained	H445	0.5822	retained	E331	0.8473	retained	-	NA	unresolved	retained	Ser200 S202 retained
+AF-A0A0A9ZAI8-F1-model_v6	421	1	31	533	0.267	2.095e-37	534	0.8039	2.57	true	S226	0.4524	retained	H489	0.5889	retained	E364	1.239	retained	-	NA	unresolved	retained	Ser200 S226 retained
+AF-A0A0K8SJ36-F1-model_v6	422	1	20	533	0.278	4.444e-37	534	0.8536	3.139	true	S200	0.6542	retained	H449	1.664	retained	E329	2.244	retained	-	NA	unresolved	retained	Ser200 S200 retained
+AF-A0A6I3F4R4-F1-model_v6	423	1	43	532	0.281	2.608e-43	534	0.8287	3.028	true	S231	0.9208	retained	H445	0.4649	retained	E352	0.3688	retained	M117	1.479	lost	retained	Ser200 S231 retained
+AF-A0A1V1TJS6-F1-model_v6	424	1	27	532	0.282	9.534e-41	534	0.8401	3.45	true	S216	0.7553	retained	H440	0.7579	retained	E339	0.5707	retained	-	NA	unresolved	retained	Ser200 S216 retained
+AF-A0AAN5CRG2-F1-model_v6	425	1	7	532	0.248	9.873e-38	534	0.8781	2.865	true	S191	1.022	retained	H439	0.7646	retained	E316	0.589	retained	-	NA	unresolved	retained	Ser200 S191 retained
+AF-A0A9D7QMS5-F1-model_v6	426	1	32	532	0.277	1.108e-37	534	0.8247	3.349	true	S226	0.8105	retained	H443	0.6939	retained	E349	1.292	retained	F105	2.728	altered	retained	Ser200 S226 retained
+AF-A0A1W4X939-F1-model_v6	427	1	21	532	0.245	2.863e-35	534	0.8622	2.99	true	S207	0.6278	retained	H448	1.591	retained	E335	1.577	retained	-	NA	unresolved	retained	Ser200 S207 retained
+AF-A0A6A6GC70-F1-model_v6	428	1	20	532	0.236	2.119e-36	534	0.8408	3.117	true	S202	0.6896	retained	H432	1.028	retained	E329	0.9762	retained	-	NA	unresolved	retained	Ser200 S202 retained
+AF-A0A084QP96-F1-model_v6	429	1	22	532	0.234	1.135e-35	534	0.8427	3.045	true	S201	0.7294	retained	H434	1.128	retained	G326	1.364	lost	-	NA	unresolved	retained	Ser200 S201 retained
+AF-A0A1L9SD44-F1-model_v6	430	1	5	532	0.245	1.188e-36	534	0.8252	3.459	true	S197	1.232	retained	H442	0.6249	retained	E327	0.4969	retained	T75	6.032	unresolved	retained	Ser200 S197 retained
+AF-A0AAD7F278-F1-model_v6	431	1	24	532	0.233	6.361e-36	534	0.8268	3.128	true	S213	0.8303	retained	H450	0.6253	retained	E339	0.578	retained	-	NA	unresolved	retained	Ser200 S213 retained
+AF-A0A7R8VR99-F1-model_v6	432	1	13	532	0.264	7.836e-33	534	0.8127	3.305	true	S193	1.01	retained	H479	0.7626	retained	E374	1.958	retained	-	NA	unresolved	retained	Ser200 S193 retained
+AF-R7VEI7-F1-model_v6	433	1	3	531	0.31	2.608e-43	534	0.8913	2.59	true	S188	0.5043	retained	H435	0.8895	retained	E310	0.8385	retained	L73	7.429	unresolved	retained	Ser200 S188 retained
+AF-A0A8B6EZX4-F1-model_v6	434	1	35	531	0.284	1.624e-39	534	0.8117	2.542	true	S225	0.4267	retained	H484	0.5774	retained	D361	1.296	altered	-	NA	unresolved	retained	Ser200 S225 retained
+AF-A0A940JM51-F1-model_v6	435	1	46	531	0.244	9.318e-38	534	0.8365	2.989	true	S236	0.8711	retained	H447	0.3487	retained	E350	0.725	retained	G115	3.474	lost	retained	Ser200 S236 retained
+AF-A0A7X1KR62-F1-model_v6	436	1	32	531	0.258	1.011e-35	534	0.8534	2.709	true	S220	0.683	retained	H442	0.4611	retained	E342	0.3105	retained	D102	2.391	lost	retained	Ser200 S220 retained
+AF-A0A9Q0N0L0-F1-model_v6	437	1	21	531	0.258	2.83e-36	534	0.8354	3.066	true	S211	0.535	retained	H434	1.009	retained	E337	1.395	retained	-	NA	unresolved	retained	Ser200 S211 retained
+AF-A0A8H7DB06-F1-model_v6	438	1	26	531	0.252	2.58e-34	534	0.8098	3.26	true	S216	1.608	retained	H424	1.452	retained	E342	1.189	retained	-	NA	unresolved	retained	Ser200 S216 retained
+AF-A0AA40ZVR7-F1-model_v6	439	1	22	531	0.263	1.932e-34	534	0.7964	3.389	true	S211	0.7503	retained	H448	0.725	retained	E345	1.34	retained	M90	4.213	unresolved	retained	Ser200 S211 retained
+AF-A0A3S0ZYH2-F1-model_v6	440	1	25	531	0.283	2.246e-31	534	0.7969	3.059	true	S211	0.6415	retained	H432	0.3204	retained	E356	0.5957	retained	-	NA	unresolved	retained	Ser200 S211 retained
+AF-T1J3T4-F1-model_v6	441	1	89	531	0.191	6.982e-28	534	0.7259	3.197	true	G286	0.8605	lost	P456	1.767	lost	V352	1.657	lost	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A0D2N344-F1-model_v6	442	1	16	530	0.254	1.91e-35	534	0.8359	3.035	true	S205	0.4275	retained	H450	0.6139	retained	E334	0.6822	retained	-	NA	unresolved	retained	Ser200 S205 retained
+AF-A7SIV4-F1-model_v6	443	1	1	529	0.339	1.302e-48	534	0.9136	2.118	true	S193	0.6233	retained	H431	0.9497	retained	E319	1.329	retained	-	NA	unresolved	retained	Ser200 S193 retained
+AF-A0A932G685-F1-model_v6	444	1	41	529	0.322	1.147e-44	534	0.8586	2.564	true	S232	0.6261	retained	H448	0.8065	retained	E351	1.047	retained	-	NA	unresolved	retained	Ser200 S232 retained
+AF-A0A7G3A7M2-F1-model_v6	445	1	2	529	0.272	8.109e-40	534	0.8685	2.882	true	S185	0.1907	retained	H439	0.6047	retained	E318	1.011	retained	-	NA	unresolved	retained	Ser200 S185 retained
+AF-A0A2K5EPK2-F1-model_v6	446	1	38	528	0.582	1.119e-71	534	0.9219	1.826	true	S234	0.2418	retained	H478	0.07746	retained	E365	0.5388	retained	W117	0.3098	retained	retained	Ser200 S234 retained
+AF-T1HC30-F1-model_v6	447	1	14	528	0.276	7.564e-41	534	0.8621	2.935	true	S201	0.6062	retained	H445	0.8625	retained	E328	1.066	retained	-	NA	unresolved	retained	Ser200 S201 retained
+AF-A0A7F5RMC7-F1-model_v6	448	1	1	528	0.277	1.909e-40	534	0.8671	2.882	true	S186	0.554	retained	H431	0.7759	retained	E313	1.134	retained	-	NA	unresolved	retained	Ser200 S186 retained
+AF-A0A6B3B8V5-F1-model_v6	449	1	36	528	0.272	1.7e-40	534	0.8354	2.807	true	S218	0.8519	retained	H442	0.6762	retained	E336	0.6367	retained	I105	2.537	lost	retained	Ser200 S218 retained
+AF-A0A9W6MFE3-F1-model_v6	450	1	38	528	0.249	3.692e-38	534	0.8267	2.697	true	S214	0.5699	retained	H448	0.8531	retained	E345	1.341	retained	-	NA	unresolved	retained	Ser200 S214 retained
+AF-A0AAN8JPQ7-F1-model_v6	451	1	24	528	0.274	1.954e-38	534	0.8349	2.718	true	E214	1.025	lost	T435	3.056	lost	M335	1.621	lost	F99	10.14	unresolved	lost	Ser200 E not in expected {S}
+AF-A0A093X9T7-F1-model_v6	452	1	28	528	0.234	1.823e-34	534	0.7882	3.039	true	S212	0.8074	retained	H454	0.6281	retained	E339	0.6671	retained	-	NA	unresolved	retained	Ser200 S212 retained
+AF-A0A1B0DKS7-F1-model_v6	453	1	211	528	0.27	4.501e-21	534	0.5233	2.348	true	G398	0.2702	lost	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A935KNA2-F1-model_v6	454	1	34	527	0.338	9.1e-45	534	0.8681	2.623	true	S218	0.3343	retained	H445	0.7639	retained	E345	0.8526	retained	-	NA	unresolved	retained	Ser200 S218 retained
+AF-A0A8W8IIX7-F1-model_v6	455	1	9	527	0.283	4.762e-41	534	0.8741	2.871	true	S204	0.357	retained	H434	0.8661	retained	E326	1.503	retained	F88	5.764	unresolved	retained	Ser200 S204 retained
+AF-A0AAJ6QQN6-F1-model_v6	456	1	17	527	0.271	6.509e-39	534	0.8802	2.703	true	S202	0.4547	retained	H447	1.539	retained	E329	1.158	retained	L87	1.261	lost	retained	Ser200 S202 retained
+AF-A0A2T5MD84-F1-model_v6	457	1	43	527	0.258	4.05e-40	534	0.8216	2.829	true	S234	0.5747	retained	H446	0.2772	retained	E361	0.9722	retained	T113	2.596	lost	retained	Ser200 S234 retained
+AF-A0A8S1C6R3-F1-model_v6	458	1	4	527	0.267	1.23e-38	534	0.8654	2.724	true	S187	0.3653	retained	H430	0.913	retained	E313	1.262	retained	-	NA	unresolved	retained	Ser200 S187 retained
+AF-A0A9P5DUP1-F1-model_v6	459	1	23	527	0.257	5.934e-37	534	0.8468	3.221	true	S206	0.6192	retained	H437	1.333	retained	G333	1.197	lost	-	NA	unresolved	retained	Ser200 S206 retained
+AF-A0A1H3WNN7-F1-model_v6	460	1	67	527	0.235	1.216e-34	534	0.8165	2.73	true	S247	1.036	retained	H455	0.9132	retained	E364	0.5741	retained	-	NA	unresolved	retained	Ser200 S247 retained
+AF-A0A2H1VWF0-F1-model_v6	461	1	27	527	0.227	2.001e-31	534	0.8201	3.392	true	G204	0.6585	lost	N449	1.634	lost	E330	1.517	retained	F91	1.666	altered	lost	Ser200 G not in expected {S}
+AF-A0A1H5YIH1-F1-model_v6	462	1	46	526	0.309	1.01e-40	534	0.8409	2.378	true	S234	0.4014	retained	H450	0.8003	retained	E346	0.8603	retained	L114	2.622	lost	retained	Ser200 S234 retained
+AF-A0A523M9Y2-F1-model_v6	463	1	31	526	0.274	7.139e-41	534	0.8322	2.927	true	S220	0.5855	retained	H433	0.5621	retained	E347	0.6958	retained	-	NA	unresolved	retained	Ser200 S220 retained
+AF-A0A6V8QR20-F1-model_v6	464	1	26	526	0.265	2.579e-39	534	0.8331	3.063	true	S207	0.8107	retained	H437	1.054	retained	E333	1.162	retained	-	NA	unresolved	retained	Ser200 S207 retained
+AF-D1BEC0-F1-model_v6	465	1	19	526	0.265	1.498e-36	534	0.8534	2.882	true	S216	0.9747	retained	H439	0.3666	retained	E339	0.3857	retained	R94	7.817	unresolved	retained	Ser200 S216 retained
+AF-A0A1L8D6P7-F1-model_v6	466	1	35	526	0.221	7.57e-31	534	0.8506	3.374	true	S224	0.2574	retained	H466	0.729	retained	E357	0.7753	retained	L105	4.004	unresolved	retained	Ser200 S224 retained
+AF-A0A3R5YQU3-F1-model_v6	467	1	26	526	0.189	8.21e-29	534	0.7776	3.528	true	S211	0.7598	retained	H431	0.784	retained	E343	1.599	retained	-	NA	unresolved	retained	Ser200 S211 retained
+AF-A0A8K0AGQ9-F1-model_v6	468	1	21	525	0.351	8.009e-51	534	0.8898	2.322	true	S198	0.4048	retained	H433	0.7455	retained	E324	0.8016	retained	-	NA	unresolved	retained	Ser200 S198 retained
+AF-A0A0N4ZD89-F1-model_v6	469	1	21	525	0.301	5.408e-40	534	0.8529	2.835	true	D694	0.4382	lost	H947	1.129	retained	E830	1.049	retained	W579	1.302	retained	lost	Ser200 D not in expected {S}
+AF-A0A6J2JNT2-F1-model_v6	470	1	23	525	0.264	5.41e-35	534	0.8318	3.113	true	S191	0.2829	retained	H435	1.021	retained	E317	1.377	retained	-	NA	unresolved	retained	Ser200 S191 retained
+AF-A0A4Q4USQ3-F1-model_v6	471	1	34	525	0.259	7.225e-35	534	0.8386	3.086	true	S223	0.4635	retained	H438	0.4974	retained	E341	0.5446	retained	-	NA	unresolved	retained	Ser200 S223 retained
+AF-A0AAQ4ELG0-F1-model_v6	472	1	89	525	0.241	6.665e-32	534	0.7431	2.756	true	E277	0.6061	lost	Q428	0.7641	lost	E331	0.8946	retained	L162	5.532	unresolved	lost	Ser200 E not in expected {S}
+AF-A0AAV8YJT5-F1-model_v6	473	1	42	525	0.252	3.61e-30	534	0.8118	3.398	true	S206	0.2919	retained	H435	0.9003	retained	E323	1.182	retained	-	NA	unresolved	retained	Ser200 S206 retained
+AF-A0AAQ4DXR6-F1-model_v6	474	1	1	524	0.336	2.093e-47	534	0.8932	2.364	true	S185	0.412	retained	H428	1.046	retained	E314	1.259	retained	I65	3.668	lost	retained	Ser200 S185 retained
+AF-Q2V083-F1-model_v6	475	1	1	524	0.28	3.213e-40	534	0.8841	2.419	true	S186	0.2157	retained	H434	0.6838	retained	E313	0.7679	retained	-	NA	unresolved	retained	Ser200 S186 retained
+AF-A0A2J7RMN3-F1-model_v6	476	1	3	524	0.294	4.097e-39	534	0.8366	3.236	true	S189	0.2368	retained	H444	1.132	retained	E324	1.599	retained	-	NA	unresolved	retained	Ser200 S189 retained
+AF-A0A1E4JZP1-F1-model_v6	477	1	39	524	0.243	6.74e-36	534	0.8288	2.885	true	S223	0.657	retained	H438	0.39	retained	E341	0.6196	retained	-	NA	unresolved	retained	Ser200 S223 retained
+AF-A0A4P7HDF0-F1-model_v6	478	1	2	524	0.267	1.334e-36	534	0.8241	3.173	true	S186	0.7314	retained	H440	0.5899	retained	E311	0.2869	retained	-	NA	unresolved	retained	Ser200 S186 retained
+AF-A0A1B0BPB4-F1-model_v6	479	1	206	524	0.248	2.222e-22	534	0.5438	2.383	true	A392	0.2164	lost	-	NA	unresolved	A521	0.7352	lost	-	NA	unresolved	lost	Ser200 A not in expected {S}
+AF-A0A9N9WUU0-F1-model_v6	480	1	21	523	0.288	1.429e-40	534	0.858	3.028	true	S199	0.7278	retained	H443	0.5975	retained	E326	0.7972	retained	-	NA	unresolved	retained	Ser200 S199 retained
+AF-A0A834MJ08-F1-model_v6	481	1	1	523	0.266	1.161e-38	534	0.8525	3.266	true	S191	0.3684	retained	H433	0.6121	retained	E319	0.7488	retained	-	NA	unresolved	retained	Ser200 S191 retained
+AF-A0AAE0C3N9-F1-model_v6	482	1	11	523	0.265	9.759e-39	534	0.8474	3.072	true	S196	0.4395	retained	H434	0.2004	retained	E324	0.2759	retained	S81	8.98	unresolved	retained	Ser200 S196 retained
+AF-A0A4S9AJ09-F1-model_v6	483	1	29	523	0.241	2.702e-35	534	0.8242	3.102	true	S220	0.4531	retained	H431	0.7142	retained	E334	0.6892	retained	G102	5.288	unresolved	retained	Ser200 S220 retained
+AF-A0A9J6H4E4-F1-model_v6	484	1	69	523	0.222	2.436e-29	534	0.7334	3.458	true	E264	0.13	lost	A439	9.466	unresolved	-	NA	unresolved	-	NA	unresolved	lost	Ser200 E not in expected {S}
+AF-A0A955ZL69-F1-model_v6	485	1	39	522	0.334	2.142e-45	534	0.8496	2.734	true	S222	0.4072	retained	H442	0.5377	retained	E344	0.4888	retained	-	NA	unresolved	retained	Ser200 S222 retained
+AF-A0A8F8MYY8-F1-model_v6	486	1	1	522	0.279	3.822e-40	534	0.8671	2.801	true	S186	0.5449	retained	H429	0.8505	retained	E314	1.262	retained	-	NA	unresolved	retained	Ser200 S186 retained
+AF-A0A437MM15-F1-model_v6	487	1	26	522	0.261	1.931e-39	534	0.8389	3.127	true	S221	0.5177	retained	H437	0.6604	retained	E336	0.9807	retained	Y101	3.138	altered	retained	Ser200 S221 retained
+AF-A0AAV8ZJD2-F1-model_v6	488	1	11	522	0.266	7.307e-39	534	0.8662	2.796	true	S194	0.5804	retained	H435	0.3611	retained	E324	0.8374	retained	-	NA	unresolved	retained	Ser200 S194 retained
+AF-A0A8J4YR21-F1-model_v6	489	1	64	522	0.231	2.611e-28	534	0.7268	3.249	true	S257	0.4574	retained	H419	0.7608	retained	-	NA	unresolved	-	NA	unresolved	retained	Ser200 S257 retained
+AF-A0A8I1R1G6-F1-model_v6	490	1	29	521	0.306	3.566e-41	534	0.8166	3.216	true	S208	0.3422	retained	H432	0.1744	retained	D343	1.158	altered	-	NA	unresolved	retained	Ser200 S208 retained
+AF-A0A4Q3XN05-F1-model_v6	491	1	27	521	0.262	2.271e-40	534	0.8408	3.078	true	S215	0.8415	retained	H431	0.4837	retained	E333	0.6078	retained	E97	3.08	lost	retained	Ser200 S215 retained
+AF-A0A9P0HSM7-F1-model_v6	492	1	21	521	0.256	9.873e-38	534	0.8437	3.128	true	S202	0.5183	retained	H434	0.8266	retained	D325	0.7768	altered	-	NA	unresolved	retained	Ser200 S202 retained
+AF-A0A6B0XL71-F1-model_v6	493	1	28	521	0.262	5.106e-35	534	0.8304	2.706	true	S220	0.709	retained	H431	0.4449	retained	E339	0.3583	retained	-	NA	unresolved	retained	Ser200 S220 retained
+AF-A0A8I1RVD0-F1-model_v6	494	1	15	521	0.249	2.999e-36	534	0.8372	3.126	true	S196	0.3444	retained	H434	0.9266	retained	E315	1.27	retained	A86	3.573	lost	retained	Ser200 S196 retained
+AF-A0AAE1BBN1-F1-model_v6	495	1	12	521	0.266	3.868e-34	534	0.8455	2.53	true	S177	0.5174	retained	H434	0.5946	retained	E319	0.8452	retained	-	NA	unresolved	retained	Ser200 S177 retained
+AF-G5IFJ5-F1-model_v6	496	1	1	521	0.229	4.548e-35	534	0.8032	3.608	true	S200	0.7394	retained	H429	0.8943	retained	E317	0.8668	retained	-	NA	unresolved	retained	Ser200 S200 retained
+AF-A0A7S4I7T1-F1-model_v6	497	1	25	520	0.302	2.462e-43	534	0.861	2.334	true	S218	0.3867	retained	H430	0.7823	retained	E332	1.085	retained	Y94	1.692	altered	retained	Ser200 S218 retained
+AF-A0A3N0GY69-F1-model_v6	498	1	5	520	0.24	2.297e-39	534	0.8552	2.694	true	S193	0.8142	retained	H425	0.1187	retained	E318	0.2205	retained	W71	1.396	retained	retained	Ser200 S193 retained
+AF-H2Y0W3-F1-model_v6	499	1	6	519	0.313	3.103e-43	534	0.8709	2.503	true	S204	0.0369	retained	H424	0.74	retained	E319	0.8006	retained	I89	5.45	unresolved	retained	Ser200 S204 retained
+AF-A0A8J3TCP6-F1-model_v6	500	1	30	519	0.291	1.161e-38	534	0.8209	2.695	true	S211	0.2573	retained	H430	1.27	retained	E323	1.194	retained	N93	1.169	lost	retained	Ser200 S211 retained
+AF-A0AAU1JV38-F1-model_v6	501	1	29	519	0.295	2.609e-38	534	0.8276	2.737	true	S214	0.5166	retained	H435	0.4749	retained	E331	0.9336	retained	-	NA	unresolved	retained	Ser200 S214 retained
+AF-A0A1E7ZCZ7-F1-model_v6	502	1	19	519	0.252	4.931e-38	534	0.8288	3.248	true	S209	0.788	retained	H430	0.5185	retained	E328	1.254	retained	Y87	0.557	altered	retained	Ser200 S209 retained
+AF-A0A9W8JAN9-F1-model_v6	503	1	19	519	0.274	2.492e-32	534	0.7755	3.203	true	S207	0.6695	retained	H454	0.4455	retained	E337	0.7102	retained	-	NA	unresolved	retained	Ser200 S207 retained
+AF-A0A9P4HUS7-F1-model_v6	504	1	12	519	0.226	6.217e-33	534	0.8019	3.264	true	S199	0.9328	retained	H411	1.253	retained	E327	1.46	retained	-	NA	unresolved	retained	Ser200 S199 retained
+AF-A0A957M343-F1-model_v6	505	1	4	518	0.268	9.104e-40	534	0.8347	3.472	true	S201	1.196	retained	H427	0.8105	retained	E327	1.26	retained	F79	2.293	altered	retained	Ser200 S201 retained
+AF-A0A534QCA1-F1-model_v6	506	1	7	518	0.245	1.844e-38	534	0.8417	2.922	true	S198	0.5705	retained	H437	0.4448	retained	E319	0.8244	retained	M80	2.339	lost	retained	Ser200 S198 retained
+AF-A0A6N9BVN4-F1-model_v6	507	1	1	518	0.274	3.485e-38	534	0.8492	3.108	true	S194	1.17	retained	H433	0.6893	retained	E331	0.7553	retained	P78	7.125	unresolved	retained	Ser200 S194 retained
+AF-G6EG77-F1-model_v6	508	1	22	518	0.27	1.303e-38	534	0.818	3.189	true	S212	0.7031	retained	H423	0.4747	retained	E324	1.304	retained	Y92	3.057	altered	retained	Ser200 S212 retained
+AF-A0A4Q2V5X3-F1-model_v6	509	1	33	518	0.284	5.164e-39	534	0.8221	3.068	true	S225	0.5	retained	H431	0.3229	retained	E339	0.7029	retained	N108	2.505	lost	retained	Ser200 S225 retained
+AF-A0A843LVP7-F1-model_v6	510	1	2	518	0.24	7.225e-35	534	0.8269	3.581	true	S183	0.5398	retained	H431	0.7514	retained	E310	0.4799	retained	K61	4.175	unresolved	retained	Ser200 S183 retained
+AF-A0A3P7P403-F1-model_v6	511	1	2	517	0.313	8.3e-38	534	0.7916	2.336	true	S180	0.5142	retained	H462	0.2021	retained	E321	0.6319	retained	W57	0.6012	retained	retained	Ser200 S180 retained
+AF-A0A6N4TM32-F1-model_v6	512	1	12	517	0.231	1.304e-33	534	0.7578	3.9	true	S196	0.5737	retained	H417	0.5381	retained	E322	1.242	retained	H79	3.872	lost	retained	Ser200 S196 retained
+AF-A0A3S3PDJ2-F1-model_v6	513	1	17	517	0.236	1.644e-23	534	0.6754	2.638	true	G65	0.4772	lost	H403	0.8446	retained	E241	1.102	retained	N7	11.91	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A8J1TSP8-F1-model_v6	514	1	17	516	0.314	1.661e-47	534	0.8728	2.199	true	S200	1.016	retained	H424	0.3207	retained	E318	0.6372	retained	-	NA	unresolved	retained	Ser200 S200 retained
+AF-A0A173L454-F1-model_v6	515	1	29	516	0.25	1.034e-38	534	0.8405	2.847	true	S221	0.6391	retained	H433	0.9548	retained	E332	0.8448	retained	F101	2.769	altered	retained	Ser200 S221 retained
+AF-A0A4C1V0F4-F1-model_v6	516	1	24	516	0.247	3.177e-36	534	0.8386	2.668	true	S198	0.7737	retained	H433	0.8537	retained	E323	1.012	retained	-	NA	unresolved	retained	Ser200 S198 retained
+AF-A0A5P9EYG1-F1-model_v6	517	1	18	516	0.276	3.485e-38	534	0.8255	3.25	true	S208	0.5161	retained	H430	0.1638	retained	E329	0.7675	retained	E85	3.883	lost	retained	Ser200 S208 retained
+AF-A0A8J6LC42-F1-model_v6	518	1	4	516	0.258	2.119e-36	534	0.8338	3.198	true	Q174	0.8084	lost	I418	5.693	unresolved	I303	7.748	unresolved	-	NA	unresolved	lost	Ser200 Q not in expected {S}
+AF-A0A9J6H004-F1-model_v6	519	1	19	515	0.302	2.963e-42	534	0.8392	2.556	true	-	NA	unresolved	H430	1.045	retained	E311	1.2	retained	-	NA	unresolved	unresolved	Ser200: reference position aligned to a gap
+AF-G0HA48-F1-model_v6	520	1	6	515	0.268	7.477e-42	534	0.8468	2.568	true	S197	0.4905	retained	H427	0.6222	retained	E331	0.4826	retained	V79	2.988	lost	retained	Ser200 S197 retained
+AF-A0A972NXS0-F1-model_v6	521	1	1	515	0.247	1.446e-39	534	0.8506	2.916	true	S195	0.5741	retained	H424	1.011	retained	E324	1.024	retained	P74	2.958	lost	retained	Ser200 S195 retained
+AF-A0A0K2T105-F1-model_v6	522	1	49	515	0.225	1.57e-27	534	0.7534	2.863	true	G248	0.4702	lost	H421	0.4643	retained	E332	0.7168	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A7Y9ISW3-F1-model_v6	523	1	40	514	0.269	9.989e-37	534	0.8151	2.73	true	S217	0.273	retained	H428	0.327	retained	E334	0.259	retained	-	NA	unresolved	retained	Ser200 S217 retained
+AF-A0A0M7IH14-F1-model_v6	524	1	32	514	0.257	2.352e-37	534	0.8074	3.009	true	S207	0.2934	retained	H431	0.6372	retained	E330	1.186	retained	-	NA	unresolved	retained	Ser200 S207 retained
+AF-A0A094FX26-F1-model_v6	525	1	19	514	0.246	6.361e-36	534	0.8245	3.089	true	S211	0.4923	retained	H444	1.136	retained	E332	1.144	retained	-	NA	unresolved	retained	Ser200 S211 retained
+AF-A0A4Q3CPT0-F1-model_v6	526	1	47	514	0.256	1.845e-33	534	0.7933	2.849	true	S222	0.7058	retained	H432	0.3499	retained	D346	0.8183	altered	-	NA	unresolved	retained	Ser200 S222 retained
+AF-A0A356KAQ2-F1-model_v6	527	1	23	514	0.248	1.569e-32	534	0.7866	3.112	true	S205	0.4037	retained	H423	0.7879	retained	E343	0.7135	retained	-	NA	unresolved	retained	Ser200 S205 retained
+AF-A0A0C5VMN8-F1-model_v6	528	1	34	514	0.234	1.35e-30	534	0.7418	3.456	true	S233	0.3214	retained	H446	1.019	retained	E353	1.414	retained	T107	11.3	unresolved	retained	Ser200 S233 retained
+AF-A0A8C5AFK9-F1-model_v6	529	1	22	513	0.483	6.274e-67	534	0.9124	1.642	true	S222	0.2065	retained	H462	0.5113	retained	E349	0.6872	retained	W104	0.2926	retained	retained	Ser200 S222 retained
+AF-A0A2E0SAQ6-F1-model_v6	530	1	25	513	0.261	6.072e-40	534	0.8258	2.628	true	S210	0.643	retained	H427	0.6403	retained	E337	0.9429	retained	-	NA	unresolved	retained	Ser200 S210 retained
+AF-A0A2A9G1F9-F1-model_v6	531	1	49	513	0.279	2.64e-37	534	0.8113	2.888	true	S224	0.585	retained	H444	0.6726	retained	E343	0.7136	retained	-	NA	unresolved	retained	Ser200 S224 retained
+AF-A0AAF5DKN4-F1-model_v6	532	1	16	512	0.322	4.929e-43	534	0.8848	2.927	true	G213	0.4515	lost	H467	0.4978	retained	E344	0.882	retained	W96	0.3802	retained	lost	Ser200 G not in expected {S}
+AF-A0AAW1UYY0-F1-model_v6	533	1	1	512	0.272	2.464e-33	534	0.8117	3.256	true	S163	0.4727	retained	H418	0.6114	retained	E298	0.901	retained	-	NA	unresolved	retained	Ser200 S163 retained
+AF-A0AA36DV17-F1-model_v6	534	1	21	512	0.187	5.35e-31	534	0.7848	3.269	true	S207	0.553	retained	H419	0.739	retained	E339	1.273	retained	-	NA	unresolved	retained	Ser200 S207 retained
+AF-A0A7K0RAW8-F1-model_v6	535	1	8	511	0.286	6.285e-42	534	0.8437	2.944	true	S197	0.6199	retained	H421	0.2359	retained	E321	0.6701	retained	L76	7.467	unresolved	retained	Ser200 S197 retained
+AF-A0A7Y8MAW8-F1-model_v6	536	1	25	511	0.275	4.05e-40	534	0.8156	3.139	true	S212	0.6585	retained	H424	0.2328	retained	E334	0.2631	retained	-	NA	unresolved	retained	Ser200 S212 retained
+AF-A0A1V2PYZ4-F1-model_v6	537	1	26	511	0.272	1.161e-38	534	0.8173	2.443	true	S202	0.5537	retained	H427	0.8151	retained	E326	1.084	retained	G91	4.646	unresolved	retained	Ser200 S202 retained
+AF-A0A8H5Y3Q1-F1-model_v6	538	1	14	511	0.269	4.6e-39	534	0.8388	2.947	true	S202	0.9065	retained	H430	0.5142	retained	E333	1.24	retained	L89	3.418	lost	retained	Ser200 S202 retained
+AF-A0A940ZJ49-F1-model_v6	539	1	2	511	0.279	3.251e-39	534	0.8424	2.529	true	S181	0.5925	retained	H419	0.8962	retained	E318	0.9509	retained	-	NA	unresolved	retained	Ser200 S181 retained
+AF-A0A6P4J9K4-F1-model_v6	540	1	22	511	0.275	2.702e-35	534	0.813	3.263	true	S202	0.6707	retained	H452	0.6938	retained	E332	1.083	retained	-	NA	unresolved	retained	Ser200 S202 retained
+AF-L0PE18-F1-model_v6	541	1	159	511	0.271	1.57e-22	534	0.5468	3.775	true	S326	0.4406	retained	-	NA	unresolved	E452	1.284	retained	S226	4.251	unresolved	retained	Ser200 S326 retained
+AF-A0A7F5RI59-F1-model_v6	542	1	92	511	0.199	1.084e-19	534	0.6788	3.966	true	G143	0.6965	lost	H425	0.2671	retained	E285	0.6023	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0AAD8C593-F1-model_v6	543	1	2	510	0.431	1.53e-59	534	0.8988	1.305	true	S161	0.3144	retained	H408	0.3223	retained	E287	0.2613	retained	W44	0.1318	retained	retained	Ser200 S161 retained
+AF-G3Q2T3-F1-model_v6	544	1	42	510	0.309	9.873e-38	534	0.7677	2.616	true	G247	1.059	lost	I487	2.039	lost	E368	0.5875	retained	V129	4.982	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A2E8WPS7-F1-model_v6	545	1	7	510	0.273	5.225e-38	534	0.8243	3.356	true	S200	0.9237	retained	H426	0.6586	retained	E314	1.103	retained	R81	4.279	unresolved	retained	Ser200 S200 retained
+AF-A0A2D7FZF4-F1-model_v6	546	1	5	510	0.258	8.397e-37	534	0.8133	3.586	true	S199	0.6787	retained	H426	0.6386	retained	E314	0.8974	retained	-	NA	unresolved	retained	Ser200 S199 retained
+AF-A0A6V8H969-F1-model_v6	547	1	23	510	0.214	3.07e-29	534	0.7917	3.067	true	S216	0.9455	retained	H428	0.9714	retained	E338	1.175	retained	-	NA	unresolved	retained	Ser200 S216 retained
+AF-A0A084VSA4-F1-model_v6	548	1	2	510	0.215	3.826e-25	534	0.7727	3.118	true	S155	0.3094	retained	H397	0.9597	retained	E283	1.481	retained	-	NA	unresolved	retained	Ser200 S155 retained
+AF-A0A255R3T0-F1-model_v6	549	1	23	509	0.287	2.52e-41	534	0.8318	2.524	true	S207	1.005	retained	H422	0.92	retained	E327	0.6309	retained	N90	5.518	unresolved	retained	Ser200 S207 retained
+AF-A0AAU5I522-F1-model_v6	550	1	11	509	0.262	8.592e-40	534	0.8162	3.157	true	S200	0.986	retained	H423	0.3789	retained	E330	1.272	retained	-	NA	unresolved	retained	Ser200 S200 retained
+AF-A0A963TUS9-F1-model_v6	551	1	26	509	0.261	3.14e-37	534	0.8003	2.935	true	S218	0.7163	retained	H423	0.2965	retained	E341	0.739	retained	-	NA	unresolved	retained	Ser200 S218 retained
+AF-A0A0F7QIF3-F1-model_v6	552	1	3	509	0.236	9.214e-34	534	0.8329	2.866	true	S173	0.1351	retained	H422	1.246	retained	E304	1.217	retained	-	NA	unresolved	retained	Ser200 S173 retained
+AF-A0A7W8HBF9-F1-model_v6	553	1	1	509	0.202	8.4e-32	534	0.8058	3.23	true	S201	0.6007	retained	H432	0.8425	retained	E335	0.2538	retained	H70	9.36	unresolved	retained	Ser200 S201 retained
+AF-A0A935T2E2-F1-model_v6	554	1	4	508	0.284	2.491e-42	534	0.8751	2.589	true	S195	0.5395	retained	H422	0.5946	retained	E317	0.9915	retained	G75	4.244	unresolved	retained	Ser200 S195 retained
+AF-A0A3L8BMW0-F1-model_v6	555	1	3	508	0.275	2.52e-41	534	0.8488	2.627	true	S187	0.2965	retained	H423	0.3062	retained	E317	0.7369	retained	F68	3.439	altered	retained	Ser200 S187 retained
+AF-A0A7Y3M6J7-F1-model_v6	556	1	1	508	0.275	3.822e-40	534	0.8656	2.845	true	S191	0.8775	retained	H419	0.5714	retained	E313	1.389	retained	G75	3.566	lost	retained	Ser200 S191 retained
+AF-A0A9P1C2F7-F1-model_v6	557	1	18	508	0.254	1.174e-37	534	0.8238	2.612	true	S199	0.5362	retained	H421	0.08858	retained	D326	0.8031	altered	-	NA	unresolved	retained	Ser200 S199 retained
+AF-A0A8H3VGF3-F1-model_v6	558	1	38	508	0.28	1.334e-36	534	0.8285	3.143	true	S237	0.5856	retained	H446	0.4311	retained	E345	0.3009	retained	D119	6.79	unresolved	retained	Ser200 S237 retained
+AF-A0A5N6WUT0-F1-model_v6	559	1	320	508	0.147	2.224e-07	534	0.3966	3.83	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+AF-A0A7J7ZSJ6-F1-model_v6	560	1	30	507	0.541	1.697e-70	534	0.8841	1.206	true	S226	0.2882	retained	H466	0.2343	retained	E353	0.5023	retained	W110	0.365	retained	retained	Ser200 S226 retained
+AF-A0AAU6G162-F1-model_v6	561	1	55	507	0.249	1.977e-37	534	0.7925	2.525	true	S242	0.3447	retained	H445	0.9228	retained	E350	1.132	retained	G127	4.06	unresolved	retained	Ser200 S242 retained
+AF-A0A7W4TIW1-F1-model_v6	562	1	4	507	0.257	2.352e-37	534	0.8241	2.84	true	S181	0.5737	retained	H404	0.2899	retained	E308	0.1737	retained	Y69	6.269	unresolved	retained	Ser200 S181 retained
+AF-A0A484FNR6-F1-model_v6	563	1	31	507	0.244	1.802e-35	534	0.8182	2.588	true	S225	0.1479	retained	H408	0.7593	retained	E344	0.8606	retained	F110	3.694	altered	retained	Ser200 S225 retained
+AF-A0A2S7QNU4-F1-model_v6	564	1	21	507	0.233	2.095e-32	534	0.8139	2.444	true	S226	0.3399	retained	H419	0.1478	retained	E351	1.031	retained	A106	2.043	lost	retained	Ser200 S226 retained
+AF-A0A9E2DEH0-F1-model_v6	565	1	24	506	0.28	2.07e-38	534	0.8246	3.091	true	S218	0.6602	retained	H426	0.3237	retained	E337	0.576	retained	V105	11.53	unresolved	retained	Ser200 S218 retained
+AF-A0A9W9Y3S2-F1-model_v6	566	1	29	506	0.261	2.702e-35	534	0.8056	3.326	true	S230	0.3168	retained	H428	0.8537	retained	E357	0.9835	retained	I115	1.687	lost	retained	Ser200 S230 retained
+AF-A0A6G1H8K4-F1-model_v6	567	1	32	506	0.245	2.272e-35	534	0.8036	2.966	true	S234	0.2305	retained	H427	0.9138	retained	E359	0.9436	retained	G115	2.835	lost	retained	Ser200 S234 retained
+AF-A0A3N4M1S4-F1-model_v6	568	1	6	506	0.212	1.91e-30	534	0.8162	3.259	true	S206	0.341	retained	H419	0.4969	retained	E326	0.2931	retained	K84	9.726	unresolved	retained	Ser200 S206 retained
+AF-A0A9N9N1I3-F1-model_v6	569	1	82	506	0.27	4.447e-27	534	0.6387	3.129	true	G296	0.6686	lost	-	NA	unresolved	E456	4.678	unresolved	L174	4.091	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A0N5A6E3-F1-model_v6	570	1	37	505	0.308	5.666e-36	534	0.7736	2.255	true	Q223	0.5286	lost	H488	0.7555	retained	E365	0.8392	retained	W109	1.295	retained	lost	Ser200 Q not in expected {S}
+AF-A0A158M7Z4-F1-model_v6	571	1	6	505	0.242	7.48e-37	534	0.813	3.542	true	S192	0.6373	retained	H418	0.2438	retained	E308	0.8742	retained	N74	0.938	lost	retained	Ser200 S192 retained
+AF-A0A4P7RT47-F1-model_v6	572	1	24	505	0.266	4.051e-35	534	0.8179	3.121	true	S216	0.6435	retained	H419	0.1951	retained	E333	0.1889	retained	G97	3.89	lost	retained	Ser200 S216 retained
+AF-A0A9E5S2F9-F1-model_v6	573	1	11	505	0.232	6.899e-34	534	0.7807	3.674	true	S200	0.5889	retained	H419	0.5512	retained	E313	1.204	retained	Y79	4.64	unresolved	retained	Ser200 S200 retained
+AF-A0A520LE06-F1-model_v6	574	1	18	504	0.268	4.291e-40	534	0.8165	2.428	true	S210	0.6685	retained	H419	0.7825	retained	E332	0.929	retained	-	NA	unresolved	retained	Ser200 S210 retained
+AF-A0A6G0ZG90-F1-model_v6	575	1	25	504	0.256	8.897e-37	534	0.8008	2.84	true	S205	0.4115	retained	H415	0.4593	retained	E301	0.9728	retained	-	NA	unresolved	retained	Ser200 S205 retained
+AF-A0A1A8NRK0-F1-model_v6	576	1	102	504	0.312	8.21e-29	534	0.7262	3.418	true	G159	0.7915	lost	H394	0.2893	retained	E280	0.4389	retained	T36	7.311	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A9D2REX2-F1-model_v6	577	1	7	504	0.23	1.414e-31	534	0.7722	3.858	true	S200	0.7942	retained	H420	0.5929	retained	E323	1.111	retained	L79	7.788	unresolved	retained	Ser200 S200 retained
+AF-A0AAD4KK47-F1-model_v6	578	1	26	503	0.25	5.106e-35	534	0.8011	2.825	true	A220	0.4002	lost	H415	0.6711	retained	E349	0.8712	retained	Y102	2.598	altered	lost	Ser200 A not in expected {S}
+AF-A0A5C3L0X5-F1-model_v6	579	1	26	503	0.233	1.289e-34	534	0.8076	2.943	true	S217	0.545	retained	H411	0.8066	retained	D338	1.47	altered	Q98	1.718	lost	retained	Ser200 S217 retained
+AF-B7ZF10-F1-model_v6	580	1	42	503	0.231	3.961e-27	534	0.7256	3.232	true	S248	1.095	retained	H489	0.3467	retained	E379	0.3703	retained	-	NA	unresolved	retained	Ser200 S248 retained
+AF-A0A0U0ZR56-F1-model_v6	581	1	5	502	0.269	2.829e-41	534	0.8412	2.823	true	S197	0.8662	retained	H418	0.3985	retained	E321	1.092	retained	L77	11.72	unresolved	retained	Ser200 S197 retained
+AF-A0A174R4K2-F1-model_v6	582	1	7	502	0.243	6.662e-37	534	0.8256	2.915	true	S205	0.451	retained	H413	0.5535	retained	E325	0.9383	retained	F83	3.766	altered	retained	Ser200 S205 retained
+AF-A0A7M7M861-F1-model_v6	583	1	24	502	0.239	3.609e-35	534	0.8053	2.779	true	G207	0.3676	lost	-	NA	unresolved	E332	1.318	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A150H4Q7-F1-model_v6	584	1	7	502	0.228	1.845e-33	534	0.8087	3.302	true	S193	0.6382	retained	H417	0.2448	retained	E325	0.8571	retained	-	NA	unresolved	retained	Ser200 S193 retained
+AF-A0A1T4YLP4-F1-model_v6	585	1	5	502	0.246	2.897e-34	534	0.7838	3.417	true	S191	0.9005	retained	H419	0.6244	retained	E329	1.068	retained	I77	3.242	lost	retained	Ser200 S191 retained
+AF-A0A2V1B524-F1-model_v6	586	1	28	502	0.204	2.864e-30	534	0.8073	2.821	true	S233	0.03598	retained	H418	0.595	retained	E353	1.121	retained	F110	2.653	altered	retained	Ser200 S233 retained
+AF-A0AAF3FED9-F1-model_v6	587	1	25	502	0.239	5.35e-31	534	0.7936	3.398	true	S197	0.6155	retained	H432	0.6258	retained	E320	0.5409	retained	-	NA	unresolved	retained	Ser200 S197 retained
+AF-A0A8S1C1X9-F1-model_v6	588	1	49	502	0.25	6.219e-28	534	0.718	2.991	true	T265	0.8181	lost	-	NA	unresolved	E412	0.6751	retained	I145	4.274	unresolved	lost	Ser200 T not in expected {S}
+AF-A0A317LYW1-F1-model_v6	589	1	1	501	0.252	8.794e-38	534	0.8239	2.996	true	S193	0.5215	retained	H415	0.3722	retained	E319	0.3855	retained	T76	3.475	lost	retained	Ser200 S193 retained
+AF-A0A6G0UXG0-F1-model_v6	590	1	7	501	0.272	1.083e-34	534	0.8361	2.885	true	S169	1.193	retained	H421	0.4833	retained	E296	0.7525	retained	-	NA	unresolved	retained	Ser200 S169 retained
+AF-A0A838L201-F1-model_v6	591	1	16	501	0.266	1.046e-32	534	0.8333	2.484	true	S202	0.5883	retained	H428	0.4768	retained	E334	1.007	retained	S90	2.118	lost	retained	Ser200 S202 retained
+AF-A0A1L9PXX8-F1-model_v6	592	1	16	501	0.219	3.527e-32	534	0.7862	2.807	true	S210	0.1896	retained	H423	0.5287	retained	E339	1.029	retained	T91	2.109	lost	retained	Ser200 S210 retained
+AF-W3XNC4-F1-model_v6	593	1	28	500	0.231	2.325e-33	534	0.7916	2.989	true	S237	0.3778	retained	H416	0.6305	retained	E349	0.8626	retained	Y124	3.376	altered	retained	Ser200 S237 retained
+AF-A0A1C7MK07-F1-model_v6	594	1	18	500	0.258	1.933e-29	534	0.7817	2.96	true	S189	1.107	retained	H410	0.6047	retained	E289	0.6162	retained	-	NA	unresolved	retained	Ser200 S189 retained
+AF-B0XAZ4-F1-model_v6	595	1	22	500	0.24	2.096e-27	534	0.7556	2.91	true	S211	0.279	retained	H456	1.039	retained	E341	1.574	retained	-	NA	unresolved	retained	Ser200 S211 retained
+AF-A0A1S8DHB7-F1-model_v6	596	1	1	499	0.267	8.998e-41	534	0.855	2.287	true	S185	0.2093	retained	H409	0.9322	retained	E303	0.7135	retained	-	NA	unresolved	retained	Ser200 S185 retained
+AF-A0AAW0E9U2-F1-model_v6	597	1	24	499	0.248	8.309e-23	534	0.7471	3.217	true	S200	0.4472	retained	H447	0.7638	retained	E326	0.7607	retained	I99	13.35	unresolved	retained	Ser200 S200 retained
+AF-A0A5R8L882-F1-model_v6	598	1	19	498	0.266	6.74e-36	534	0.7898	3.474	true	S199	0.6984	retained	H415	0.1894	retained	E327	0.5619	retained	I86	2.852	lost	retained	Ser200 S199 retained
+AF-A0A5C2S6M5-F1-model_v6	599	1	8	498	0.241	1.782e-31	534	0.7963	2.886	true	S189	0.7742	retained	H423	0.9575	retained	K314	0.9129	lost	I62	2.471	lost	retained	Ser200 S189 retained
+AF-M2R8G9-F1-model_v6	600	1	8	498	0.19	5.542e-23	534	0.8037	3.281	true	G226	0.8443	lost	H483	0.9038	retained	E385	0.6185	retained	P95	11.79	unresolved	lost	Ser200 G not in expected {S}
+AF-A0AAV6C2G6-F1-model_v6	601	1	5	497	0.284	2.963e-42	534	0.8309	2.881	true	S196	1.067	retained	H410	0.596	retained	E315	0.8397	retained	G75	13.1	unresolved	retained	Ser200 S196 retained
+AF-A0A916Y3U3-F1-model_v6	602	1	1	497	0.277	5.472e-39	534	0.8463	2.842	true	S189	0.7935	retained	H411	0.4756	retained	E311	0.7241	retained	-	NA	unresolved	retained	Ser200 S189 retained
+AF-A0A7W0IWH9-F1-model_v6	603	1	4	497	0.26	5.225e-38	534	0.824	3.179	true	S190	0.9251	retained	H413	0.8722	retained	E317	1.183	retained	A69	5.683	unresolved	retained	Ser200 S190 retained
+AF-A0A9W7AFI2-F1-model_v6	604	1	2	497	0.249	2.325e-33	534	0.8106	2.935	true	S176	0.6114	retained	H406	0.2277	retained	E304	0.1069	retained	-	NA	unresolved	retained	Ser200 S176 retained
+AF-A0A9E1GJS8-F1-model_v6	605	1	45	497	0.184	1.431e-25	534	0.7263	3.014	true	S221	0.7148	retained	H408	1.111	retained	E339	2.04	retained	-	NA	unresolved	retained	Ser200 S221 retained
+AF-A0A1Q9HHR4-F1-model_v6	606	1	14	496	0.269	1.446e-39	534	0.8441	2.816	true	S209	0.2584	retained	H412	0.7082	retained	E319	1.222	retained	L88	3.637	lost	retained	Ser200 S209 retained
+AF-A0A8J2LAU9-F1-model_v6	607	1	24	496	0.268	1.202e-35	534	0.7836	2.818	true	S198	0.1957	retained	H451	0.4287	retained	E327	0.8577	retained	-	NA	unresolved	retained	Ser200 S198 retained
+AF-A0A6L2PU99-F1-model_v6	608	1	71	496	0.271	8.118e-25	534	0.6877	3.3	true	G170	0.5346	lost	H451	0.663	retained	E331	0.2113	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A7D6VG68-F1-model_v6	609	1	1	495	0.273	1.74e-38	534	0.8331	2.722	true	S185	0.8	retained	H414	0.3235	retained	E320	0.3217	retained	L73	3.011	lost	retained	Ser200 S185 retained
+AF-A0A8J5TVP0-F1-model_v6	610	1	29	495	0.24	1.319e-32	534	0.7821	3.101	true	S226	0.5876	retained	H406	0.4951	retained	E342	0.9704	retained	F104	2.701	altered	retained	Ser200 S226 retained
+AF-A0A1E3UQP9-F1-model_v6	611	1	11	495	0.229	4.147e-33	534	0.7668	3.614	true	S199	0.5521	retained	H414	0.649	retained	E320	1.204	retained	H79	3.595	lost	retained	Ser200 S199 retained
+AF-A0A1Q4X6M8-F1-model_v6	612	1	4	494	0.276	5.472e-39	534	0.8307	2.93	true	S189	0.6337	retained	H412	0.2664	retained	E316	0.2779	retained	A76	3.553	lost	retained	Ser200 S189 retained
+AF-A0A8C1LLD0-F1-model_v6	613	1	2	494	0.309	1.034e-38	534	0.8437	2.646	true	S181	0.8474	retained	H402	0.3824	retained	D301	0.6715	altered	-	NA	unresolved	retained	Ser200 S181 retained
+AF-A0A356W3R5-F1-model_v6	614	1	1	494	0.226	3.001e-26	534	0.7397	3.631	true	S158	0.4183	retained	H388	0.6078	retained	E303	0.982	retained	R35	9.911	unresolved	retained	Ser200 S158 retained
+AF-A0A2T7PTX6-F1-model_v6	615	1	24	493	0.29	6.074e-35	534	0.7625	2.724	true	S215	0.4864	retained	H438	0.7841	retained	E357	1.028	retained	Q100	7.762	unresolved	retained	Ser200 S215 retained
+AF-A0A5E4QFQ5-F1-model_v6	616	1	25	493	0.275	2.581e-29	534	0.7635	2.799	true	S208	0.1504	retained	H454	0.7206	retained	E340	0.7717	retained	-	NA	unresolved	retained	Ser200 S208 retained
+AF-A0A7W0EVU4-F1-model_v6	617	1	8	492	0.294	5.223e-43	534	0.8406	2.373	true	S201	0.6287	retained	H407	0.7343	retained	E310	1.087	retained	V80	5.542	unresolved	retained	Ser200 S201 retained
+AF-A0A556AYU6-F1-model_v6	618	1	10	492	0.256	1.568e-37	534	0.8363	2.358	true	S193	0.2654	retained	H400	0.8165	retained	E309	1.123	retained	-	NA	unresolved	retained	Ser200 S193 retained
+AF-A0A9P5D0I2-F1-model_v6	619	1	31	492	0.243	3.252e-34	534	0.7806	3.144	true	S231	0.3151	retained	H409	0.5675	retained	E353	0.801	retained	L116	2.942	lost	retained	Ser200 S231 retained
+AF-A0A9P5S825-F1-model_v6	620	1	176	492	0.321	2.121e-26	534	0.55	2.139	true	S371	0.4081	retained	-	NA	unresolved	-	NA	unresolved	Y248	8.068	unresolved	retained	Ser200 S371 retained
+AF-A0A3B4A807-F1-model_v6	621	1	27	491	0.447	1.12e-56	534	0.752	2.445	true	S232	0.3094	retained	-	NA	unresolved	E347	0.6267	retained	W112	0.3406	retained	retained	Ser200 S232 retained
+AF-A0A9P4LXD2-F1-model_v6	622	1	2	491	0.281	3.867e-39	534	0.8214	2.678	true	S187	0.362	retained	H400	0.4486	retained	E307	0.2778	retained	-	NA	unresolved	retained	Ser200 S187 retained
+AF-A0A849IVZ4-F1-model_v6	623	1	1	491	0.257	7.743e-39	534	0.829	2.626	true	S185	0.8831	retained	H412	0.199	retained	E316	0.5302	retained	L73	2.605	lost	retained	Ser200 S185 retained
+AF-Q73QC2-F1-model_v6	624	1	3	491	0.197	4.006e-31	534	0.8049	3.253	true	C200	0.5405	altered	H405	0.3975	retained	E307	1.103	retained	F86	2.342	altered	altered	Ser200 C in altered set
+AF-A0A9X2AFG1-F1-model_v6	625	1	1	490	0.269	1.16e-43	534	0.8496	2.314	true	S195	0.2088	retained	H403	0.5136	retained	E307	0.7949	retained	A73	2.105	lost	retained	Ser200 S195 retained
+AF-A0A9P0KI30-F1-model_v6	626	1	25	490	0.297	6.74e-36	534	0.7704	3.007	true	S204	0.3536	retained	H453	0.6353	retained	E337	0.949	retained	-	NA	unresolved	retained	Ser200 S204 retained
+AF-A0A813HIP7-F1-model_v6	627	1	6	490	0.247	1.319e-32	534	0.7988	3.162	true	S162	0.6255	retained	H393	0.8631	retained	E281	1.475	retained	V50	12.3	unresolved	retained	Ser200 S162 retained
+AF-A0A3E2GTI0-F1-model_v6	628	1	6	489	0.281	1.202e-40	534	0.8315	3.392	true	S191	0.7194	retained	H406	0.7636	retained	E313	0.5726	retained	-	NA	unresolved	retained	Ser200 S191 retained
+AF-A0A0U1DPF9-F1-model_v6	629	1	7	489	0.252	1.058e-36	534	0.8	3.061	true	S195	1.073	retained	H412	0.6779	retained	E319	1.175	retained	L74	12.84	unresolved	retained	Ser200 S195 retained
+AF-C5BY90-F1-model_v6	630	1	4	489	0.243	8.495e-36	534	0.7998	3.287	true	S190	1.025	retained	H415	0.6145	retained	E322	0.849	retained	I76	3.53	lost	retained	Ser200 S190 retained
+AF-A0A8S4RAY3-F1-model_v6	631	1	25	489	0.235	1.203e-30	534	0.7688	2.96	true	G201	0.3672	lost	N450	1.078	lost	E332	1.214	retained	L88	1.077	lost	lost	Ser200 G not in expected {S}
+AF-A0ABD1DPC5-F1-model_v6	632	1	1	489	0.243	1.084e-29	534	0.6023	4.301	true	S192	0.859	retained	-	NA	unresolved	F331	7.559	unresolved	-	NA	unresolved	retained	Ser200 S192 retained
+AF-A0A7C1SPV6-F1-model_v6	633	1	4	489	0.221	3.217e-25	534	0.7015	3.489	true	S147	0.5509	retained	H388	0.98	retained	E303	1.13	retained	E19	13.48	unresolved	retained	Ser200 S147 retained
+AF-A0A8C8RLK3-F1-model_v6	634	1	27	488	0.415	9.417e-52	534	0.8716	2.27	true	D218	0.34	lost	H458	0.6424	retained	E345	0.8497	retained	F103	0.4928	altered	lost	Ser200 D not in expected {S}
+AF-A0A4Z1HT68-F1-model_v6	635	1	43	488	0.244	1.516e-25	534	0.6481	3.32	true	S289	1.445	retained	-	NA	unresolved	E414	0.7301	retained	F160	6.492	unresolved	retained	Ser200 S289 retained
+AF-A0A3D4SZG8-F1-model_v6	636	1	3	487	0.239	1.083e-34	534	0.7767	3.281	true	S188	0.7976	retained	H418	0.5177	retained	E331	0.9272	retained	I71	2.909	lost	retained	Ser200 S188 retained
+AF-A0A8S3XS23-F1-model_v6	637	1	16	486	0.266	7.656e-35	534	0.7806	2.71	true	G195	0.7684	lost	H443	1.709	retained	E324	1.55	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0AAD9F106-F1-model_v6	638	1	21	486	0.306	2.144e-35	534	0.7703	2.802	true	S188	0.9916	retained	N396	0.4854	lost	D313	0.8551	altered	-	NA	unresolved	retained	Ser200 S188 retained
+AF-A0A8H3YZN6-F1-model_v6	639	1	19	486	0.267	4.876e-34	534	0.7802	3.163	true	S209	0.1194	retained	H397	0.8894	retained	E335	0.901	retained	-	NA	unresolved	retained	Ser200 S209 retained
+AF-A0A0D6M627-F1-model_v6	640	1	87	486	0.263	1.702e-25	534	0.6553	2.458	true	G299	0.8988	lost	-	NA	unresolved	P436	0.7179	lost	L179	4	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A416EE90-F1-model_v6	641	1	1	485	0.284	3.734e-42	534	0.8359	2.227	true	S192	0.8497	retained	H400	0.768	retained	D308	0.9985	altered	K69	6.534	unresolved	retained	Ser200 S192 retained
+AF-A0A8W8LSF9-F1-model_v6	642	1	4	485	0.249	4.195e-32	534	0.8131	2.529	true	S159	0.2578	retained	H386	0.6896	retained	D284	0.9326	altered	S40	2.639	lost	retained	Ser200 S159 retained
+AF-A0AAW0XZK0-F1-model_v6	643	1	1	485	0.282	4.497e-31	534	0.7713	3.081	true	S134	0.3542	retained	H383	1.169	retained	E259	1.5	retained	-	NA	unresolved	retained	Ser200 S134 retained
+AF-A0A9J6FYI3-F1-model_v6	644	1	15	484	0.311	7.83e-43	534	0.8147	2.236	true	S200	0.4043	retained	H444	1.065	retained	E330	1.53	retained	V85	2.708	lost	retained	Ser200 S200 retained
+AF-A0A925S4Z8-F1-model_v6	645	1	3	484	0.28	1.515e-40	534	0.8134	3.02	true	S190	0.5807	retained	H395	0.4376	retained	E306	0.7676	retained	-	NA	unresolved	retained	Ser200 S190 retained
+AF-C3YV27-F1-model_v6	646	1	3	484	0.319	3.526e-37	534	0.8177	2.354	true	S169	0.4737	retained	H383	0.4	retained	E287	0.3457	retained	F58	8.441	unresolved	retained	Ser200 S169 retained
+AF-A0A1B6L8Q2-F1-model_v6	647	1	2	484	0.282	2.863e-35	534	0.7458	2.789	true	S198	0.3665	retained	H459	0.8761	retained	E330	0.9803	retained	-	NA	unresolved	retained	Ser200 S198 retained
+AF-A0A7R9M3L2-F1-model_v6	648	1	50	484	0.311	4.445e-32	534	0.7388	2.403	true	S225	0.7124	retained	H460	0.4962	retained	E343	0.7729	retained	-	NA	unresolved	retained	Ser200 S225 retained
+AF-A0A6N2DGZ6-F1-model_v6	649	1	10	482	0.234	1.058e-36	534	0.8068	3.051	true	S188	0.6291	retained	H401	0.3424	retained	E303	0.2531	retained	G79	6.131	unresolved	retained	Ser200 S188 retained
+AF-A0AAV1YTJ0-F1-model_v6	650	1	26	481	0.264	2.194e-38	534	0.7527	2.607	true	S216	0.4392	retained	H396	0.4255	retained	-	NA	unresolved	-	NA	unresolved	retained	Ser200 S216 retained
+AF-A0A8T6IEN1-F1-model_v6	651	1	1	481	0.252	2.83e-36	534	0.8074	2.915	true	S191	0.9056	retained	H389	0.4395	retained	E301	0.742	retained	-	NA	unresolved	retained	Ser200 S191 retained
+AF-A0A8S9ZMW4-F1-model_v6	652	1	47	481	0.249	1.148e-29	534	0.6866	3.756	true	S243	0.8497	retained	L444	10.4	unresolved	E377	0.7708	retained	Y121	10.79	unresolved	retained	Ser200 S243 retained
+AF-W6NB80-F1-model_v6	653	1	1	481	0.185	1.122e-26	534	0.7636	2.86	true	S179	0.5302	retained	H390	0.8742	retained	E313	0.7017	retained	S60	4.052	unresolved	retained	Ser200 S179 retained
+AF-A0A8H3UQN5-F1-model_v6	654	1	7	481	0.253	8.904e-27	534	0.7757	3.562	true	S164	0.3949	retained	H391	0.7979	retained	E290	0.6276	retained	M48	1.887	lost	retained	Ser200 S164 retained
+AF-A0A9D4PVS2-F1-model_v6	655	1	75	481	0.233	1.203e-25	534	0.7	2.997	true	G265	0.9656	lost	-	NA	unresolved	D388	2.025	altered	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0AAU7WGZ2-F1-model_v6	656	1	5	480	0.27	1.413e-36	534	0.8096	2.741	true	S190	0.4896	retained	H401	0.68	retained	E309	0.6324	retained	-	NA	unresolved	retained	Ser200 S190 retained
+AF-A0AA37US97-F1-model_v6	657	1	3	480	0.236	3.406e-35	534	0.799	2.76	true	S185	0.6483	retained	H402	0.2872	retained	E311	0.418	retained	Y74	1.392	altered	retained	Ser200 S185 retained
+AF-A0A9P7KR60-F1-model_v6	658	1	31	480	0.241	1.978e-32	534	0.7819	2.539	true	S210	0.4834	retained	H397	0.5684	retained	E331	0.945	retained	G97	4.201	unresolved	retained	Ser200 S210 retained
+AF-A0A1G3K6K5-F1-model_v6	659	1	1	479	0.248	9.001e-36	534	0.7937	3.281	true	S188	0.4805	retained	H394	0.4717	retained	E306	0.5307	retained	-	NA	unresolved	retained	Ser200 S188 retained
+AF-A0A2M3ZEW4-F1-model_v6	660	1	32	479	0.28	3.96e-32	534	0.7631	2.98	true	S218	0.2468	retained	H475	0.5796	retained	D354	1.297	altered	-	NA	unresolved	retained	Ser200 S218 retained
+AF-D1BDQ0-F1-model_v6	661	1	21	479	0.222	4.657e-28	534	0.7797	3.025	true	S184	0.673	retained	H409	0.3191	retained	E312	0.2377	retained	-	NA	unresolved	retained	Ser200 S184 retained
+AF-A0A1I7MRA0-F1-model_v6	662	1	35	479	0.239	3.915e-28	534	0.736	3.2	true	S237	0.7127	retained	H425	0.1315	retained	E353	0.4133	retained	P120	4.248	unresolved	retained	Ser200 S237 retained
+AF-A0A9P6JB80-F1-model_v6	663	1	13	479	0.232	2.932e-28	534	0.7992	3.739	true	S230	0.7157	retained	H439	0.7277	retained	E337	1.156	retained	G88	7.193	unresolved	retained	Ser200 S230 retained
+AF-A0A2I2FQ15-F1-model_v6	664	1	20	478	0.276	1.319e-37	534	0.8142	2.645	true	S221	0.4198	retained	H402	0.6714	retained	E337	0.6955	retained	Y98	2.239	altered	retained	Ser200 S221 retained
+AF-A0A1A7YCR8-F1-model_v6	665	1	21	477	0.31	4.293e-35	534	0.7627	2.815	true	S211	1.419	retained	H455	0.9524	retained	D336	0.56	altered	-	NA	unresolved	retained	Ser200 S211 retained
+AF-A0A7W0EVW0-F1-model_v6	666	1	33	476	0.236	1.161e-38	534	0.7494	2.632	true	S221	0.6883	retained	H386	0.7309	retained	E344	3.019	retained	-	NA	unresolved	retained	Ser200 S221 retained
+AF-A0A094S4B7-F1-model_v6	667	1	3	476	0.242	2.964e-37	534	0.8178	2.701	true	S178	0.6973	retained	H390	0.242	retained	E293	0.4616	retained	G68	6.361	unresolved	retained	Ser200 S178 retained
+AF-A0A8E2APY1-F1-model_v6	668	1	26	475	0.238	1.084e-29	534	0.7293	3.035	true	S232	0.9657	retained	H466	0.9023	retained	E357	0.8651	retained	F116	7.124	unresolved	retained	Ser200 S232 retained
+AF-A0A094C9Z8-F1-model_v6	669	1	30	474	0.286	1.319e-32	534	0.7552	2.83	true	S229	0.3172	retained	H443	0.3342	retained	E347	0.7271	retained	N111	3.267	lost	retained	Ser200 S229 retained
+AF-A0A146M1B1-F1-model_v6	670	1	2	474	0.226	1.933e-29	534	0.7606	3.131	true	S152	1.013	retained	H398	1.383	retained	E279	1.414	retained	-	NA	unresolved	retained	Ser200 S152 retained
+AF-A0A2G8KIS6-F1-model_v6	671	1	24	473	0.327	2.434e-39	534	0.7799	2.739	true	S210	0.4065	retained	R457	0.9288	lost	E331	1.053	retained	-	NA	unresolved	retained	Ser200 S210 retained
+AF-A0A915MCT9-F1-model_v6	672	1	3	473	0.233	6.822e-30	534	0.7685	2.709	true	S158	0.3762	retained	H387	0.3566	retained	E248	0.5266	retained	-	NA	unresolved	retained	Ser200 S158 retained
+AF-A0A165EPZ3-F1-model_v6	673	1	25	473	0.222	4.148e-28	534	0.7538	3.254	true	S217	1.034	retained	H432	0.898	retained	E343	0.6323	retained	-	NA	unresolved	retained	Ser200 S217 retained
+AF-A0ABD1EET7-F1-model_v6	674	1	1	472	0.278	1.071e-35	534	0.7778	2.014	true	G111	0.1748	lost	H367	0.7969	retained	E252	0.5641	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A7R8X6I9-F1-model_v6	675	1	1	472	0.284	4.293e-35	534	0.78	1.954	true	G111	0.1564	lost	H368	0.7183	retained	E252	0.65	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A7W8H9H3-F1-model_v6	676	1	4	472	0.252	1.148e-34	534	0.7798	3.157	true	S204	0.5932	retained	H388	0.8046	retained	D323	1.31	altered	F82	3.876	altered	retained	Ser200 S204 retained
+AF-A0AAE0XZZ1-F1-model_v6	677	1	1	472	0.277	6.514e-29	534	0.7295	3.053	true	S110	0.6083	retained	H373	0.4267	retained	E256	0.4536	retained	-	NA	unresolved	retained	Ser200 S110 retained
+AF-A0A150G7J0-F1-model_v6	678	1	9	471	0.265	4.053e-30	534	0.7642	2.559	true	S124	0.8507	retained	H365	0.5116	retained	E246	0.7505	retained	-	NA	unresolved	retained	Ser200 S124 retained
+AF-A0A6J0SIP3-F1-model_v6	679	1	1	470	0.396	5.28e-52	534	0.8395	1.709	true	S188	0.3835	retained	H427	0.4085	retained	E317	0.1566	retained	S76	7.362	unresolved	retained	Ser200 S188 retained
+AF-K1WNK8-F1-model_v6	680	1	6	469	0.197	4.552e-25	534	0.7819	3.606	true	S194	0.2909	retained	H415	1.022	retained	D317	1.392	altered	P68	11.16	unresolved	retained	Ser200 S194 retained
+AF-A0A3B0JPS0-F1-model_v6	681	1	1	468	0.248	1.059e-26	534	0.7207	3.264	true	S108	0.1641	retained	H362	0.5744	retained	E243	1.156	retained	-	NA	unresolved	retained	Ser200 S108 retained
+AF-A0A9P5R7U3-F1-model_v6	682	1	6	465	0.232	9.656e-25	534	0.7053	2.824	true	S229	0.1736	retained	H464	0.9656	retained	E358	0.9382	retained	N81	9.028	unresolved	retained	Ser200 S229 retained
+AF-A0A914PTR5-F1-model_v6	683	1	42	464	0.343	1.147e-44	534	0.7665	1.495	true	S233	0.4557	retained	-	NA	unresolved	E361	0.3575	retained	W119	0.4025	retained	retained	Ser200 S233 retained
+AF-A0A5G2QWJ0-F1-model_v6	684	1	29	464	0.325	4.708e-37	534	0.7616	3.082	true	S230	0.8193	retained	-	NA	unresolved	E362	0.652	retained	G113	11.41	unresolved	retained	Ser200 S230 retained
+AF-A0A9P9Q039-F1-model_v6	685	1	3	464	0.269	6.665e-32	534	0.7754	3.194	true	S194	0.2832	retained	H410	0.3431	retained	E313	0.6988	retained	N82	2.478	lost	retained	Ser200 S194 retained
+AF-A0A9P0KN36-F1-model_v6	686	1	1	464	0.254	8.702e-24	534	0.7109	3.102	true	S87	0.1613	retained	H353	0.9645	retained	E222	0.9993	retained	-	NA	unresolved	retained	Ser200 S87 retained
+AF-A0A4Y2BH61-F1-model_v6	687	1	11	464	0.235	1.26e-26	534	0.741	3.861	true	D193	0.8766	lost	Q429	8.899	unresolved	A324	0.9857	lost	-	NA	unresolved	lost	Ser200 D not in expected {S}
+AF-A0A0K8VD43-F1-model_v6	688	1	106	463	0.301	6.292e-27	534	0.6264	2.715	true	S329	0.9738	retained	-	NA	unresolved	E467	0.7831	retained	L196	4.484	unresolved	retained	Ser200 S329 retained
+AF-J6EZ91-F1-model_v6	689	1	25	463	0.198	7.751e-24	534	0.7624	3.389	true	S199	0.4577	retained	H449	0.4725	retained	E332	0.9199	retained	F84	3.096	altered	retained	Ser200 S199 retained
+AF-C3Y7S1-F1-model_v6	690	1	1	462	0.306	2.67e-41	534	0.8004	2.072	true	S199	0.4226	retained	H409	0.754	retained	E321	1.246	retained	K85	8.665	unresolved	retained	Ser200 S199 retained
+AF-A0A6J8AH09-F1-model_v6	691	1	30	462	0.273	2.298e-34	534	0.7384	2.669	true	S228	0.5818	retained	S463	2.11	lost	E349	0.5508	retained	Y110	7.779	unresolved	retained	Ser200 S228 retained
+AF-A0AAU3UPN1-F1-model_v6	692	1	1	461	0.269	3.252e-34	534	0.7835	2.543	true	S189	0.7122	retained	H402	0.108	retained	E309	0.4868	retained	Y77	3.217	altered	retained	Ser200 S189 retained
+AF-E2C2N5-F1-model_v6	693	1	3	461	0.276	1.203e-30	534	0.7324	2.261	true	G94	0.4374	lost	H351	0.6834	retained	E239	0.6117	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A3Q3WMM5-F1-model_v6	694	1	31	460	0.385	4.29e-45	534	0.776	2.038	true	S164	0.249	retained	H394	0.2841	retained	E282	0.4543	retained	-	NA	unresolved	retained	Ser200 S164 retained
+AF-A0A2S2R9A2-F1-model_v6	695	1	13	460	0.28	1.035e-28	534	0.7629	2.725	true	S123	0.2861	retained	H366	0.5899	retained	E250	0.7604	retained	-	NA	unresolved	retained	Ser200 S123 retained
+AF-A0A8S3ZD64-F1-model_v6	696	1	28	460	0.316	5.868e-33	534	0.7136	3.71	true	S229	0.4615	retained	H412	0.2267	retained	-	NA	unresolved	P112	1.163	lost	retained	Ser200 S229 retained
+AF-A0A939L6Y2-F1-model_v6	697	1	1	460	0.249	1.162e-28	534	0.763	3.097	true	S153	1.203	retained	H374	0.2676	retained	E273	0.2783	retained	-	NA	unresolved	retained	Ser200 S153 retained
+AF-A0A4R6VJ77-F1-model_v6	698	1	3	459	0.239	1.43e-30	534	0.7653	2.812	true	S197	0.2499	retained	H388	0.71	retained	E316	0.6345	retained	D76	7.42	unresolved	retained	Ser200 S197 retained
+AF-A0AA40LV24-F1-model_v6	699	1	1	458	0.589	1.228e-63	534	0.8369	1.029	true	S119	0.1673	retained	H363	0.2009	retained	E250	0.6554	retained	W2	0.7624	retained	retained	Ser200 S119 retained
+AF-A0A914BVM1-F1-model_v6	700	1	24	457	0.193	5.228e-28	534	0.7041	2.85	true	S220	0.634	retained	H366	1.365	retained	-	NA	unresolved	P99	7.695	unresolved	retained	Ser200 S220 retained
+AF-A0A8S4DQG7-F1-model_v6	701	1	1	456	0.242	1.911e-25	534	0.753	2.589	true	S110	0.5201	retained	H361	1.022	retained	E241	0.9775	retained	-	NA	unresolved	retained	Ser200 S110 retained
+AF-A0AAU9WYP8-F1-model_v6	702	1	231	456	0.404	1.57e-22	534	0.41	2.08	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A4Z2F0B5-F1-model_v6	703	1	67	455	0.31	1.721e-34	534	0.6898	2.211	true	-	NA	unresolved	H365	0.7775	retained	-	NA	unresolved	M142	1.969	lost	unresolved	Ser200: reference position aligned to a gap
+AF-A0A9W6V6F6-F1-model_v6	704	1	4	454	0.227	1.824e-29	534	0.7489	3.105	true	S132	0.4549	retained	H365	1.154	retained	E251	1.327	retained	-	NA	unresolved	retained	Ser200 S132 retained
+AF-A0A6L5XAK8-F1-model_v6	705	1	24	453	0.269	3.651e-34	534	0.7466	2.485	true	S220	0.5114	retained	H389	0.6233	retained	D341	1.367	altered	R98	6.397	unresolved	retained	Ser200 S220 retained
+AF-A0A2P5HH75-F1-model_v6	706	1	1	453	0.248	2.048e-29	534	0.7546	2.666	true	S173	0.3526	retained	H379	0.6466	retained	E303	1.044	retained	F57	2.781	altered	retained	Ser200 S173 retained
+AF-A0A821MTI5-F1-model_v6	707	1	3	453	0.209	4.992e-27	534	0.7293	2.452	true	S172	0.7121	retained	H403	0.2923	retained	E291	1.082	retained	-	NA	unresolved	retained	Ser200 S172 retained
+AF-A0A8J1MXF5-F1-model_v6	708	1	18	452	0.342	9.759e-39	534	0.7722	2.446	true	S126	0.4336	retained	H357	0.2841	retained	E245	0.5264	retained	N11	10.41	unresolved	retained	Ser200 S126 retained
+AF-A0AAD4MZJ4-F1-model_v6	709	1	9	452	0.288	2.435e-34	534	0.7522	2.644	true	S197	0.714	retained	H452	0.8902	retained	E320	0.7381	retained	-	NA	unresolved	retained	Ser200 S197 retained
+AF-A0A9Q0AIQ3-F1-model_v6	710	1	29	452	0.239	2.272e-30	534	0.7415	2.795	true	S225	0.1962	retained	H408	1.027	retained	E342	1.275	retained	Y110	0.6347	altered	retained	Ser200 S225 retained
+AF-A0A5E4AKY3-F1-model_v6	711	1	17	452	0.268	1.867e-27	534	0.696	3.437	true	R110	0.936	lost	L348	7.249	unresolved	D238	2.048	altered	-	NA	unresolved	lost	Ser200 R not in expected {S}
+AF-A0A833RQD2-F1-model_v6	712	1	1	452	0.204	8.705e-19	534	0.6213	3.519	true	G50	0.4036	lost	H364	0.9673	retained	E213	1.121	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-B4MQF4-F1-model_v6	713	1	4	451	0.307	1.569e-32	534	0.7815	2.964	true	S197	0.7913	retained	H451	1.237	retained	E332	0.8944	retained	-	NA	unresolved	retained	Ser200 S197 retained
+AF-A0A0B7A4X9-F1-model_v6	714	1	44	451	0.32	1.498e-31	534	0.6937	2.498	true	S243	0.2777	retained	-	NA	unresolved	E371	0.8578	retained	V120	7.189	unresolved	retained	Ser200 S243 retained
+AF-A0A1Y4RTT4-F1-model_v6	715	1	1	451	0.235	2.522e-31	534	0.7649	2.894	true	S185	0.448	retained	H373	0.2512	retained	E313	0.4328	retained	-	NA	unresolved	retained	Ser200 S185 retained
+AF-A0A9D1NVB8-F1-model_v6	716	1	5	451	0.257	1.464e-28	534	0.6921	3.262	true	S183	0.6364	retained	H399	0.8146	retained	E304	1.595	retained	H64	3.622	lost	retained	Ser200 S183 retained
+AF-A0A0W7TTE5-F1-model_v6	717	1	1	450	0.23	5.474e-34	534	0.7529	2.615	true	S200	0.2018	retained	H366	0.4809	retained	D323	1.146	altered	F81	4.776	unresolved	retained	Ser200 S200 retained
+AF-A0AA36C8C9-F1-model_v6	718	1	22	450	0.206	8.024e-26	534	0.7183	3.725	true	S214	0.7699	retained	-	NA	unresolved	E355	1.035	retained	-	NA	unresolved	retained	Ser200 S214 retained
+AF-A0A845GW74-F1-model_v6	719	1	1	449	0.274	1.782e-31	534	0.778	2.396	true	S150	0.4651	retained	H362	0.5861	retained	E265	1.211	retained	-	NA	unresolved	retained	Ser200 S150 retained
+AF-A0A922MWB0-F1-model_v6	720	1	4	449	0.272	5.802e-29	534	0.7343	2.91	true	G163	0.2937	lost	H412	0.673	retained	E300	1.057	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-C9YXN5-F1-model_v6	721	1	11	449	0.238	6.008e-26	534	0.7195	3.193	true	S143	0.7169	retained	H372	0.1067	retained	E266	0.5347	retained	G24	3.231	lost	retained	Ser200 S143 retained
+AF-A0A2J7QKJ9-F1-model_v6	722	1	25	447	0.303	1.022e-34	534	0.7428	2.913	true	S207	0.2408	retained	L464	4.035	unresolved	D338	1.314	altered	-	NA	unresolved	retained	Ser200 S207 retained
+AF-A0AA40E5F6-F1-model_v6	723	1	34	447	0.21	4.879e-24	534	0.7131	3.066	true	S196	0.2251	retained	H386	0.566	retained	E320	0.9931	retained	L127	3.701	lost	retained	Ser200 S196 retained
+AF-A0A8X6GVG9-F1-model_v6	724	1	1	446	0.276	5.35e-31	534	0.7234	2.151	true	G86	0.7427	lost	T338	1.445	lost	E209	0.4092	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A653C6L1-F1-model_v6	725	1	7	445	0.225	1.447e-29	534	0.7313	2.818	true	S116	0.5498	retained	H351	0.4503	retained	E239	1.111	retained	-	NA	unresolved	retained	Ser200 S116 retained
+AF-A0AAJ7BHY0-F1-model_v6	726	1	6	444	0.261	2.735e-29	534	0.7282	2.827	true	S118	0.3865	retained	H356	1.031	retained	E249	0.7817	retained	-	NA	unresolved	retained	Ser200 S118 retained
+AF-A0A1A0IV97-F1-model_v6	727	1	28	443	0.218	6.079e-25	534	0.7283	3.286	true	S211	0.4048	retained	H400	0.48	retained	E327	0.6465	retained	P95	10.21	unresolved	retained	Ser200 S211 retained
+AF-A0A3B9NLP4-F1-model_v6	728	1	5	441	0.274	1.414e-31	534	0.7377	3.1	true	S150	0.697	retained	H358	0.3723	retained	E269	0.6526	retained	V37	11.36	unresolved	retained	Ser200 S150 retained
+AF-A0A146LLE6-F1-model_v6	729	1	48	441	0.299	2.17e-29	534	0.6617	2.866	true	S233	0.3854	retained	-	NA	unresolved	D362	1.452	altered	-	NA	unresolved	retained	Ser200 S233 retained
+AF-A0A9P6QBD0-F1-model_v6	730	1	11	441	0.25	4.659e-23	534	0.6924	3.174	true	S122	0.3291	retained	H348	0.9742	retained	E247	1.303	retained	-	NA	unresolved	retained	Ser200 S122 retained
+AF-A0A2S0D933-F1-model_v6	731	1	6	440	0.226	3.74e-22	534	0.7011	3.153	true	S95	0.4097	retained	H340	1.055	retained	E226	0.9763	retained	-	NA	unresolved	retained	Ser200 S95 retained
+AF-A0A0P7TJV7-F1-model_v6	732	1	78	439	0.324	7.928e-32	534	0.6521	2.45	true	S274	0.4693	retained	-	NA	unresolved	E402	0.5085	retained	-	NA	unresolved	retained	Ser200 S274 retained
+AF-A0ABD5AX73-F1-model_v6	733	1	2	439	0.227	3.217e-25	534	0.7142	3.372	true	S188	0.8231	retained	H376	0.1799	retained	E304	0.4811	retained	E74	8.212	unresolved	retained	Ser200 S188 retained
+AF-A0A1Q6LRL7-F1-model_v6	734	1	4	438	0.217	1.366e-29	534	0.7261	2.994	true	S196	0.3867	retained	H356	0.4071	retained	D316	1.3	altered	F77	4.933	unresolved	retained	Ser200 S196 retained
+AF-A0ABD1E8A3-F1-model_v6	735	1	1	438	0.276	1.978e-27	534	0.701	3.195	true	S93	0.2175	retained	H345	0.7426	retained	E226	0.8264	retained	-	NA	unresolved	retained	Ser200 S93 retained
+AF-A0AAV8ZV45-F1-model_v6	736	1	27	438	0.266	7.934e-22	534	0.5674	2.397	true	S299	0.3279	retained	-	NA	unresolved	E435	1.117	retained	-	NA	unresolved	retained	Ser200 S299 retained
+AF-A0A815AA65-F1-model_v6	737	1	28	437	0.211	5.54e-28	534	0.7207	2.494	true	S224	1.286	retained	H447	1.146	retained	E343	1.439	retained	-	NA	unresolved	retained	Ser200 S224 retained
+AF-A0A9J6G8X8-F1-model_v6	738	1	33	435	0.403	1.781e-41	534	0.7259	1.73	true	S224	0.2791	retained	-	NA	unresolved	E349	0.3018	retained	Y107	2.426	altered	retained	Ser200 S224 retained
+AF-A0A3M2C611-F1-model_v6	739	1	2	435	0.278	1.662e-32	534	0.7378	2.673	true	S144	0.6341	retained	H367	0.5301	retained	E271	1.004	retained	-	NA	unresolved	retained	Ser200 S144 retained
+AF-A0A8E2F696-F1-model_v6	740	1	19	435	0.244	3.695e-28	534	0.7144	2.784	true	S214	0.3251	retained	H396	0.9608	retained	E331	1.072	retained	L90	2.033	lost	retained	Ser200 S214 retained
+AF-D2U6X2-F1-model_v6	741	1	3	434	0.465	5.219e-53	534	0.7911	1.217	true	S99	0.3723	retained	H339	0.5312	retained	E225	0.5168	retained	-	NA	unresolved	retained	Ser200 S99 retained
+AF-A0A7R9JU93-F1-model_v6	742	1	13	434	0.302	2.492e-32	534	0.6935	2.76	true	S195	1.015	retained	H394	0.4443	retained	E329	0.9596	retained	-	NA	unresolved	retained	Ser200 S195 retained
+AF-A0A7R9C2Y1-F1-model_v6	743	1	4	434	0.255	5.476e-29	534	0.6734	2.527	true	G169	0.3539	lost	H379	0.6418	retained	A227	2.548	lost	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0AAD5KH24-F1-model_v6	744	1	1	434	0.249	3.071e-24	534	0.693	2.737	true	S85	0.2663	retained	H348	0.5487	retained	E220	0.797	retained	-	NA	unresolved	retained	Ser200 S85 retained
+AF-A0A914EV22-F1-model_v6	745	1	4	434	0.236	3.254e-24	534	0.7175	2.75	true	S154	0.9262	retained	H400	0.2364	retained	E279	0.4717	retained	-	NA	unresolved	retained	Ser200 S154 retained
+AF-A0A9J7N766-F1-model_v6	746	1	21	433	0.469	2.404e-50	534	0.7383	1.58	true	-	NA	unresolved	H393	0.1685	retained	E280	0.2499	retained	W101	0.4442	retained	unresolved	Ser200: reference position aligned to a gap
+AF-A0A8K1GEA9-F1-model_v6	747	1	4	433	0.3	3.446e-34	534	0.74	2.104	true	S109	0.7769	retained	H338	0.8909	retained	E225	0.9335	retained	-	NA	unresolved	retained	Ser200 S109 retained
+AF-A0A7S4HY20-F1-model_v6	748	1	26	433	0.266	2.272e-30	534	0.6989	3.115	true	S224	0.9648	retained	H453	0.868	retained	D344	0.7628	altered	P96	6.744	unresolved	retained	Ser200 S224 retained
+AF-A0A511M743-F1-model_v6	749	1	1	432	0.251	9.766e-29	534	0.7174	2.725	true	S120	0.3604	retained	H346	0.5132	retained	E245	0.91	retained	-	NA	unresolved	retained	Ser200 S120 retained
+AF-A0A6P6P1E5-F1-model_v6	750	1	1	431	0.311	3.825e-30	534	0.7218	2.118	true	G86	0.5946	lost	H320	0.2334	retained	E207	0.4066	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A950VE59-F1-model_v6	751	1	3	430	0.286	9.005e-31	534	0.7157	2.656	true	S201	0.8861	retained	-	NA	unresolved	E331	1.305	retained	P82	5.884	unresolved	retained	Ser200 S201 retained
+AF-A0A816CI96-F1-model_v6	752	1	1	430	0.233	2.832e-26	534	0.7231	2.612	true	S130	0.4468	retained	H335	0.7449	retained	E223	0.8374	retained	T14	7.357	unresolved	retained	Ser200 S130 retained
+AF-A0A915NTZ1-F1-model_v6	753	1	31	429	0.301	3.216e-30	534	0.7095	2.478	true	S213	0.576	retained	H428	0.4433	retained	E307	0.3016	retained	W116	0.7403	retained	retained	Ser200 S213 retained
+AF-A0A0N4XKA6-F1-model_v6	754	1	25	428	0.353	1.43e-35	534	0.671	2.194	true	S213	0.4551	retained	-	NA	unresolved	E382	0.5674	retained	W99	0.5161	retained	retained	Ser200 S213 retained
+AF-A0A925RNY8-F1-model_v6	755	1	6	428	0.266	3.291e-28	534	0.7148	2.896	true	S126	0.4313	retained	H337	0.5875	retained	E242	0.5407	retained	V4	7.694	unresolved	retained	Ser200 S126 retained
+AF-A0A0K8WK01-F1-model_v6	756	1	34	426	0.279	1.845e-28	534	0.6541	2.919	true	S218	0.5305	retained	-	NA	unresolved	E351	1.019	retained	-	NA	unresolved	retained	Ser200 S218 retained
+AF-A0AAV1GCP7-F1-model_v6	757	1	20	425	0.301	9.005e-31	534	0.6762	2.775	true	S211	1.614	retained	-	NA	unresolved	D336	0.9706	altered	-	NA	unresolved	retained	Ser200 S211 retained
+AF-A0A4Y2MIX4-F1-model_v6	758	1	5	425	0.267	3.254e-24	534	0.7128	2.551	true	S92	0.3117	retained	H336	0.6621	retained	E221	0.9663	retained	-	NA	unresolved	retained	Ser200 S92 retained
+AF-A0A226DGX4-F1-model_v6	759	1	7	425	0.227	5.354e-21	534	0.6343	2.241	true	R111	0.6095	lost	E369	0.6545	lost	E250	0.4885	retained	-	NA	unresolved	lost	Ser200 R not in expected {S}
+AF-A0A3C1E4M0-F1-model_v6	760	1	5	424	0.246	4.821e-30	534	0.7502	2.706	true	S188	0.7416	retained	H358	0.3211	retained	E307	0.7291	retained	V72	2.968	lost	retained	Ser200 S188 retained
+AF-A0A6A6FXZ8-F1-model_v6	761	1	1	424	0.21	2.582e-24	534	0.6849	2.686	true	S210	0.4246	retained	H415	0.8733	retained	E345	1.257	retained	N80	2.298	lost	retained	Ser200 S210 retained
+AF-A0AAE1HZN2-F1-model_v6	762	1	6	424	0.195	5.418e-15	534	0.6271	3.493	true	S57	1.03	retained	H325	0.7801	retained	E195	1.187	retained	-	NA	unresolved	retained	Ser200 S57 retained
+AF-A0A6P7H0L6-F1-model_v6	763	1	1	422	0.287	4.053e-30	534	0.7151	2.931	true	S188	0.3932	retained	-	NA	unresolved	E321	0.9515	retained	Y76	2.189	altered	retained	Ser200 S188 retained
+AF-A0AA35QXG0-F1-model_v6	764	1	19	421	0.282	1.035e-28	534	0.6829	2.764	true	S141	0.2384	retained	H373	0.4692	retained	E268	0.6068	retained	-	NA	unresolved	retained	Ser200 S141 retained
+AF-A0A7R9F1C5-F1-model_v6	765	1	22	421	0.293	4.397e-23	534	0.7011	3.481	true	S113	0.6383	retained	H368	0.465	retained	E248	1.113	retained	-	NA	unresolved	retained	Ser200 S113 retained
+AF-A0A1B0GPC6-F1-model_v6	766	1	21	420	0.284	3.253e-29	534	0.682	3.017	true	S203	0.5202	retained	-	NA	unresolved	E332	1.822	retained	-	NA	unresolved	retained	Ser200 S203 retained
+AF-A0A9P9YWB5-F1-model_v6	767	1	139	420	0.326	8.505e-21	534	0.4647	2.222	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.46 < 0.50)
+AF-A0A7R8VVN6-F1-model_v6	768	1	43	418	0.256	2.326e-28	534	0.5601	3.838	true	S225	0.592	retained	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	retained	Ser200 S225 retained
+AF-A0A813SLI7-F1-model_v6	769	1	93	418	0.128	3.7e-08	534	0.4198	4.179	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+AF-A0A2N8KL78-F1-model_v6	770	1	3	417	0.24	1.803e-30	534	0.7167	2.54	true	S186	0.5331	retained	H362	0.5298	retained	E306	0.2292	retained	-	NA	unresolved	retained	Ser200 S186 retained
+AF-A0AAV2BAU2-F1-model_v6	771	1	59	417	0.246	1.499e-21	534	0.6234	2.373	true	S134	1.093	retained	H377	0.7074	retained	E263	0.5685	retained	L129	1.92	lost	retained	Ser200 S134 retained
+AF-A0AAQ4FI14-F1-model_v6	772	1	16	416	0.298	3.216e-30	534	0.7165	2.288	true	S131	0.3724	retained	H373	1.158	retained	E259	1.378	retained	I15	5.37	unresolved	retained	Ser200 S131 retained
+AF-A0AAV7XBW4-F1-model_v6	773	1	53	416	0.309	6.219e-28	534	0.5956	2.58	true	S275	0.4082	retained	-	NA	unresolved	E413	1.201	retained	A150	11.53	unresolved	retained	Ser200 S275 retained
+AF-F1L947-F1-model_v6	774	1	25	414	0.259	7.57e-31	534	0.6656	2.392	true	S214	0.1181	retained	-	NA	unresolved	E338	1.365	retained	-	NA	unresolved	retained	Ser200 S214 retained
+AF-A0A8H4LI41-F1-model_v6	775	1	25	414	0.231	8.306e-28	534	0.6885	2.61	true	S220	0.3471	retained	H404	1.102	retained	E338	1.447	retained	F104	2.728	altered	retained	Ser200 S220 retained
+AF-A0A8D8B774-F1-model_v6	776	1	1	414	0.222	7.488e-22	534	0.6699	2.752	true	S88	0.499	retained	H314	0.9578	retained	E208	1.622	retained	-	NA	unresolved	retained	Ser200 S88 retained
+AF-S4VFV6-F1-model_v6	777	1	35	413	0.451	1.333e-46	534	0.691	1.172	true	S234	0.4287	retained	-	NA	unresolved	E360	0.3515	retained	W119	0.4611	retained	retained	Ser200 S234 retained
+AF-A0A0B1S2N2-F1-model_v6	778	1	5	413	0.221	2.248e-21	534	0.6625	3.24	true	S65	0.5275	retained	H323	1.13	retained	E198	0.6466	retained	-	NA	unresolved	retained	Ser200 S65 retained
+AF-A0A5N9FKH2-F1-model_v6	779	1	1	412	0.287	2.551e-30	534	0.7032	2.713	true	S199	1.48	retained	-	NA	unresolved	D329	1.072	altered	F78	9.883	unresolved	retained	Ser200 S199 retained
+AF-B7P808-F1-model_v6	780	1	2	412	0.275	2.523e-26	534	0.666	2.357	true	G108	0.2178	lost	N372	0.6237	lost	E245	0.8265	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-Q2GQ48-F1-model_v6	781	1	42	411	0.199	2.466e-18	534	0.6547	3.182	true	S140	0.4485	retained	H338	0.4421	retained	D270	0.8914	altered	-	NA	unresolved	retained	Ser200 S140 retained
+AF-A0A8H3E6H6-F1-model_v6	782	1	1	411	0.239	8.216e-19	534	0.628	2.965	true	S93	0.6361	retained	H321	0.3454	retained	E229	0.5983	retained	-	NA	unresolved	retained	Ser200 S93 retained
+AF-A0AAB0ACJ4-F1-model_v6	783	1	26	411	0.211	7.069e-17	534	0.6186	3.258	true	-	NA	unresolved	H332	0.5926	retained	D207	1.15	altered	-	NA	unresolved	unresolved	Ser200: reference position aligned to a gap
+AF-A0A0T6BGL2-F1-model_v6	784	1	25	410	0.236	2.737e-19	534	0.6705	3.037	true	S77	0.7025	retained	H317	1.375	retained	E206	1.696	retained	-	NA	unresolved	retained	Ser200 S77 retained
+AF-A0A7R9E5B3-F1-model_v6	785	1	21	409	0.263	1.464e-28	534	0.6687	3.084	true	S201	0.2149	retained	H314	1.196	retained	-	NA	unresolved	-	NA	unresolved	retained	Ser200 S201 retained
+AF-A0A8T0EW20-F1-model_v6	786	1	1	409	0.275	1.122e-26	534	0.6853	2.63	true	S86	0.3007	retained	H309	0.4208	retained	V208	1.59	lost	-	NA	unresolved	retained	Ser200 S86 retained
+AF-A0A2T7PTB0-F1-model_v6	787	1	1	409	0.286	8.309e-23	534	0.6722	2.734	true	S86	0.2103	retained	H308	0.6135	retained	H208	3.2	lost	-	NA	unresolved	retained	Ser200 S86 retained
+AF-A0A2D7XWT8-F1-model_v6	788	1	1	407	0.252	1.91e-30	534	0.676	2.409	true	S155	0.7176	retained	H313	0.9638	retained	E270	3.055	retained	M35	1.378	lost	retained	Ser200 S155 retained
+AF-A0A559M1S9-F1-model_v6	789	1	3	407	0.23	3.331e-22	534	0.6648	3.306	true	S128	0.7793	retained	H323	1.224	retained	E255	0.7736	retained	-	NA	unresolved	retained	Ser200 S128 retained
+AF-A0AAF3EXP9-F1-model_v6	790	1	6	407	0.264	2.222e-22	534	0.6466	2.821	true	S141	0.6151	retained	H376	0.6089	retained	E264	0.4415	retained	-	NA	unresolved	retained	Ser200 S141 retained
+AF-A0A3B4GAA5-F1-model_v6	791	1	24	406	0.288	5.936e-32	534	0.6727	2.518	true	S212	0.59	retained	H396	0.5341	retained	E312	0.6982	retained	L107	6.644	unresolved	retained	Ser200 S212 retained
+AF-A0A9P0C9F9-F1-model_v6	792	1	10	406	0.266	3.654e-24	534	0.6637	2.549	true	S118	0.4	retained	H365	0.4594	retained	E252	0.7217	retained	-	NA	unresolved	retained	Ser200 S118 retained
+AF-T1GJI9-F1-model_v6	793	1	4	406	0.206	8.804e-23	534	0.6633	3.163	true	S151	0.2653	retained	H313	0.8711	retained	E276	1.556	retained	-	NA	unresolved	retained	Ser200 S151 retained
+AF-E4XQM3-F1-model_v6	794	1	5	406	0.209	5.054e-16	534	0.623	3.623	true	S59	1.483	retained	H319	1.026	retained	D186	1.813	altered	-	NA	unresolved	retained	Ser200 S59 retained
+AF-A0AA88XTI2-F1-model_v6	795	1	16	404	0.248	1.607e-20	534	0.6904	3.762	true	S180	0.4106	retained	H352	0.377	retained	E309	0.5406	retained	K82	5.908	unresolved	retained	Ser200 S180 retained
+AF-M7BD44-F1-model_v6	796	1	29	403	0.444	2.142e-45	534	0.6968	2.745	true	S218	0.4854	retained	-	NA	unresolved	E345	0.2508	retained	W103	0.8883	retained	retained	Ser200 S218 retained
+AF-A0A1Z3M049-F1-model_v6	797	1	40	402	0.285	6.514e-29	534	0.6349	2.484	true	S235	0.7777	retained	-	NA	unresolved	E345	0.9382	retained	G114	2.05	lost	retained	Ser200 S235 retained
+AF-A0A0N1BMA0-F1-model_v6	798	1	10	402	0.278	9.544e-26	534	0.6789	3.011	true	S130	0.8393	retained	H322	0.4965	retained	E230	0.6685	retained	-	NA	unresolved	retained	Ser200 S130 retained
+AF-A0A232FD30-F1-model_v6	799	1	2	402	0.245	1.176e-17	534	0.6253	3.034	true	S53	0.576	retained	H298	0.8874	retained	E183	1.135	retained	-	NA	unresolved	retained	Ser200 S53 retained
+AF-B3SF12-F1-model_v6	800	1	2	401	0.31	6.899e-34	534	0.6917	2.123	true	S106	0.3661	retained	H348	0.6971	retained	D238	1.401	altered	-	NA	unresolved	retained	Ser200 S106 retained
+AF-A0A2Z3GRH6-F1-model_v6	801	1	2	401	0.235	3.071e-24	534	0.6694	3.305	true	S95	1.012	retained	H323	0.4317	retained	G225	0.6581	lost	-	NA	unresolved	retained	Ser200 S95 retained
+AF-A0A183V989-F1-model_v6	802	1	4	401	0.213	6.295e-22	534	0.6617	2.784	true	S100	0.7899	retained	H305	0.9536	retained	E224	1.619	retained	-	NA	unresolved	retained	Ser200 S100 retained
+AF-A0A914E9I2-F1-model_v6	803	1	6	401	0.229	1.589e-21	534	0.6473	3.595	true	S127	0.6759	retained	H334	0.4893	retained	E252	0.7143	retained	Y8	11.07	unresolved	retained	Ser200 S127 retained
+AF-A0A9D5SXA0-F1-model_v6	804	1	4	400	0.245	1.824e-29	534	0.6233	3.694	true	S200	0.6618	retained	-	NA	unresolved	E322	0.973	retained	A80	5.535	unresolved	retained	Ser200 S200 retained
+AF-A0A955WYP2-F1-model_v6	805	1	1	399	0.271	4.877e-29	534	0.6936	2.475	true	S100	0.7654	retained	H315	0.4366	retained	E221	0.8363	retained	-	NA	unresolved	retained	Ser200 S100 retained
+AF-A0A1I7TST6-F1-model_v6	806	1	19	399	0.281	9.766e-29	534	0.6125	3.336	true	S196	1.266	retained	-	NA	unresolved	E317	0.8621	retained	A83	12.55	unresolved	retained	Ser200 S196 retained
+AF-A0A2K6GK56-F1-model_v6	807	1	4	399	0.264	1.366e-24	534	0.6388	3.572	true	S191	0.6277	retained	H386	0.3696	retained	E318	0.383	retained	R86	11.47	unresolved	retained	Ser200 S191 retained
+AF-A0AAV5S780-F1-model_v6	808	1	1	399	0.181	4.607e-19	534	0.6434	3.204	true	S110	0.964	retained	H314	0.2881	retained	E237	0.6039	retained	-	NA	unresolved	retained	Ser200 S110 retained
+AF-A0A940RVH6-F1-model_v6	809	1	1	398	0.236	5.228e-28	534	0.6769	3.04	true	S120	0.68	retained	H319	0.3174	retained	E230	0.342	retained	E6	11.19	unresolved	retained	Ser200 S120 retained
+AF-A0A535E9W2-F1-model_v6	810	1	7	397	0.247	8.601e-25	534	0.6752	2.715	true	S101	0.7332	retained	H318	0.159	retained	E219	0.3588	retained	-	NA	unresolved	retained	Ser200 S101 retained
+AF-A0A915HRE1-F1-model_v6	811	1	3	397	0.283	3.037e-20	534	0.5533	3.39	true	S160	0.6985	retained	-	NA	unresolved	E319	1.81	retained	S39	7.405	unresolved	retained	Ser200 S160 retained
+AF-A0A7E4WBY3-F1-model_v6	812	1	10	397	0.196	4.45e-17	534	0.6299	3.576	true	G105	0.6568	lost	H306	0.2263	retained	E222	0.278	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A8C6NWM6-F1-model_v6	813	1	81	396	0.36	1.606e-30	534	0.5967	2.849	true	S274	0.2847	retained	-	NA	unresolved	R402	7.389	unresolved	E151	4.078	unresolved	retained	Ser200 S274 retained
+AF-A0A914WFF2-F1-model_v6	814	1	27	396	0.266	2.326e-28	534	0.6132	3.212	true	S217	0.407	retained	-	NA	unresolved	E339	1.876	retained	-	NA	unresolved	retained	Ser200 S217 retained
+AF-A0A9J6G7C0-F1-model_v6	815	1	33	395	0.44	5.045e-41	534	0.6807	2.341	true	S233	0.3311	retained	-	NA	unresolved	E358	0.5106	retained	W116	0.4574	retained	retained	Ser200 S233 retained
+AF-A0AAV7XYP0-F1-model_v6	816	1	2	394	0.259	2.465e-23	534	0.6556	3.17	true	G140	0.2702	lost	-	NA	unresolved	D287	1.323	altered	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0AAV8ZNV8-F1-model_v6	817	1	75	391	0.323	1.663e-27	534	0.5987	2.829	true	S259	0.3471	retained	-	NA	unresolved	E388	1.051	retained	-	NA	unresolved	retained	Ser200 S259 retained
+AF-A0A7R9MK77-F1-model_v6	818	1	1	391	0.314	1.135e-30	534	0.666	2.275	true	S176	0.4086	retained	H390	0.3431	retained	E303	0.6414	retained	-	NA	unresolved	retained	Ser200 S176 retained
+AF-A0AAQ4DXR7-F1-model_v6	819	1	4	391	0.301	4.823e-25	534	0.662	2.684	true	Q121	0.617	lost	H350	1.395	retained	E241	1.6	retained	-	NA	unresolved	lost	Ser200 Q not in expected {S}
+AF-Q6NG05-F1-model_v6	820	1	1	391	0.152	1.097e-18	534	0.6727	2.881	true	S158	0.5488	retained	H335	0.5732	retained	E258	0.9116	retained	-	NA	unresolved	retained	Ser200 S158 retained
+AF-A0ABD1DXB0-F1-model_v6	821	1	25	390	0.276	2.171e-24	534	0.6051	3.01	true	S180	0.6698	retained	-	NA	unresolved	E314	1.53	retained	-	NA	unresolved	retained	Ser200 S180 retained
+AF-A0AAV8XL68-F1-model_v6	822	1	1	390	0.241	3.917e-23	534	0.6683	2.669	true	S110	0.2772	retained	H309	0.9666	retained	E216	0.8738	retained	-	NA	unresolved	retained	Ser200 S110 retained
+AF-A0A8S1E670-F1-model_v6	823	1	3	390	0.257	1.203e-20	534	0.627	2.927	true	S48	0.6106	retained	H289	0.8059	retained	E173	0.9827	retained	-	NA	unresolved	retained	Ser200 S48 retained
+AF-A0A0A9XKN4-F1-model_v6	824	1	2	389	0.265	3.962e-22	534	0.6632	2.915	true	S69	0.2273	retained	H308	0.6118	retained	D197	1.002	altered	-	NA	unresolved	retained	Ser200 S69 retained
+AF-A6R3C7-F1-model_v6	825	1	1	389	0.25	9.548e-21	534	0.6569	2.777	true	S89	0.2517	retained	H307	0.2725	retained	E210	0.8548	retained	-	NA	unresolved	retained	Ser200 S89 retained
+AF-A0A238BNS2-F1-model_v6	826	1	14	389	0.227	1.024e-19	534	0.6194	2.886	true	S108	0.4623	retained	H348	0.8652	retained	E233	1.006	retained	-	NA	unresolved	retained	Ser200 S108 retained
+AF-A0A8D8B1Z1-F1-model_v6	827	1	2	388	0.235	2.466e-18	534	0.6178	2.73	true	S108	0.2493	retained	H344	0.738	retained	E228	1.353	retained	-	NA	unresolved	retained	Ser200 S108 retained
+AF-A0ABD2AQ97-F1-model_v6	828	1	39	386	0.442	2.297e-39	534	0.6059	1.345	true	S254	0.21	retained	-	NA	unresolved	E383	0.3636	retained	W119	0.6167	retained	retained	Ser200 S254 retained
+AF-A0A1I7RUA2-F1-model_v6	829	1	5	386	0.238	7.575e-21	534	0.6193	2.825	true	S44	0.4886	retained	H292	0.5429	retained	E179	0.508	retained	-	NA	unresolved	retained	Ser200 S44 retained
+AF-A0A821Y4U0-F1-model_v6	830	1	1	385	0.223	9.117e-20	534	0.568	2.595	true	S129	0.8421	retained	H335	0.8541	retained	P248	8.925	unresolved	-	NA	unresolved	retained	Ser200 S129 retained
+AF-A0AAQ4DXC2-F1-model_v6	831	1	3	379	0.281	8.118e-25	534	0.6459	2.201	true	S54	0.5086	retained	H296	0.5472	retained	E185	1.442	retained	-	NA	unresolved	retained	Ser200 S54 retained
+AF-A0A1A2NN70-F1-model_v6	832	1	6	377	0.288	3.652e-29	534	0.6269	2.899	true	S198	0.9796	retained	-	NA	unresolved	E322	0.5762	retained	-	NA	unresolved	retained	Ser200 S198 retained
+AF-A0A9P0ILW6-F1-model_v6	833	1	54	377	0.255	5.542e-23	534	0.6086	3.739	true	G237	0.4679	lost	-	NA	unresolved	E379	1.283	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0AA40FFY5-F1-model_v6	834	1	32	374	0.443	3.251e-39	534	0.6381	3.243	true	S246	0.2042	retained	-	NA	unresolved	E375	0.5764	retained	W112	0.671	retained	retained	Ser200 S246 retained
+AF-A0A2V9YKK5-F1-model_v6	835	1	26	374	0.313	1.824e-29	534	0.6222	2.749	true	S217	0.6999	retained	-	NA	unresolved	E338	0.7873	retained	I95	1.812	lost	retained	Ser200 S217 retained
+AF-A0A4Y2NBF3-F1-model_v6	836	1	8	374	0.265	1.149e-19	534	0.6209	2.577	true	G40	0.228	lost	H292	0.3995	retained	D171	0.8611	altered	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0AAW1BX33-F1-model_v6	837	1	2	373	0.354	1.135e-30	534	0.6602	2.257	true	S53	0.2625	retained	H279	0.7384	retained	D169	1.504	altered	-	NA	unresolved	retained	Ser200 S53 retained
+AF-R7Z468-F1-model_v6	838	1	33	373	0.269	1.11e-22	534	0.6141	3.092	true	S245	0.2634	retained	-	NA	unresolved	D371	1.862	altered	G114	0.8434	lost	retained	Ser200 S245 retained
+AF-A0A2A4J5W6-F1-model_v6	839	1	5	366	0.257	4.713e-22	534	0.6154	3.012	true	D59	0.715	lost	H307	0.7074	retained	E185	0.8772	retained	-	NA	unresolved	lost	Ser200 D not in expected {S}
+AF-A0A3C0M9F1-F1-model_v6	840	1	1	364	0.283	2.673e-26	534	0.6148	2.775	true	S188	1.153	retained	-	NA	unresolved	E315	0.807	retained	G69	4.442	unresolved	retained	Ser200 S188 retained
+AF-A0A6L7XTZ9-F1-model_v6	841	1	23	363	0.319	1.162e-28	534	0.6098	2.426	true	S212	0.646	retained	-	NA	unresolved	E326	0.6952	retained	-	NA	unresolved	retained	Ser200 S212 retained
+AF-A0A183CY63-F1-model_v6	842	1	1	363	0.219	9.011e-21	534	0.593	2.802	true	S26	0.6152	retained	H266	0.5912	retained	E151	0.5244	retained	-	NA	unresolved	retained	Ser200 S26 retained
+AF-G3I5K9-F1-model_v6	843	1	22	360	0.282	2.643e-22	534	0.5629	3.375	true	S136	0.5251	retained	-	NA	unresolved	E233	0.2835	retained	R19	11.33	unresolved	retained	Ser200 S136 retained
+AF-A0A9Q1CLD5-F1-model_v6	844	1	2	360	0.216	2.801e-17	534	0.5943	2.709	true	S31	0.5424	retained	H262	0.2926	retained	E158	0.5635	retained	-	NA	unresolved	retained	Ser200 S31 retained
+AF-A0A0M3KD83-F1-model_v6	845	1	1	359	0.347	7.573e-26	534	0.5771	1.945	true	S153	0.2167	retained	-	NA	unresolved	E281	0.8323	retained	-	NA	unresolved	retained	Ser200 S153 retained
+AF-A0AAV7XDJ5-F1-model_v6	846	1	10	359	0.297	5.23e-23	534	0.5976	3.67	true	S170	0.8351	retained	-	NA	unresolved	E304	1.162	retained	-	NA	unresolved	retained	Ser200 S170 retained
+AF-A0A6A0H1V4-F1-model_v6	847	1	30	356	0.282	1.448e-24	534	0.6583	3.052	true	C216	0.8823	altered	G385	4.265	unresolved	-	NA	unresolved	-	NA	unresolved	altered	Ser200 C in altered set
+AF-A0A6M2CHD4-F1-model_v6	848	1	2	354	0.341	1.398e-27	534	0.612	2.542	true	S20	0.3494	retained	H269	0.7141	retained	E151	0.7085	retained	-	NA	unresolved	retained	Ser200 S20 retained
+AF-A0AAD5QSQ4-F1-model_v6	849	1	1	352	0.259	4.348e-19	534	0.5647	2.75	true	S89	0.6043	retained	S337	2.433	lost	E223	0.1426	retained	-	NA	unresolved	retained	Ser200 S89 retained
+AF-A0A4R8Q1K0-F1-model_v6	850	1	32	351	0.197	2.554e-15	534	0.5497	2.929	true	S202	0.4792	retained	H325	0.1476	retained	E263	0.2742	retained	-	NA	unresolved	retained	Ser200 S202 retained
+AF-U5KK45-F1-model_v6	851	1	6	349	0.236	3.451e-14	534	0.5591	3.125	true	S58	0.5417	retained	H308	0.6019	retained	E190	0.5167	retained	-	NA	unresolved	retained	Ser200 S58 retained
+AF-A0AAV2IG48-F1-model_v6	852	1	95	349	0.141	4.203e-07	534	0.4221	4.477	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+AF-A0A2E9AFX6-F1-model_v6	853	1	160	348	0.157	3.492e-08	534	0.4079	3.592	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A7R8UHR7-F1-model_v6	854	1	31	347	0.268	6.904e-24	534	0.5696	2.679	true	S214	0.7232	retained	-	NA	unresolved	D344	0.7916	altered	-	NA	unresolved	retained	Ser200 S214 retained
+AF-A0A9E6UJJ5-F1-model_v6	855	1	42	346	0.376	1.644e-28	534	0.5612	2.473	true	S227	0.6778	retained	-	NA	unresolved	E347	1.202	retained	F107	0.9576	altered	retained	Ser200 S227 retained
+AF-A0A9P0H263-F1-model_v6	856	1	24	345	0.343	4.344e-29	534	0.6037	2.953	true	S212	0.4636	retained	-	NA	unresolved	E342	1.831	retained	K96	10.07	unresolved	retained	Ser200 S212 retained
+AF-A0A1S3H9T9-F1-model_v6	857	1	24	342	0.24	5.476e-29	534	0.5639	2.295	true	S211	0.6654	retained	H247	0.9003	retained	-	NA	unresolved	F96	3.739	altered	retained	Ser200 S211 retained
+AF-A0A7R9MKB4-F1-model_v6	858	1	1	342	0.325	4.15e-23	534	0.5828	2.206	true	S159	0.5125	retained	-	NA	unresolved	E277	0.9263	retained	-	NA	unresolved	retained	Ser200 S159 retained
+AF-H2NR56-F1-model_v6	859	1	15	341	0.366	8.4e-32	534	0.59	2.379	true	S217	0.4031	retained	-	NA	unresolved	E335	0.8071	retained	Q103	5.973	unresolved	retained	Ser200 S217 retained
+AF-A0A7S1VJE6-F1-model_v6	860	1	27	341	0.265	2.273e-25	534	0.5795	2.141	true	S209	0.3407	retained	-	NA	unresolved	E335	0.8774	retained	N94	2.712	lost	retained	Ser200 S209 retained
+AF-A0A158PNB4-F1-model_v6	861	1	89	341	0.183	5.236e-08	534	0.4199	4.097	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+AF-A0A812LGR7-F1-model_v6	862	1	28	338	0.296	7.315e-24	534	0.5738	2.852	true	S218	0.8817	retained	-	NA	unresolved	D332	1.022	altered	-	NA	unresolved	retained	Ser200 S218 retained
+AF-R7UE07-F1-model_v6	863	1	91	338	0.151	5e-07	534	0.4143	3.971	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-E9H9Z4-F1-model_v6	864	1	3	335	0.297	4.713e-22	534	0.53	2.184	true	G189	0.8715	lost	-	NA	unresolved	E329	1.673	retained	M64	3.773	lost	lost	Ser200 G not in expected {S}
+AF-A0A0B4RXT2-F1-model_v6	865	1	107	335	0.293	1.246e-17	534	0.4083	2.187	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A914E094-F1-model_v6	866	1	2	335	0.248	7.404e-18	534	0.576	3.893	true	S127	1.13	retained	H334	1.405	retained	E252	1.378	retained	-	NA	unresolved	retained	Ser200 S127 retained
+AF-A0A382NA38-F1-model_v6	867	1	29	334	0.315	1.481e-27	534	0.5715	2.491	true	S224	0.6488	retained	-	NA	unresolved	E338	1.131	retained	S103	3.791	lost	retained	Ser200 S224 retained
+AF-A0AAD2H0E2-F1-model_v6	868	1	9	333	0.185	1.571e-12	534	0.5315	3.324	true	S22	1.277	retained	H233	1.139	retained	E149	0.9916	retained	-	NA	unresolved	retained	Ser200 S22 retained
+AF-A0A066WNU0-F1-model_v6	869	1	30	332	0.337	1.846e-23	534	0.5096	2.587	true	S217	0.5954	retained	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	retained	Ser200 S217 retained
+AF-A0A538R450-F1-model_v6	870	1	40	332	0.325	1.644e-23	534	0.4823	2.087	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.48 < 0.50)
+AF-A0A9J6FZL6-F1-model_v6	871	1	2	332	0.284	7.664e-20	534	0.5643	2.345	true	S48	0.1645	retained	H292	0.9882	retained	E178	1.44	retained	-	NA	unresolved	retained	Ser200 S48 retained
+AF-A0A7T4DL94-F1-model_v6	872	1	52	330	0.114	4.203e-07	534	0.4133	3.836	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A5N5SQE0-F1-model_v6	873	1	45	329	0.354	6.904e-24	534	0.4916	2.159	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.49 < 0.50)
+AF-Q8MTF8-F1-model_v6	874	1	2	328	0.263	1.783e-21	534	0.5716	3.07	true	G166	0.6499	lost	-	NA	unresolved	N297	2.155	lost	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0A1S3DH42-F1-model_v6	875	1	102	327	0.232	4.826e-15	534	0.4434	3.552	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+AF-U3AA66-F1-model_v6	876	1	140	327	0.16	1.665e-07	534	0.4149	3.716	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0AAN7VGQ2-F1-model_v6	877	1	1	325	0.283	2.247e-26	534	0.5782	2.53	true	S188	0.4856	retained	-	NA	unresolved	E316	0.5434	retained	-	NA	unresolved	retained	Ser200 S188 retained
+AF-A0A0K8UQ55-F1-model_v6	878	1	28	325	0.363	3.036e-25	534	0.536	2.303	true	S218	0.5784	retained	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	retained	Ser200 S218 retained
+AF-A0A9N9TAG5-F1-model_v6	879	1	33	323	0.345	8.024e-26	534	0.5145	2.131	true	S223	0.3915	retained	-	NA	unresolved	-	NA	unresolved	Y106	2.68	altered	retained	Ser200 S223 retained
+AF-A0A8C4NFK0-F1-model_v6	880	1	44	323	0.272	1.024e-19	534	0.5829	3.873	true	E216	0.2637	lost	-	NA	unresolved	V327	1.168	lost	-	NA	unresolved	lost	Ser200 E not in expected {S}
+AF-A0A7G5GYU3-F1-model_v6	881	1	134	322	0.149	5.878e-08	534	0.4112	3.594	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A9P6S1P6-F1-model_v6	882	1	174	321	0.335	1.368e-09	534	0.2633	2.549	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.26 < 0.50)
+AF-A0A946IJR2-F1-model_v6	883	1	61	320	0.156	1.554e-08	534	0.4123	3.665	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A9D4P8W9-F1-model_v6	884	1	26	319	0.407	1.274e-30	534	0.5711	3.515	true	S214	0.2734	retained	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	retained	Ser200 S214 retained
+AF-A0A8X6R6U4-F1-model_v6	885	1	28	318	0.266	2.675e-16	534	0.5241	3.366	true	-	NA	unresolved	H234	0.7901	retained	E123	1.043	retained	-	NA	unresolved	unresolved	Ser200: reference position aligned to a gap
+AF-A0A6V7GZJ1-F1-model_v6	886	1	1	317	0.384	2.272e-30	534	0.5611	1.523	true	-	NA	unresolved	H219	0.6674	retained	E103	0.6475	retained	-	NA	unresolved	unresolved	Ser200: reference position aligned to a gap
+AF-A0A8J6LB14-F1-model_v6	887	1	142	317	0.366	4.3e-10	534	0.3695	3.543	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+AF-G4V357-F1-model_v6	888	1	40	316	0.445	6.665e-32	534	0.479	1.502	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.48 < 0.50)
+AF-A0A0A2M5R5-F1-model_v6	889	1	127	315	0.136	1.247e-07	534	0.402	4.137	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+AF-A0AAD8AAR7-F1-model_v6	890	1	3	314	0.345	1.175e-27	534	0.5548	1.957	true	S182	0.4916	retained	-	NA	unresolved	E311	1.52	retained	-	NA	unresolved	retained	Ser200 S182 retained
+AF-A0ABD3SCX8-F1-model_v6	891	1	25	313	0.285	3.144e-22	534	0.4994	2.228	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.50 < 0.50)
+AF-A0A0B4RY87-F1-model_v6	892	1	42	310	0.381	6.441e-25	534	0.4936	1.826	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.49 < 0.50)
+AF-A0A659S3P9-F1-model_v6	893	1	4	310	0.344	3.036e-25	534	0.5465	2.145	true	S195	0.3307	retained	-	NA	unresolved	E308	1.061	retained	G76	2.758	lost	retained	Ser200 S195 retained
+AF-A0A0A1X822-F1-model_v6	894	1	40	305	0.322	6.443e-20	534	0.5394	3.076	true	S222	0.5946	retained	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	retained	Ser200 S222 retained
+AF-A0A0A9ZI58-F1-model_v6	895	1	32	304	0.35	2.3e-24	534	0.4961	1.969	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.50 < 0.50)
+AF-A0AA40KF56-F1-model_v6	896	1	1	304	0.287	4.715e-17	534	0.5817	2.457	true	G83	0.7914	lost	-	NA	unresolved	E207	0.8319	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+AF-A0AA35KSC6-F1-model_v6	897	1	56	302	0.154	9.894e-08	534	0.4069	3.461	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A8K0CQT9-F1-model_v6	898	1	28	301	0.392	2.409e-25	534	0.4827	2.059	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.48 < 0.50)
+AF-A0AAW1CXF8-F1-model_v6	899	1	1	301	0.321	6.985e-23	534	0.5401	2.091	true	S173	0.3574	retained	-	NA	unresolved	E300	1.132	retained	-	NA	unresolved	retained	Ser200 S173 retained
+AF-A0A914QHN4-F1-model_v6	900	1	26	299	0.315	1.552e-23	534	0.4806	2.337	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.48 < 0.50)
+AF-A0A7R9E7L0-F1-model_v6	901	1	8	298	0.332	2.301e-19	534	0.5678	2.96	true	S103	0.3162	retained	D330	0.893	lost	E233	0.7362	retained	-	NA	unresolved	retained	Ser200 S103 retained
+AF-A0AAV2PR41-F1-model_v6	902	1	40	297	0.307	8.505e-21	534	0.3956	2.696	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+AF-A0AAN7SP87-F1-model_v6	903	1	21	295	0.361	5.11e-25	534	0.5111	2.597	true	S210	0.3711	retained	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	retained	Ser200 S210 retained
+AF-L0IE41-F1-model_v6	904	1	114	294	0.19	8.318e-08	534	0.4071	3.391	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A8T2NMJ9-F1-model_v6	905	1	4	292	0.411	2.735e-29	534	0.5053	2.404	true	S201	0.2602	retained	-	NA	unresolved	-	NA	unresolved	R86	10.11	unresolved	retained	Ser200 S201 retained
+AF-E2J7H2-F1-model_v6	906	1	2	292	0.378	1.084e-24	534	0.5175	1.51	true	-	NA	unresolved	H193	0.6053	retained	E79	0.6303	retained	-	NA	unresolved	unresolved	Ser200: reference position aligned to a gap
+AF-A0A920L2S8-F1-model_v6	907	1	27	292	0.333	4.198e-22	534	0.4807	2.423	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.48 < 0.50)
+AF-A0AAW5QMH8-F1-model_v6	908	1	32	292	0.122	1.483e-07	534	0.4277	3.302	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.43 < 0.50)
+AF-A0A4Z2D0F4-F1-model_v6	909	1	28	291	0.415	2.465e-28	534	0.4676	1.937	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.47 < 0.50)
+AF-A0A7R9QS40-F1-model_v6	910	1	1	291	0.388	1.084e-24	534	0.5237	1.998	true	S167	0.6002	retained	-	NA	unresolved	E285	1.262	retained	-	NA	unresolved	retained	Ser200 S167 retained
+AF-A0A093PIY4-F1-model_v6	911	1	24	289	0.385	3.871e-24	534	0.4721	2.159	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.47 < 0.50)
+AF-A0A5C4MD42-F1-model_v6	912	1	94	287	0.165	1.572e-07	534	0.4092	3.446	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-B7ZF08-F1-model_v6	913	1	89	286	0.375	7.845e-18	534	0.3543	1.93	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.35 < 0.50)
+AF-A0A8S9ZSY7-F1-model_v6	914	1	101	286	0.343	3.964e-17	534	0.3308	2.319	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.33 < 0.50)
+AF-B5T1Y3-F1-model_v6	915	1	2	284	0.345	6.15e-24	534	0.5567	2.653	true	S158	0.3874	retained	-	NA	unresolved	E288	1.231	retained	-	NA	unresolved	retained	Ser200 S158 retained
+AF-A0A938DUG4-F1-model_v6	916	1	96	284	0.135	2.803e-07	534	0.4109	3.353	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A6I9WE90-F1-model_v6	917	1	2	283	0.37	3.217e-25	534	0.4984	1.971	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.50 < 0.50)
+AF-I6YEM7-F1-model_v6	918	1	12	282	0.278	2.41e-15	534	0.4557	3.065	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.46 < 0.50)
+AF-A0A7R9LEE3-F1-model_v6	919	1	33	281	0.441	2.582e-24	534	0.4331	2.004	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.43 < 0.50)
+AF-A0A6H1UHP1-F1-model_v6	920	1	87	280	0.164	1.665e-07	534	0.4086	3.382	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A520HT20-F1-model_v6	921	1	15	278	0.314	3.962e-22	534	0.4707	2.297	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.47 < 0.50)
+AF-D5G3G4-F1-model_v6	922	1	17	277	0.316	1.335e-21	534	0.4704	2.03	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.47 < 0.50)
+AF-A0A6N9BW77-F1-model_v6	923	1	3	275	0.349	3.871e-24	534	0.4946	2.382	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.49 < 0.50)
+AF-A0A7J6LS79-F1-model_v6	924	1	3	275	0.261	3.491e-13	534	0.4494	2.548	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+AF-A0A2S2PC37-F1-model_v6	925	1	2	274	0.275	1.744e-13	534	0.4627	2.803	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.46 < 0.50)
+AF-A0A9J6FQQ0-F1-model_v6	926	1	2	272	0.327	2.327e-23	534	0.4505	2.546	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+AF-A0A7H8QTK9-F1-model_v6	927	1	80	270	0.169	3.967e-07	534	0.4138	3.72	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A2G8LDJ3-F1-model_v6	928	1	1	269	0.344	2.674e-21	534	0.5121	2.136	true	S138	0.3277	retained	-	NA	unresolved	D266	1.491	altered	-	NA	unresolved	retained	Ser200 S138 retained
+AF-K5CEZ0-F1-model_v6	929	1	66	262	0.163	1.048e-07	534	0.4115	3.825	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-E0W5V2-F1-model_v6	930	1	2	259	0.435	1.231e-23	534	0.4691	1.501	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.47 < 0.50)
+AF-A0A4Q4UJ34-F1-model_v6	931	1	17	257	0.299	7.754e-19	534	0.4465	3.157	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+AF-A0A1B0GQ38-F1-model_v6	932	1	3	255	0.281	1.232e-13	534	0.441	2.69	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+AF-A0A8J7N4L7-F1-model_v6	933	1	63	255	0.14	2.468e-08	534	0.4109	3.524	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-X1B9J0-F1-model_v6	934	1	6	254	0.365	5.23e-23	534	0.4579	1.763	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.46 < 0.50)
+AF-Q68GX1-F1-model_v6	935	1	8	254	0.357	1.482e-17	534	0.4456	1.867	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+AF-A0A9X4KR84-F1-model_v6	936	1	3	253	0.368	9.22e-24	534	0.4779	2.696	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.48 < 0.50)
+AF-A0A0M2K9T3-F1-model_v6	937	1	39	253	0.445	7.842e-23	534	0.3993	2.272	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+AF-A0A2P5VK42-F1-model_v6	938	1	60	253	0.174	4.61e-09	534	0.4115	3.473	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A7R9MCB8-F1-model_v6	939	1	5	252	0.379	3.292e-23	534	0.4511	1.673	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+AF-A0A4P2VP04-F1-model_v6	940	1	58	251	0.154	1.048e-07	534	0.4104	3.613	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A496WPD8-F1-model_v6	941	1	59	250	0.138	5.297e-07	534	0.4108	3.603	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A9D9D014-F1-model_v6	942	1	24	247	0.396	3.37e-21	534	0.4083	2.818	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A7V9SN32-F1-model_v6	943	1	50	246	0.164	2.936e-08	534	0.4161	3.651	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+AF-A0A4R9K4U1-F1-model_v6	944	1	62	246	0.111	1.124e-06	534	0.4047	3.531	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+AF-A0A0K8Q3R3-F1-model_v6	945	1	4	240	0.406	9.884e-23	534	0.437	1.685	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+AF-A0A7R9HCD2-F1-model_v6	946	1	30	239	0.394	6.985e-23	534	0.4048	1.906	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+AF-A0A8C3T6U2-F1-model_v6	947	1	2	239	0.308	8.81e-13	534	0.4287	3.456	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.43 < 0.50)
+AF-F7ANP5-F1-model_v6	948	1	6	238	0.412	4.605e-24	534	0.4149	2.328	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A0N4X6R6-F1-model_v6	949	1	19	238	0.352	1.432e-20	534	0.446	4.342	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+AF-A0A8B6FIT8-F1-model_v6	950	1	15	237	0.344	1e-21	534	0.4761	2.815	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.48 < 0.50)
+AF-V3ZWI4-F1-model_v6	951	1	1	237	0.38	1.097e-18	534	0.424	1.354	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+AF-A0AA88YC64-F1-model_v6	952	1	19	231	0.372	9.437e-22	534	0.4376	2.015	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+AF-E4XRS5-F1-model_v6	953	1	14	228	0.402	4.659e-23	534	0.4433	2.331	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+AF-A0A7K6II84-F1-model_v6	954	1	3	227	0.432	1.644e-23	534	0.3905	2.011	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+AF-A0A821REA1-F1-model_v6	955	1	11	226	0.445	2.552e-25	534	0.3734	1.05	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+AF-A0A226MJE3-F1-model_v6	956	1	6	225	0.387	4.248e-21	534	0.3911	2.834	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+AF-A0A813Z2K0-F1-model_v6	957	1	2	224	0.336	1.351e-20	534	0.3898	2.167	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+AF-A0A930RHW2-F1-model_v6	958	1	54	224	0.329	2.525e-11	534	0.2966	2.624	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.30 < 0.50)
+AF-I4DND7-F1-model_v6	959	1	1	223	0.417	1.085e-14	534	0.4092	1.965	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A0B1TFY7-F1-model_v6	960	1	73	222	0.348	5.611e-12	534	0.2608	2.332	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.26 < 0.50)
+AF-A0A7R8VZG6-F1-model_v6	961	1	1	221	0.273	6.448e-10	534	0.3669	2.415	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+AF-A0A8U8BLW2-F1-model_v6	962	1	65	220	0.586	1.035e-18	534	0.3388	4.176	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.34 < 0.50)
+AF-A0A6B3UNH7-F1-model_v6	963	1	40	220	0.191	1.646e-08	534	0.4017	3.369	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+AF-A0A7V9B3G0-F1-model_v6	964	1	1	219	0.412	1.57e-22	534	0.4123	1.841	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A1A9VW80-F1-model_v6	965	1	21	219	0.297	9.123e-10	534	0.3788	3.01	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+AF-A0A0M3IVP7-F1-model_v6	966	1	12	217	0.334	7.664e-20	534	0.3942	2.629	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+AF-A0A8T5UA96-F1-model_v6	967	1	6	215	0.412	4.448e-22	534	0.3869	1.45	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+AF-A0A8T2NVK7-F1-model_v6	968	1	7	215	0.381	8.121e-20	534	0.3591	2.558	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+AF-A0A915BAX5-F1-model_v6	969	1	26	213	0.318	1.336e-16	534	0.3309	2.3	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.33 < 0.50)
+AF-A0A7R9LJT8-F1-model_v6	970	1	8	212	0.434	1.136e-20	534	0.3603	1.933	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+AF-A0A183IAK3-F1-model_v6	971	1	1	212	0.46	1.072e-15	534	0.3856	1.731	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+AF-A0A8E2EZH8-F1-model_v6	972	1	19	212	0.153	6.599e-08	534	0.4055	3.493	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+AF-A0A0M3KIR6-F1-model_v6	973	1	32	209	0.306	6.156e-09	534	0.352	2.72	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.35 < 0.50)
+AF-A0A8D8E5C5-F1-model_v6	974	1	23	207	0.41	3.491e-13	534	0.3825	2.097	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+AF-A0A672YP87-F1-model_v6	975	1	24	206	0.423	1.626e-19	534	0.3175	1.898	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.32 < 0.50)
+AF-A0A1I9GBA0-F1-model_v6	976	1	1	197	0.379	4.201e-12	534	0.373	2.01	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+AF-A0A2J7RMS6-F1-model_v6	977	1	3	195	0.446	7.578e-16	534	0.3519	2.276	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.35 < 0.50)
+AF-A0A0H3XQ97-F1-model_v6	978	1	17	194	0.4	1.553e-18	534	0.3168	1.99	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.32 < 0.50)
+AF-W0GJ62-F1-model_v6	979	1	14	189	0.536	1.11e-22	534	0.3268	0.7612	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.33 < 0.50)
+AF-A0A6N8VV00-F1-model_v6	980	1	7	186	0.392	5.675e-16	534	0.3213	1.999	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.32 < 0.50)
+AF-A0A0V0YAE9-F1-model_v6	981	1	34	182	0.316	1.352e-10	534	0.2963	2.868	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.30 < 0.50)
+AF-A0A2C9LEV2-F1-model_v6	982	1	3	181	0.46	1.5e-16	534	0.3627	1.508	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+AF-A0A7R9B124-F1-model_v6	983	1	3	179	0.329	4.884e-09	534	0.3371	2.436	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.34 < 0.50)
+AF-A0AA39LYC0-F1-model_v6	984	1	21	175	0.31	3.183e-11	534	0.295	2.893	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.29 < 0.50)
+AF-A0A0A6YVZ5-F1-model_v6	985	1	27	174	0.547	3.256e-19	534	0.2685	1.03	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.27 < 0.50)
+AF-A0A2T7NZF2-F1-model_v6	986	1	74	174	0.198	0.0002174	534	0.3589	3.612	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+AF-A0A131XYD5-F1-model_v6	987	1	17	172	0.373	1.703e-15	534	0.2768	1.892	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.28 < 0.50)
+AF-A0A914Q574-F1-model_v6	988	1	2	172	0.345	1.336e-11	534	0.3165	2.041	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.32 < 0.50)
+AF-A0A151INJ9-F1-model_v6	989	1	3	171	0.406	2.123e-11	534	0.3066	1.74	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.31 < 0.50)
+AF-A0A1B6CIZ3-F1-model_v6	990	1	1	169	0.5	2.438e-19	534	0.2875	1.1	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.29 < 0.50)
+AF-A0A3B5QHT9-F1-model_v6	991	1	21	168	0.513	2.801e-17	534	0.2935	1.769	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.29 < 0.50)
+AF-A0A3B1IGG9-F1-model_v6	992	1	66	164	0.353	1.191e-06	534	0.2075	3.165	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.21 < 0.50)
+AF-A0A534Q7K0-F1-model_v6	993	1	1	155	0.327	8.81e-13	534	0.3127	2.97	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.31 < 0.50)
+AF-A0A1B1YJ89-F1-model_v6	994	1	1	155	0.337	1.4e-12	534	0.2695	2.26	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.27 < 0.50)
+AF-A0A9W9ZLY9-F1-model_v6	995	1	2	153	0.37	1.368e-09	534	0.3242	2.664	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.32 < 0.50)
+AF-A0A822FWE7-F1-model_v6	996	1	2	151	0.283	3.744e-07	534	0.2705	1.834	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.27 < 0.50)
+AF-A0A3S1B182-F1-model_v6	997	1	44	129	0.378	2.124e-06	534	0.1558	2.421	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.16 < 0.50)
+AF-A0A151JVT5-F1-model_v6	998	1	18	127	0.315	4.774e-06	534	0.2471	3.156	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.25 < 0.50)
+AF-A0A183D0X3-F1-model_v6	999	1	17	105	0.385	2.836e-06	534	0.1899	2.208	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.19 < 0.50)
+AF-A0A4Q0INH7-F1-model_v6	1000	0.999	144	394	0.149	3.221e-05	534	0.3959	4.045	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)

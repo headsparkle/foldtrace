@@ -1,0 +1,14 @@
+wrote results/calls.tsv: 1000 candidates (3 altered, 131 lost, 737 retained, 129 unresolved)
+
+--- not looked at yet --------------------------------------------
+1000 candidates mapped (3 altered, 131 lost, 737 retained, 129 unresolved)
+
+1. Profile every position, not only the declared ones
+   `run` reads only the positions you declared. It cannot tell you what the candidates share at positions you did not declare -- which is how a buried network, or any undeclared shared chemistry, stays invisible. 134 of 1000 candidates here lost or altered the declared site; whatever those members hold in common is computable and has not been computed.
+     $ foldtrace profile --reference reference.pdb --candidates 'models/*.pdb' --out profile.tsv
+
+2. Build a sequence clustering
+   Without `--clusters` every detector treats near-identical proteins as independent observations, and an expanded clade reads as conservation. Two columns: candidate, cluster.
+     $ # e.g. MMseqs2 at 50% identity, 80% coverage, then write candidate/cluster
+
+   (3 more: foldtrace next)

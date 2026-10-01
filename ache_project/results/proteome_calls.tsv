@@ -1,0 +1,693 @@
+candidate	tm_norm_ref	rmsd	fold_ok	Ser200_obs	Ser200_offsetA	Ser200_state	His440_obs	His440_offsetA	His440_state	Glu327_obs	Glu327_offsetA	Glu327_state	Trp84_obs	Trp84_offsetA	Trp84_state	verdict	state_reason
+P02843	0.337	5.60	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.34 < 0.50)
+P06276	0.978	1.33	true	S226	0.28	retained	H466	0.29	retained	E353	0.45	retained	W110	0.42	retained	retained	Ser200 S226 retained
+P07140	0.952	1.79	true	S276	0.38	retained	H518	0.25	retained	E405	0.25	retained	W121	0.45	retained	retained	Ser200 S276 retained
+P07882	0.890	2.75	true	S214	1.12	retained	H455	0.61	retained	D340	0.88	altered	-	NA	unresolved	retained	Ser200 S214 retained
+P08171	0.837	3.15	true	S209	0.76	retained	H466	1.31	retained	D340	1.79	altered	-	NA	unresolved	retained	Ser200 S209 retained
+P10959	0.898	2.56	true	S221	0.63	retained	H453	0.46	retained	E340	0.65	retained	G104	11.91	unresolved	retained	Ser200 S221 retained
+P14740	0.384	5.34	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+P15304	0.442	5.13	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+P16303	0.912	2.67	true	S221	0.73	retained	H466	0.58	retained	E353	0.70	retained	R104	11.58	unresolved	retained	Ser200 S221 retained
+P18142	0.866	2.58	true	S213	0.40	retained	H440	0.22	retained	E338	0.36	retained	V99	2.81	lost	retained	Ser200 S213 retained
+P18167	0.831	3.26	true	S206	0.69	retained	H466	1.37	retained	D337	1.92	altered	-	NA	unresolved	retained	Ser200 S206 retained
+P19835	0.891	2.79	true	S214	1.09	retained	H455	0.35	retained	D340	0.86	altered	-	NA	unresolved	retained	Ser200 S214 retained
+P21836	0.987	1.08	true	S234	0.21	retained	H478	0.09	retained	E365	0.52	retained	W117	0.35	retained	retained	Ser200 S234 retained
+P21837	0.869	2.64	true	S215	0.56	retained	H443	0.25	retained	E340	0.42	retained	S101	2.61	lost	retained	Ser200 S215 retained
+P22303	0.985	1.14	true	S234	0.18	retained	H478	0.14	retained	E365	0.58	retained	W117	0.29	retained	retained	Ser200 S234 retained
+P23141	0.910	2.59	true	S221	0.76	retained	H468	0.50	retained	E354	0.58	retained	R104	11.68	unresolved	retained	Ser200 S221 retained
+P23654	0.755	3.62	true	R548	1.53	lost	V767	1.70	lost	E679	2.00	retained	-	NA	unresolved	lost	Ser200 R not in expected {S}
+P23872	0.405	3.54	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+P23953	0.893	2.67	true	S221	0.83	retained	H455	0.65	retained	E342	0.87	retained	E104	11.51	unresolved	retained	Ser200 S221 retained
+P27487	0.383	5.41	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+P28321	0.400	3.76	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+P28843	0.384	5.36	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+P33438	0.842	3.26	true	A246	0.70	lost	L504	0.93	lost	A383	1.42	lost	-	NA	unresolved	lost	Ser200 A not in expected {S}
+P34422	0.423	4.81	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+P37136	0.986	1.10	true	S234	0.23	retained	H478	0.15	retained	E365	0.58	retained	W117	0.32	retained	retained	Ser200 S234 retained
+P38433	0.964	1.56	true	S216	0.29	retained	H468	0.42	retained	E346	0.26	retained	W99	0.37	retained	retained	Ser200 S216 retained
+P39298	0.367	3.59	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+P39721	0.343	3.50	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.34 < 0.50)
+P40363	0.408	4.37	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+P42658	0.390	5.45	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+P45524	0.382	4.96	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+P46101	0.390	5.72	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+P53264	0.403	4.87	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+P54310	0.443	4.99	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+P54316	0.358	5.34	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+P56262	0.374	3.38	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+P71668	0.410	3.51	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+P76092	0.397	4.42	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+P87109	0.283	7.50	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.28 < 0.50)
+P92016	0.831	3.43	true	S216	0.48	retained	H453	0.75	retained	E347	0.73	retained	G96	11.00	unresolved	retained	Ser200 S216 retained
+P96402	0.411	3.79	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+P97321	0.384	5.29	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+P9WGS3	0.405	5.61	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+P9WK87	0.407	3.61	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+P9WK89	0.444	5.39	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+B0F2B4	0.912	2.61	true	G263	0.73	lost	H562	0.33	retained	E396	0.45	retained	I118	4.73	unresolved	lost	Ser200 G not in expected {S}
+B0R1C4	0.385	5.69	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+B0XAZ4	0.756	2.91	true	S211	0.28	retained	H456	1.04	retained	E341	1.57	retained	-	NA	unresolved	retained	Ser200 S211 retained
+B1AVU5	0.408	4.07	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+B1AVU6	0.409	4.01	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+B1AVU7	0.410	3.97	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+B3MF48	0.872	2.96	true	S207	0.83	retained	H467	1.14	retained	E343	1.30	retained	-	NA	unresolved	retained	Ser200 S207 retained
+B3SA27	0.911	2.36	true	S196	0.22	retained	H435	0.67	retained	D328	1.51	altered	-	NA	unresolved	retained	Ser200 S196 retained
+B3SF12	0.692	2.12	true	S106	0.37	retained	H348	0.70	retained	D238	1.40	altered	-	NA	unresolved	retained	Ser200 S106 retained
+B4F7W5	0.418	4.26	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+B4FKB8	0.348	4.95	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.35 < 0.50)
+B4FMQ7	0.396	4.19	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+B4FRL3	0.415	3.25	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+B4FXD5	0.267	4.79	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.27 < 0.50)
+B4G163	0.369	4.60	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+B4MQF4	0.782	2.96	true	S197	0.79	retained	H451	1.24	retained	E332	0.89	retained	-	NA	unresolved	retained	Ser200 S197 retained
+B4QZP3	0.866	3.00	true	S194	0.47	retained	H444	0.45	retained	E322	1.10	retained	-	NA	unresolved	retained	Ser200 S194 retained
+B5DDZ4	0.378	5.11	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+B5T1Y3	0.557	2.65	true	S158	0.39	retained	-	NA	unresolved	E288	1.23	retained	-	NA	unresolved	retained	Ser200 S158 retained
+B5THM5	0.943	1.72	true	S222	0.48	retained	H463	0.31	retained	E349	0.29	retained	W107	1.02	retained	retained	Ser200 S222 retained
+B6HY21	0.789	2.77	true	S155	0.03	retained	H409	0.63	retained	E288	1.13	retained	-	NA	unresolved	retained	Ser200 S155 retained
+B6VQ83	0.799	2.91	true	S226	0.95	retained	H429	1.31	retained	E350	1.37	retained	-	NA	unresolved	retained	Ser200 S226 retained
+B7P3Z1	0.828	2.32	true	S221	0.45	retained	H464	1.10	retained	E350	1.22	retained	I101	3.74	lost	retained	Ser200 S221 retained
+B7P808	0.666	2.36	true	G108	0.22	lost	N372	0.62	lost	E245	0.83	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+B7PI66	0.918	2.34	true	S220	0.55	retained	H465	0.73	retained	E351	0.96	retained	A100	2.92	lost	retained	Ser200 S220 retained
+B7PJL9	0.827	3.16	true	D273	0.59	lost	H523	1.38	retained	E407	1.28	retained	-	NA	unresolved	lost	Ser200 D not in expected {S}
+B7PWE5	0.883	3.04	true	S236	0.44	retained	H479	0.86	retained	E364	1.08	retained	-	NA	unresolved	retained	Ser200 S236 retained
+B7Q1U9	0.900	2.51	true	S221	0.15	retained	H462	0.47	retained	E347	0.93	retained	E104	7.28	unresolved	retained	Ser200 S221 retained
+B7Z150	0.324	6.46	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.32 < 0.50)
+B7ZF08	0.354	1.93	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.35 < 0.50)
+B7ZF10	0.726	3.23	true	S248	1.10	retained	H489	0.35	retained	E379	0.37	retained	-	NA	unresolved	retained	Ser200 S248 retained
+B8A0V1	0.404	4.64	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+B9G225	0.412	4.56	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+C0H4S9	0.301	6.00	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.30 < 0.50)
+C0HDV1	0.416	4.79	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+C0NA63	0.836	2.83	true	S227	0.33	retained	H445	0.33	retained	E348	0.89	retained	P110	6.66	unresolved	retained	Ser200 S227 retained
+C0NBX4	0.413	4.30	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+C0NNT0	0.843	3.12	true	S208	0.75	retained	H441	1.00	retained	E333	1.00	retained	-	NA	unresolved	retained	Ser200 S208 retained
+C0NRE6	0.397	4.44	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+C0NS03	0.852	2.90	true	S253	0.33	retained	H493	0.53	retained	E384	0.45	retained	-	NA	unresolved	retained	Ser200 S253 retained
+C0NSC3	0.342	3.58	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.34 < 0.50)
+C0NTN3	0.416	3.78	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+C0NU33	0.411	4.75	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+C0NWW6	0.377	3.84	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+C0NZW8	0.386	6.11	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+C0P4P7	0.409	4.75	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+C1GQU0	0.842	2.88	true	S227	0.57	retained	H444	0.35	retained	E347	0.60	retained	P110	6.82	unresolved	retained	Ser200 S227 retained
+C1GRX8	0.857	2.96	true	S197	0.36	retained	H437	0.66	retained	E328	0.67	retained	-	NA	unresolved	retained	Ser200 S197 retained
+C1GXH0	0.389	6.39	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+C1H0J9	0.416	3.55	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+C1H249	0.842	3.15	true	S207	0.59	retained	H437	0.88	retained	E332	0.82	retained	-	NA	unresolved	retained	Ser200 S207 retained
+C1H4H2	0.414	4.45	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+C1H5H0	0.809	2.62	true	S217	0.55	retained	H413	0.40	retained	E345	0.91	retained	A101	1.77	lost	retained	Ser200 S217 retained
+C1H5J0	0.437	3.64	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+C1H5W3	0.410	5.32	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+C1HEC8	0.377	3.83	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+C3Y7S1	0.800	2.07	true	S199	0.42	retained	H409	0.75	retained	E321	1.25	retained	K85	8.66	unresolved	retained	Ser200 S199 retained
+C3YBW7	0.914	2.39	true	S216	0.62	retained	H463	0.66	retained	E350	0.35	retained	-	NA	unresolved	retained	Ser200 S216 retained
+C3YV27	0.818	2.35	true	S169	0.47	retained	H383	0.40	retained	E287	0.35	retained	F58	8.44	unresolved	retained	Ser200 S169 retained
+C3YX18	0.396	1.70	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+C4J9Z0	0.381	4.73	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+C5BY90	0.800	3.29	true	S190	1.02	retained	H415	0.61	retained	E322	0.85	retained	I76	3.53	lost	retained	Ser200 S190 retained
+C5FXJ1	0.844	3.16	true	S211	0.68	retained	H441	1.18	retained	E337	0.99	retained	-	NA	unresolved	retained	Ser200 S211 retained
+C6TML4	0.409	4.10	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+C7ZKH4	0.841	2.96	true	S202	0.97	retained	H430	0.51	retained	E333	1.09	retained	L88	2.71	lost	retained	Ser200 S202 retained
+C9YXN5	0.720	3.19	true	S143	0.72	retained	H372	0.11	retained	E266	0.53	retained	G24	3.23	lost	retained	Ser200 S143 retained
+D0EVW9	0.912	2.44	true	G276	0.75	lost	H510	0.17	retained	E397	0.54	retained	A140	4.31	unresolved	lost	Ser200 G not in expected {S}
+D0EVX1	0.908	2.44	true	G252	0.83	lost	H487	0.21	retained	E373	0.58	retained	V134	4.86	unresolved	lost	Ser200 G not in expected {S}
+D0EVX3	0.911	2.36	true	G231	0.80	lost	H466	0.12	retained	E352	0.50	retained	V112	4.88	unresolved	lost	Ser200 G not in expected {S}
+D1BDQ0	0.780	3.02	true	S184	0.67	retained	H409	0.32	retained	E312	0.24	retained	-	NA	unresolved	retained	Ser200 S184 retained
+D1BEC0	0.853	2.88	true	S216	0.97	retained	H439	0.37	retained	E339	0.39	retained	R94	7.82	unresolved	retained	Ser200 S216 retained
+D2U6X2	0.791	1.22	true	S99	0.37	retained	H339	0.53	retained	E225	0.52	retained	-	NA	unresolved	retained	Ser200 S99 retained
+D2VJJ7	0.851	2.78	true	S221	0.23	retained	H437	0.65	retained	E334	0.76	retained	N96	3.70	lost	retained	Ser200 S221 retained
+D2X2F9	0.913	2.40	true	G302	0.80	lost	H546	0.26	retained	E432	0.61	retained	V143	4.74	unresolved	lost	Ser200 G not in expected {S}
+D3B5Y9	0.486	2.04	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.49 < 0.50)
+D3Z298	0.901	2.72	true	S222	0.66	retained	H467	0.56	retained	E354	0.66	retained	N104	11.99	unresolved	retained	Ser200 S222 retained
+D3Z5G7	0.911	2.51	true	S221	0.74	retained	H468	0.34	retained	E355	0.64	retained	K104	10.45	unresolved	retained	Ser200 S221 retained
+D3ZAW4	0.377	4.35	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+D3ZBA8	0.408	4.04	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+D3ZCR8	0.411	3.86	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+D3ZP14	0.904	2.24	true	S225	0.51	retained	H454	0.48	retained	E342	0.62	retained	E110	12.08	unresolved	retained	Ser200 S225 retained
+D3ZTU9	0.410	3.95	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+D4A340	0.410	4.05	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+D4A3D4	0.392	5.59	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+D4AA05	0.906	2.67	true	S265	0.79	retained	H510	0.44	retained	E397	0.51	retained	Q148	11.86	unresolved	retained	Ser200 S265 retained
+D4AE76	0.901	2.78	true	S228	0.37	retained	H475	0.41	retained	E360	0.89	retained	R111	11.53	unresolved	retained	Ser200 S228 retained
+D5G3G4	0.470	2.03	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.47 < 0.50)
+D6XM23	0.335	3.60	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.33 < 0.50)
+E0VCD0	0.778	3.65	true	R506	1.35	lost	I730	1.96	lost	S634	1.88	lost	-	NA	unresolved	lost	Ser200 R not in expected {S}
+E0W5V2	0.469	1.50	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.47 < 0.50)
+E2C2N5	0.732	2.26	true	G94	0.44	lost	H351	0.68	retained	E239	0.61	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+E2J7H2	0.517	1.51	true	-	NA	unresolved	H193	0.61	retained	E79	0.63	retained	-	NA	unresolved	unresolved	Ser200: reference position aligned to a gap
+E3LP45	0.882	2.79	true	S229	0.78	retained	H470	0.70	retained	E352	0.93	retained	A108	7.80	unresolved	retained	Ser200 S229 retained
+E3S8R6	0.820	3.41	true	S213	0.84	retained	H443	1.05	retained	E331	0.95	retained	A91	11.33	unresolved	retained	Ser200 S213 retained
+E4WUG8	0.611	3.29	true	S231	0.84	retained	-	NA	unresolved	E368	1.80	retained	-	NA	unresolved	retained	Ser200 S231 retained
+E4XQM3	0.623	3.62	true	S59	1.48	retained	H319	1.03	retained	D186	1.81	altered	-	NA	unresolved	retained	Ser200 S59 retained
+E4XRS5	0.443	2.33	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+E4YVU0	0.766	3.05	true	S177	0.92	retained	H428	0.98	retained	E305	0.77	retained	-	NA	unresolved	retained	Ser200 S177 retained
+E7F881	0.364	4.28	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+E9AGJ6	0.369	4.66	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+E9H9Z4	0.530	2.18	true	G189	0.87	lost	-	NA	unresolved	E329	1.67	retained	M64	3.77	lost	lost	Ser200 G not in expected {S}
+E9HH56	0.917	2.29	true	G221	0.58	lost	H463	0.97	retained	E351	0.29	retained	L95	3.82	lost	lost	Ser200 G not in expected {S}
+E9PV38	0.897	2.52	true	S229	0.70	retained	H458	0.52	retained	E346	0.93	retained	T114	10.93	unresolved	retained	Ser200 S229 retained
+E9PYP1	0.911	2.55	true	S221	0.60	retained	H466	0.51	retained	E353	0.58	retained	Q104	11.97	unresolved	retained	Ser200 S221 retained
+F1L947	0.666	2.39	true	S214	0.12	retained	-	NA	unresolved	E338	1.36	retained	-	NA	unresolved	retained	Ser200 S214 retained
+F1LQJ4	0.732	2.79	true	-	NA	unresolved	H409	0.61	retained	E296	0.68	retained	-	NA	unresolved	unresolved	Ser200: reference position aligned to a gap
+F1LZ91	0.399	6.07	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+F3L0S2	0.779	3.02	true	S185	0.46	retained	H402	0.83	retained	E313	0.66	retained	L74	3.42	lost	retained	Ser200 S185 retained
+F4P1M2	0.867	2.68	true	S240	0.57	retained	H463	0.81	retained	E359	1.29	retained	-	NA	unresolved	retained	Ser200 S240 retained
+F6Z9B9	0.900	2.32	true	S227	0.78	retained	H456	0.78	retained	E344	1.11	retained	T112	11.31	unresolved	retained	Ser200 S227 retained
+F7ANP5	0.415	2.33	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+F9XHR4	0.806	3.36	true	S225	0.73	retained	H444	1.09	retained	E331	1.24	retained	-	NA	unresolved	retained	Ser200 S225 retained
+G0HA48	0.847	2.57	true	S197	0.49	retained	H427	0.62	retained	E331	0.48	retained	V79	2.99	lost	retained	Ser200 S197 retained
+G0RZB1	0.852	2.95	true	S210	0.31	retained	H468	0.35	retained	E360	0.49	retained	-	NA	unresolved	retained	Ser200 S210 retained
+G3I5K9	0.563	3.37	true	S136	0.53	retained	-	NA	unresolved	E233	0.28	retained	R19	11.33	unresolved	retained	Ser200 S136 retained
+G3Q2T3	0.768	2.62	true	G247	1.06	lost	I487	2.04	lost	E368	0.59	retained	V129	4.98	unresolved	lost	Ser200 G not in expected {S}
+G3V7J5	0.897	2.39	true	S237	0.69	retained	H465	0.41	retained	E354	0.59	retained	-	NA	unresolved	retained	Ser200 S237 retained
+G3XVT7	0.386	2.13	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+G4V357	0.479	1.50	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.48 < 0.50)
+G5EC03	0.794	2.88	true	S208	0.28	retained	H415	0.80	retained	E335	0.73	retained	-	NA	unresolved	retained	Ser200 S208 retained
+G5EDJ7	0.824	3.39	true	S215	0.85	retained	H450	0.70	retained	E346	0.83	retained	N95	7.45	unresolved	retained	Ser200 S215 retained
+G5EDN1	0.942	2.14	true	S219	0.67	retained	H475	0.41	retained	E347	0.42	retained	W105	0.33	retained	retained	Ser200 S219 retained
+G5EDV9	0.940	2.11	true	S231	0.42	retained	H491	0.66	retained	E361	0.95	retained	W117	0.64	retained	retained	Ser200 S231 retained
+G5IFJ5	0.803	3.61	true	S200	0.74	retained	H429	0.89	retained	E317	0.87	retained	-	NA	unresolved	retained	Ser200 S200 retained
+G6EG77	0.818	3.19	true	S212	0.70	retained	H423	0.47	retained	E324	1.30	retained	Y92	3.06	altered	retained	Ser200 S212 retained
+G8A515	0.699	3.05	true	S128	0.86	retained	H354	1.04	retained	E245	1.20	retained	L9	4.79	unresolved	retained	Ser200 S128 retained
+G8XGG0	0.797	3.09	true	S278	0.46	retained	H496	0.20	retained	E402	0.36	retained	-	NA	unresolved	retained	Ser200 S278 retained
+H1UV97	0.864	2.84	true	S250	0.23	retained	H496	0.54	retained	E383	0.59	retained	L126	8.30	unresolved	retained	Ser200 S250 retained
+H2KZK7	0.404	5.47	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+H2L0B1	0.378	4.32	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+H2L0K7	0.879	3.16	true	S220	0.72	retained	H530	0.69	retained	E382	0.76	retained	K99	8.92	unresolved	retained	Ser200 S220 retained
+H2NR56	0.590	2.38	true	S217	0.40	retained	-	NA	unresolved	E335	0.81	retained	Q103	5.97	unresolved	retained	Ser200 S217 retained
+H2XK96	0.868	2.52	true	S232	0.92	retained	H465	0.62	retained	E348	0.50	retained	V114	6.44	unresolved	retained	Ser200 S232 retained
+H2Y0W3	0.871	2.50	true	S204	0.04	retained	H424	0.74	retained	E319	0.80	retained	I89	5.45	unresolved	retained	Ser200 S204 retained
+H3KC83	0.777	2.64	true	S214	0.58	retained	H411	0.53	retained	E343	0.67	retained	-	NA	unresolved	retained	Ser200 S214 retained
+H9G2Y9	0.821	3.40	true	S216	0.63	retained	H451	0.62	retained	E347	0.88	retained	N96	7.83	unresolved	retained	Ser200 S216 retained
+I1J6J7	0.415	4.41	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+I1JAV0	0.413	3.09	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+I1JIH6	0.415	4.79	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+I1JJ30	0.290	5.46	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.29 < 0.50)
+I1JJ42	0.316	6.07	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.32 < 0.50)
+I1JQM5	0.414	4.43	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+I1JQS1	0.304	7.87	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.30 < 0.50)
+I1JUW8	0.408	3.97	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+I1K7Y1	0.412	3.21	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+I1KJ12	0.412	4.38	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+I1KLY2	0.416	3.37	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+I1KN74	0.340	3.29	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.34 < 0.50)
+I1KN75	0.338	3.36	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.34 < 0.50)
+I1KTZ8	0.412	4.47	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+I1L7C0	0.417	4.63	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+I1LD14	0.412	4.21	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+I1LEK1	0.409	4.85	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+I1LP28	0.389	5.32	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+I1MMN5	0.433	4.60	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.43 < 0.50)
+I1MS42	0.400	5.68	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+I1MWR8	0.414	3.08	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+I1N0Y4	0.297	5.78	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.30 < 0.50)
+I1N7A3	0.419	4.67	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+I1NAX6	0.410	3.14	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+I1NFJ7	0.416	4.21	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+I4DND7	0.409	1.97	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+I4W9J1	0.768	3.27	true	S193	1.24	retained	H409	1.04	retained	E318	0.79	retained	S75	8.06	unresolved	retained	Ser200 S193 retained
+I6XVY0	0.368	3.47	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+I6Y9F7	0.415	3.69	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+I6YEE6	0.450	4.69	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+I6YEM7	0.456	3.06	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.46 < 0.50)
+I8U1W4	0.895	2.50	true	S358	0.57	retained	H600	0.55	retained	E486	0.83	retained	D235	7.34	unresolved	retained	Ser200 S358 retained
+J2B5V7	0.824	3.06	true	S232	0.73	retained	H454	0.70	retained	E350	1.36	retained	F119	2.22	altered	retained	Ser200 S232 retained
+J3NXF4	0.846	3.05	true	S310	0.94	retained	H551	0.79	retained	E444	0.71	retained	-	NA	unresolved	retained	Ser200 S310 retained
+J5JDE3	0.809	3.46	true	S228	0.93	retained	H472	0.69	retained	E362	0.72	retained	-	NA	unresolved	retained	Ser200 S228 retained
+J6EZ91	0.762	3.39	true	S199	0.46	retained	H449	0.47	retained	E332	0.92	retained	F84	3.10	altered	retained	Ser200 S199 retained
+J9F1B3	0.942	2.00	true	S223	0.32	retained	H488	0.80	retained	E358	0.94	retained	W109	0.63	retained	retained	Ser200 S223 retained
+K0EFX2	0.408	5.03	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+K0EKZ2	0.367	3.71	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+K0EL65	0.792	2.66	true	S166	0.80	retained	H393	0.23	retained	E301	0.39	retained	-	NA	unresolved	retained	Ser200 S166 retained
+K0EM89	0.428	5.24	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.43 < 0.50)
+K0EME5	0.419	4.74	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+K0EMK2	0.391	4.08	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+K0END8	0.378	4.87	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+K0EPK6	0.806	3.04	true	S212	0.78	retained	H427	0.37	retained	E335	0.47	retained	I100	3.80	lost	retained	Ser200 S212 retained
+K0ER24	0.369	4.28	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+K0ER98	0.360	4.14	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+K0ERC4	0.395	4.49	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+K0ERF8	0.390	4.11	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+K0ERP1	0.398	4.41	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+K0ESA4	0.321	7.72	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.32 < 0.50)
+K0ESE2	0.381	4.83	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+K0ESI3	0.407	5.03	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+K0ETP0	0.404	4.09	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+K0EUB3	0.713	2.42	true	S185	0.67	retained	H358	0.84	retained	E302	0.82	retained	-	NA	unresolved	retained	Ser200 S185 retained
+K0EUM3	0.370	5.52	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+K0EUW4	0.429	4.98	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.43 < 0.50)
+K0EV09	0.809	2.70	true	S185	0.54	retained	H414	0.11	retained	E320	0.58	retained	-	NA	unresolved	retained	Ser200 S185 retained
+K0EVP9	0.404	5.18	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+K0EWE4	0.332	3.68	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.33 < 0.50)
+K0EWL1	0.401	5.60	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+K0EWQ7	0.363	4.39	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+K0EXH9	0.409	3.15	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+K0EXL1	0.409	4.23	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+K0EY48	0.382	4.48	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+K0EZE9	0.369	4.51	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+K0EZJ5	0.404	3.76	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+K0F1R1	0.809	3.28	true	S189	1.55	retained	H420	0.11	retained	E324	0.92	retained	S72	8.56	unresolved	retained	Ser200 S189 retained
+K0F1R5	0.404	4.03	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+K0F2V9	0.397	4.87	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+K0F2W3	0.381	5.15	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+K0F306	0.406	3.81	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+K0F368	0.429	4.55	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.43 < 0.50)
+K0F3E2	0.392	5.52	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+K0F4F8	0.396	4.79	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+K0F585	0.443	5.43	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+K0F5U7	0.807	2.89	true	S180	0.87	retained	H397	0.44	retained	E307	0.12	retained	G68	7.73	unresolved	retained	Ser200 S180 retained
+K0F640	0.395	4.91	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+K0F727	0.771	3.03	true	S157	0.69	retained	H372	0.43	retained	E281	0.66	retained	P36	10.67	unresolved	retained	Ser200 S157 retained
+K0F7F6	0.380	4.66	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+K0F7T1	0.412	3.76	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+K0F7W8	0.381	4.81	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+K0FAJ3	0.391	4.79	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+K0FBW0	0.843	3.02	true	S212	0.58	retained	H436	0.37	retained	E335	0.69	retained	V85	4.88	unresolved	retained	Ser200 S212 retained
+K0FDU6	0.433	5.10	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.43 < 0.50)
+K0FDV6	0.409	4.33	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+K1QS99	0.906	2.54	true	S612	0.24	retained	H849	0.46	retained	E740	0.54	retained	V498	6.98	unresolved	retained	Ser200 S612 retained
+K1QWL6	0.887	2.63	true	S213	0.56	retained	H471	0.37	retained	E346	0.69	retained	-	NA	unresolved	retained	Ser200 S213 retained
+K1WB95	0.843	2.80	true	S352	0.37	retained	H583	0.42	retained	E468	0.82	retained	A230	2.81	lost	retained	Ser200 S352 retained
+K1WNK8	0.782	3.61	true	S194	0.29	retained	H415	1.02	retained	D317	1.39	altered	P68	11.16	unresolved	retained	Ser200 S194 retained
+K2RBT3	0.558	3.16	true	S222	0.97	retained	-	NA	unresolved	E350	1.39	retained	-	NA	unresolved	retained	Ser200 S222 retained
+K5CEZ0	0.412	3.82	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+K7AZB2	0.905	2.20	true	S292	0.46	retained	H521	0.68	retained	E409	0.72	retained	-	NA	unresolved	retained	Ser200 S292 retained
+K7KTZ0	0.393	4.20	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+K7LL20	0.447	5.09	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+K7LLR9	0.416	4.08	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+K7M512	0.418	4.80	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+K7MT28	0.448	5.10	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+K7MYE9	0.403	4.75	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+K7N361	0.409	4.63	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+K7VY73	0.449	5.15	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+K7W544	0.412	3.34	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+L0IE41	0.407	3.39	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+L0PE18	0.547	3.77	true	S326	0.44	retained	-	NA	unresolved	E452	1.28	retained	S226	4.25	unresolved	retained	Ser200 S326 retained
+L1MEB5	0.568	3.35	true	S129	0.76	retained	H323	0.88	retained	E243	0.73	retained	-	NA	unresolved	retained	Ser200 S129 retained
+L7M3J0	0.970	1.33	true	S230	0.44	retained	H470	0.37	retained	E356	0.22	retained	W112	0.40	retained	retained	Ser200 S230 retained
+M0R631	0.411	4.07	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+M0R9W7	0.903	2.41	true	S230	0.62	retained	H460	0.65	retained	E348	0.88	retained	-	NA	unresolved	retained	Ser200 S230 retained
+M2QND7	0.459	4.13	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.46 < 0.50)
+M2R8G9	0.804	3.28	true	G226	0.84	lost	H483	0.90	retained	E385	0.62	retained	P95	11.79	unresolved	lost	Ser200 G not in expected {S}
+M7BD44	0.697	2.74	true	S218	0.49	retained	-	NA	unresolved	E345	0.25	retained	W103	0.89	retained	retained	Ser200 S218 retained
+M7T092	0.785	3.41	true	S223	0.77	retained	H439	1.07	retained	E304	1.29	retained	D99	7.90	unresolved	retained	Ser200 S223 retained
+M7T6Y0	0.501	2.34	true	S690	0.96	retained	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	retained	Ser200 S690 retained
+M9PEW1	0.322	3.00	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.32 < 0.50)
+M9PGQ5	0.389	5.99	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+N6U8D5	0.777	2.72	true	S204	0.53	retained	H448	0.73	retained	E333	0.91	retained	-	NA	unresolved	retained	Ser200 S204 retained
+N6UQ41	0.326	2.10	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.33 < 0.50)
+O00748	0.903	2.22	true	S228	0.58	retained	H457	0.78	retained	E345	0.93	retained	T113	9.04	unresolved	retained	Ser200 S228 retained
+O01302	0.820	3.44	true	S213	0.83	retained	H448	0.70	retained	E344	0.82	retained	N93	6.45	unresolved	retained	Ser200 S213 retained
+O02252	0.416	6.11	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+O04083	0.417	3.93	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+O06832	0.414	3.79	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+O07178	0.406	4.28	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+O16467	0.328	5.61	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.33 < 0.50)
+O16490	0.876	2.84	true	S227	0.54	retained	H465	0.53	retained	E350	0.84	retained	A106	9.79	unresolved	retained	Ser200 S227 retained
+O16497	0.876	2.76	true	S211	0.88	retained	H445	0.55	retained	E334	0.69	retained	-	NA	unresolved	retained	Ser200 S211 retained
+O18501	0.332	3.19	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.33 < 0.50)
+O22248	0.414	4.16	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+O45083	0.787	3.15	true	S211	0.55	retained	H423	0.71	retained	E345	1.38	retained	-	NA	unresolved	retained	Ser200 S211 retained
+O45707	0.352	3.81	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.35 < 0.50)
+O53488	0.839	2.88	true	S204	0.88	retained	H421	0.57	retained	E328	0.92	retained	I84	12.71	unresolved	retained	Ser200 S204 retained
+O53697	0.399	4.35	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+O62202	0.363	3.92	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+O70631	0.902	2.40	true	S230	0.58	retained	H459	0.55	retained	E347	0.61	retained	I115	9.77	unresolved	retained	Ser200 S230 retained
+O76462	0.376	3.84	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+O80627	0.406	3.93	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+O94305	0.377	4.07	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+O94493	0.813	3.42	true	S216	0.40	retained	H456	0.79	retained	E346	0.96	retained	-	NA	unresolved	retained	Ser200 S216 retained
+P02843	0.337	5.60	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.34 < 0.50)
+P06276	0.978	1.33	true	S226	0.28	retained	H466	0.29	retained	E353	0.45	retained	W110	0.42	retained	retained	Ser200 S226 retained
+P07140	0.952	1.79	true	S276	0.38	retained	H518	0.25	retained	E405	0.25	retained	W121	0.45	retained	retained	Ser200 S276 retained
+P07882	0.890	2.75	true	S214	1.12	retained	H455	0.61	retained	D340	0.88	altered	-	NA	unresolved	retained	Ser200 S214 retained
+P08171	0.837	3.15	true	S209	0.76	retained	H466	1.31	retained	D340	1.79	altered	-	NA	unresolved	retained	Ser200 S209 retained
+P10959	0.898	2.56	true	S221	0.63	retained	H453	0.46	retained	E340	0.65	retained	G104	11.91	unresolved	retained	Ser200 S221 retained
+P14740	0.384	5.34	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+P15304	0.442	5.13	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+P16303	0.912	2.67	true	S221	0.73	retained	H466	0.58	retained	E353	0.70	retained	R104	11.58	unresolved	retained	Ser200 S221 retained
+P18142	0.866	2.58	true	S213	0.40	retained	H440	0.22	retained	E338	0.36	retained	V99	2.81	lost	retained	Ser200 S213 retained
+P18167	0.831	3.26	true	S206	0.69	retained	H466	1.37	retained	D337	1.92	altered	-	NA	unresolved	retained	Ser200 S206 retained
+P19835	0.891	2.79	true	S214	1.09	retained	H455	0.35	retained	D340	0.86	altered	-	NA	unresolved	retained	Ser200 S214 retained
+P21836	0.987	1.08	true	S234	0.21	retained	H478	0.09	retained	E365	0.52	retained	W117	0.35	retained	retained	Ser200 S234 retained
+P21837	0.869	2.64	true	S215	0.56	retained	H443	0.25	retained	E340	0.42	retained	S101	2.61	lost	retained	Ser200 S215 retained
+P22303	0.985	1.14	true	S234	0.18	retained	H478	0.14	retained	E365	0.58	retained	W117	0.29	retained	retained	Ser200 S234 retained
+P23141	0.910	2.59	true	S221	0.76	retained	H468	0.50	retained	E354	0.58	retained	R104	11.68	unresolved	retained	Ser200 S221 retained
+P23654	0.755	3.62	true	R548	1.53	lost	V767	1.70	lost	E679	2.00	retained	-	NA	unresolved	lost	Ser200 R not in expected {S}
+P23872	0.405	3.54	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+P23953	0.893	2.67	true	S221	0.83	retained	H455	0.65	retained	E342	0.87	retained	E104	11.51	unresolved	retained	Ser200 S221 retained
+P27487	0.383	5.41	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+P28321	0.400	3.76	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+P28843	0.384	5.36	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+P33438	0.842	3.26	true	A246	0.70	lost	L504	0.93	lost	A383	1.42	lost	-	NA	unresolved	lost	Ser200 A not in expected {S}
+P34422	0.423	4.81	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+P37136	0.986	1.10	true	S234	0.23	retained	H478	0.15	retained	E365	0.58	retained	W117	0.32	retained	retained	Ser200 S234 retained
+P38433	0.964	1.56	true	S216	0.29	retained	H468	0.42	retained	E346	0.26	retained	W99	0.37	retained	retained	Ser200 S216 retained
+P39298	0.367	3.59	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+P39721	0.343	3.50	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.34 < 0.50)
+P40363	0.408	4.37	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+P42658	0.390	5.45	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+P45524	0.382	4.96	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+P46101	0.390	5.72	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+P53264	0.403	4.87	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+P54310	0.443	4.99	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+P54316	0.358	5.34	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+P56262	0.374	3.38	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+P71668	0.410	3.51	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+P76092	0.397	4.42	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+P87109	0.283	7.50	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.28 < 0.50)
+P92016	0.831	3.43	true	S216	0.48	retained	H453	0.75	retained	E347	0.73	retained	G96	11.00	unresolved	retained	Ser200 S216 retained
+P96402	0.411	3.79	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+P97321	0.384	5.29	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+P9WGS3	0.405	5.61	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+P9WK87	0.407	3.61	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+P9WK89	0.444	5.39	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+Q02891	0.393	6.03	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q03311	0.982	1.27	true	S227	0.17	retained	H467	0.36	retained	E354	0.47	retained	W111	0.32	retained	retained	Ser200 S227 retained
+Q03649	0.390	6.04	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q04457	0.872	2.80	true	S198	0.73	retained	H452	0.78	retained	E319	1.02	retained	A83	10.83	unresolved	retained	Ser200 S198 retained
+Q05469	0.442	5.07	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+Q06522	0.363	4.43	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+Q07085	0.880	2.77	true	S208	0.40	retained	H446	0.99	retained	E331	1.17	retained	-	NA	unresolved	retained	Ser200 S208 retained
+Q08BF1	0.901	2.50	true	S228	0.54	retained	H457	0.62	retained	E346	0.84	retained	E107	13.48	unresolved	retained	Ser200 S228 retained
+Q08ED5	0.899	2.53	true	S230	0.45	retained	H459	0.44	retained	E347	0.51	retained	-	NA	unresolved	retained	Ser200 S230 retained
+Q0C8P0	0.826	3.34	true	S233	1.04	retained	H495	0.69	retained	E382	0.78	retained	-	NA	unresolved	retained	Ser200 S233 retained
+Q0DEB5	0.410	4.87	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q0JG99	0.333	4.36	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.33 < 0.50)
+Q0P651	0.380	4.88	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+Q12354	0.325	3.28	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.32 < 0.50)
+Q12884	0.385	5.43	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q17541	0.789	3.09	true	S203	0.70	retained	H415	0.85	retained	E337	1.74	retained	-	NA	unresolved	retained	Ser200 S203 retained
+Q17542	0.782	3.26	true	S206	0.62	retained	H418	0.87	retained	E340	1.62	retained	-	NA	unresolved	retained	Ser200 S206 retained
+Q18573	0.785	3.16	true	S206	0.52	retained	H416	0.80	retained	E338	1.27	retained	-	NA	unresolved	retained	Ser200 S206 retained
+Q18610	0.389	4.88	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q18852	0.401	4.90	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q18926	0.356	3.66	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+Q18927	0.355	3.54	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.35 < 0.50)
+Q18974	0.388	3.11	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q19086	0.412	4.98	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q1LUZ9	0.899	2.47	true	S222	0.52	retained	H451	0.57	retained	E340	0.68	retained	E107	10.07	unresolved	retained	Ser200 S222 retained
+Q1PET6	0.424	4.45	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q20826	0.920	2.34	true	D276	0.55	lost	R531	1.48	lost	D408	1.47	altered	-	NA	unresolved	lost	Ser200 D not in expected {S}
+Q21266	0.894	2.73	true	S211	0.88	retained	H461	0.71	retained	E335	0.91	retained	L94	11.10	unresolved	retained	Ser200 S211 retained
+Q22008	0.889	2.55	true	G219	0.61	lost	H456	1.04	retained	E340	1.09	retained	E100	12.40	unresolved	lost	Ser200 G not in expected {S}
+Q22561	0.416	5.41	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q23008	0.871	2.89	true	S206	0.16	retained	H444	1.22	retained	E329	1.58	retained	F85	5.63	unresolved	retained	Ser200 S206 retained
+Q23009	0.865	2.79	true	S208	0.30	retained	H442	0.77	retained	E331	1.23	retained	-	NA	unresolved	retained	Ser200 S208 retained
+Q23010	0.883	2.73	true	S209	0.56	retained	H448	0.81	retained	E332	0.92	retained	-	NA	unresolved	retained	Ser200 S209 retained
+Q23268	0.831	3.36	true	S214	0.64	retained	H449	0.78	retained	E345	0.86	retained	N94	6.54	unresolved	retained	Ser200 S214 retained
+Q2FVG3	0.760	2.93	true	S189	0.25	retained	H389	0.90	retained	E301	1.30	retained	Q72	11.63	unresolved	retained	Ser200 S189 retained
+Q2G0E5	0.414	3.84	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q2G2V6	0.377	3.85	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+Q2GQ48	0.655	3.18	true	S140	0.45	retained	H338	0.44	retained	D270	0.89	altered	-	NA	unresolved	retained	Ser200 S140 retained
+Q2HAB3	0.537	2.43	true	S205	0.88	retained	-	NA	unresolved	G335	1.94	lost	-	NA	unresolved	retained	Ser200 S205 retained
+Q2QYZ9	0.415	4.10	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q2V083	0.884	2.42	true	S186	0.22	retained	H434	0.68	retained	E313	0.77	retained	-	NA	unresolved	retained	Ser200 S186 retained
+Q328K7	0.367	3.59	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q32A08	0.376	3.59	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+Q32B12	0.382	5.04	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+Q32Q55	0.901	2.30	true	S227	0.64	retained	H456	0.74	retained	E344	1.13	retained	T112	10.80	unresolved	retained	Ser200 S227 retained
+Q38AG2	0.408	4.41	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q38DS6	0.379	3.72	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+Q49AJ0	0.398	6.20	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q4CP66	0.363	4.74	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+Q4CRK1	0.458	4.75	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.46 < 0.50)
+Q4D6L1	0.316	7.74	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.32 < 0.50)
+Q4D995	0.444	5.01	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+Q4DPT2	0.403	5.10	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q4DPY4	0.406	5.64	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q4E1K9	0.365	4.97	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+Q4E4T5	0.380	3.60	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+Q4J6C6	0.401	4.91	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q4LDP0	0.865	3.06	true	S285	0.69	retained	H532	0.83	retained	E418	0.48	retained	-	NA	unresolved	retained	Ser200 S285 retained
+Q4V566	0.370	5.18	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q4VWY7	0.413	4.26	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q50681	0.417	3.59	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q54DJ5	0.427	3.80	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.43 < 0.50)
+Q54ET7	0.860	2.51	true	S205	0.68	retained	H436	0.46	retained	E331	0.52	retained	L89	2.89	lost	retained	Ser200 S205 retained
+Q54H38	0.385	5.08	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+Q54L36	0.419	3.88	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q54N21	0.871	2.70	true	S220	0.57	retained	H460	0.62	retained	E346	0.69	retained	A104	2.84	lost	retained	Ser200 S220 retained
+Q54QI3	0.418	3.69	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q54RL3	0.862	2.54	true	S223	0.45	retained	H454	0.24	retained	E349	0.46	retained	N109	3.20	lost	retained	Ser200 S223 retained
+Q54WD8	0.835	2.85	true	S213	0.16	retained	H446	0.95	retained	E336	1.58	retained	-	NA	unresolved	retained	Ser200 S213 retained
+Q54XE3	0.348	4.85	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.35 < 0.50)
+Q55EU1	0.407	4.81	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q55GA9	0.414	4.83	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q566U4	0.409	3.17	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q57U43	0.404	4.34	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q57XB0	0.409	4.14	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q57Y40	0.403	4.46	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q57Y49	0.375	5.18	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+Q57ZP5	0.448	5.05	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+Q57ZV1	0.407	4.92	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q582C7	0.368	4.26	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q59VP0	0.391	5.14	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q5A948	0.410	5.23	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q5AGD1	0.331	3.21	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.33 < 0.50)
+Q5BKQ4	0.358	5.63	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+Q5CZT1	0.395	5.30	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q5F2F2	0.386	5.00	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q5FAK8	0.401	4.09	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q5GRG2	0.904	2.25	true	S226	0.63	retained	H454	0.62	retained	E345	0.93	retained	H111	9.37	unresolved	retained	Ser200 S226 retained
+Q5HZA6	0.406	4.49	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q5JL22	0.449	5.03	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+Q5RK23	0.395	5.14	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q5VNW5	0.353	3.45	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.35 < 0.50)
+Q5VUY0	0.412	3.98	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q5VUY2	0.411	4.06	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q5VWZ2	0.335	3.31	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.33 < 0.50)
+Q5XG92	0.905	2.71	true	S221	0.33	retained	H467	0.39	retained	E353	0.88	retained	R104	10.99	unresolved	retained	Ser200 S221 retained
+Q5XI64	0.375	4.67	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q5XM24	0.456	5.51	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.46 < 0.50)
+Q5Z417	0.416	4.14	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q5Z9I2	0.422	3.97	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q62765	0.912	2.41	true	G281	0.85	lost	H525	0.25	retained	E411	0.54	retained	V142	4.88	unresolved	lost	Ser200 G not in expected {S}
+Q62888	0.913	2.45	true	G265	0.74	lost	H500	0.20	retained	E386	0.51	retained	A130	4.45	unresolved	lost	Ser200 G not in expected {S}
+Q62889	0.909	2.47	true	G288	0.79	lost	H523	0.22	retained	E409	0.60	retained	V130	4.70	unresolved	lost	Ser200 G not in expected {S}
+Q63010	0.905	2.73	true	S221	0.71	retained	H466	0.55	retained	E353	0.63	retained	R104	11.99	unresolved	retained	Ser200 S221 retained
+Q63108	0.902	2.73	true	S221	0.62	retained	H466	0.34	retained	E353	0.55	retained	W104	12.12	unresolved	retained	Ser200 S221 retained
+Q63880	0.898	2.31	true	S232	0.54	retained	H460	0.71	retained	E347	0.76	retained	K117	10.78	unresolved	retained	Ser200 S232 retained
+Q64176	0.903	2.80	true	S222	0.68	retained	H467	0.46	retained	E354	0.62	retained	R105	11.58	unresolved	retained	Ser200 S222 retained
+Q64285	0.891	2.73	true	S214	1.12	retained	H455	0.63	retained	D340	0.88	altered	-	NA	unresolved	retained	Ser200 S214 retained
+Q64573	0.904	2.72	true	S221	0.69	retained	H466	0.58	retained	E353	0.65	retained	R104	11.81	unresolved	retained	Ser200 S221 retained
+Q658B2	0.408	4.50	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q66HU2	0.392	5.43	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q67J05	0.416	3.13	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q67ZU1	0.414	4.38	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q680C0	0.288	5.47	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.29 < 0.50)
+Q68GX1	0.446	1.87	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+Q69ZK9	0.913	2.45	true	G265	0.70	lost	H500	0.22	retained	E386	0.54	retained	A130	4.38	unresolved	lost	Ser200 G not in expected {S}
+Q6ASW1	0.396	4.21	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q6AW46	0.908	2.13	true	S226	0.54	retained	H454	0.72	retained	E345	0.91	retained	S111	9.47	unresolved	retained	Ser200 S226 retained
+Q6ESF3	0.369	4.65	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q6H7Q9	0.405	4.80	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q6L5F5	0.422	4.10	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q6NG05	0.673	2.88	true	S158	0.55	retained	H335	0.57	retained	E258	0.91	retained	-	NA	unresolved	retained	Ser200 S158 retained
+Q6NS59	0.382	5.79	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+Q6NT32	0.902	2.34	true	S226	0.60	retained	H454	0.68	retained	E345	1.01	retained	H111	9.66	unresolved	retained	Ser200 S226 retained
+Q6PDB7	0.899	2.27	true	S225	0.56	retained	H454	0.59	retained	E342	0.81	retained	-	NA	unresolved	retained	Ser200 S225 retained
+Q6UWW8	0.897	2.37	true	S229	0.53	retained	H460	0.71	retained	E347	0.79	retained	K114	9.51	unresolved	retained	Ser200 S229 retained
+Q6ZIA4	0.422	4.90	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q71DJ5	0.404	4.64	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q71SU7	0.954	2.07	true	S277	0.48	retained	H542	0.53	retained	E406	0.48	retained	W154	0.84	retained	retained	Ser200 S277 retained
+Q73QC2	0.805	3.25	true	C200	0.54	altered	H405	0.40	retained	E307	1.10	retained	F86	2.34	altered	altered	Ser200 C in altered set
+Q79FE8	0.400	3.60	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q7APX4	0.421	4.10	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q7AQE6	0.402	5.60	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q7JR83	0.443	4.65	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+Q7KT70	0.913	2.30	true	G340	0.38	lost	H599	0.59	retained	E484	0.47	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+Q7S844	0.809	3.06	true	S384	0.13	retained	H579	0.38	retained	D515	1.05	altered	Y260	2.40	altered	retained	Ser200 S384 retained
+Q7T387	0.339	3.31	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.34 < 0.50)
+Q7XVG5	0.377	4.42	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+Q84LM4	0.417	4.58	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q86L18	0.867	2.72	true	S213	0.29	retained	H440	0.28	retained	E338	0.36	retained	V99	2.74	lost	retained	Ser200 S213 retained
+Q86S38	0.889	2.50	true	S219	0.68	retained	H463	0.65	retained	E348	0.95	retained	-	NA	unresolved	retained	Ser200 S219 retained
+Q8BK48	0.905	2.24	true	S228	0.61	retained	H457	0.45	retained	E345	0.66	retained	I113	9.39	unresolved	retained	Ser200 S228 retained
+Q8BM81	0.409	4.05	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q8BYM5	0.910	2.45	true	G265	0.76	lost	H500	0.20	retained	E386	0.60	retained	V127	4.71	unresolved	lost	Ser200 G not in expected {S}
+Q8C167	0.405	4.93	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q8C1A9	0.399	4.90	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q8CWQ8	0.391	4.79	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q8FQC4	0.834	3.02	true	S299	0.98	retained	H516	0.68	retained	E423	1.02	retained	-	NA	unresolved	retained	Ser200 S299 retained
+Q8GRZ3	0.408	3.10	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q8H4S9	0.418	3.99	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q8IQI5	0.400	4.95	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q8K3R0	0.902	2.32	true	S227	0.67	retained	H456	0.50	retained	E344	0.74	retained	-	NA	unresolved	retained	Ser200 S227 retained
+Q8L7E1	0.416	4.72	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q8MQ23	0.862	2.68	true	S202	0.92	retained	H452	0.78	retained	E331	0.99	retained	-	NA	unresolved	retained	Ser200 S202 retained
+Q8MQC8	0.792	3.14	true	S210	0.59	retained	H420	1.27	retained	E342	1.32	retained	T93	2.39	lost	retained	Ser200 S210 retained
+Q8MTF8	0.572	3.07	true	G166	0.65	lost	-	NA	unresolved	N297	2.15	lost	-	NA	unresolved	lost	Ser200 G not in expected {S}
+Q8N0W4	0.910	2.44	true	G254	0.89	lost	H489	0.27	retained	E375	0.50	retained	L135	5.37	unresolved	lost	Ser200 G not in expected {S}
+Q8N2Q7	0.912	2.41	true	G301	0.87	lost	H545	0.21	retained	E431	0.55	retained	V142	4.89	unresolved	lost	Ser200 G not in expected {S}
+Q8NCG7	0.292	7.81	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.29 < 0.50)
+Q8NFZ3	0.910	2.49	true	G254	0.85	lost	H489	0.26	retained	E375	0.51	retained	L135	5.38	unresolved	lost	Ser200 G not in expected {S}
+Q8NFZ4	0.913	2.44	true	G265	0.76	lost	H500	0.19	retained	E386	0.58	retained	A130	4.27	unresolved	lost	Ser200 G not in expected {S}
+Q8QZR3	0.905	2.19	true	S227	0.43	retained	H456	0.61	retained	E344	0.79	retained	I112	10.48	unresolved	retained	Ser200 S227 retained
+Q8R0W5	0.893	2.84	true	S228	0.30	retained	H475	0.39	retained	E360	1.00	retained	R111	11.65	unresolved	retained	Ser200 S228 retained
+Q8R1G2	0.348	3.35	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.35 < 0.50)
+Q8R2Y0	0.367	4.53	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q8R492	0.394	5.43	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q8RWA3	0.404	4.83	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q8SZW5	0.864	3.13	true	S189	0.31	retained	H446	0.84	retained	E322	1.02	retained	-	NA	unresolved	retained	Ser200 S189 retained
+Q8TB40	0.374	4.21	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q8VCC2	0.909	2.64	true	S221	0.78	retained	H466	0.59	retained	E353	0.75	retained	Q104	11.46	unresolved	retained	Ser200 S221 retained
+Q8VCT4	0.911	2.57	true	S221	0.75	retained	H466	0.53	retained	E353	0.66	retained	R104	11.59	unresolved	retained	Ser200 S221 retained
+Q8VCU1	0.900	2.22	true	S232	0.64	retained	H460	0.54	retained	E347	0.67	retained	K117	7.97	unresolved	retained	Ser200 S232 retained
+Q8VD66	0.373	4.13	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q8VYJ0	0.412	4.23	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q8VYP9	0.419	4.46	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q8VZV6	0.411	4.19	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q8WU67	0.389	5.33	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q8ZK91	0.368	3.66	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q8ZKT2	0.403	3.45	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q8ZLL1	0.380	4.87	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+Q8ZPB2	0.825	3.37	true	S195	0.97	retained	H400	0.47	retained	E308	0.31	retained	G76	2.61	lost	retained	Ser200 S195 retained
+Q8ZRA1	0.406	3.63	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q91WG0	0.900	2.35	true	S230	0.65	retained	H459	0.60	retained	E347	0.72	retained	-	NA	unresolved	retained	Ser200 S230 retained
+Q91WU0	0.904	2.66	true	S221	0.67	retained	H466	0.55	retained	E353	0.61	retained	R104	11.84	unresolved	retained	Ser200 S221 retained
+Q91ZH7	0.389	5.40	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q93251	0.780	3.32	true	S205	0.66	retained	H414	1.07	retained	E337	1.25	retained	-	NA	unresolved	retained	Ser200 S205 retained
+Q93254	0.790	3.15	true	S207	0.57	retained	H417	1.19	retained	E339	1.47	retained	T90	2.92	lost	retained	Ser200 S207 retained
+Q943F9	0.284	5.57	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.28 < 0.50)
+Q94AM5	0.410	4.41	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q94AS5	0.423	4.19	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q94D81	0.411	4.15	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q95YC3	0.873	2.90	true	S210	0.80	retained	H444	0.57	retained	E333	0.63	retained	Q89	9.25	unresolved	retained	Ser200 S210 retained
+Q95YC4	0.879	2.83	true	S209	0.83	retained	H443	0.80	retained	E332	0.96	retained	P89	12.35	unresolved	retained	Ser200 S209 retained
+Q961N0	0.857	2.97	true	S219	0.13	retained	H470	0.49	retained	E352	0.88	retained	-	NA	unresolved	retained	Ser200 S219 retained
+Q966P1	0.449	4.69	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+Q96IU4	0.333	3.32	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.33 < 0.50)
+Q99K10	0.913	2.41	true	G281	0.88	lost	H525	0.23	retained	E411	0.55	retained	V142	4.87	unresolved	lost	Ser200 G not in expected {S}
+Q9BIB3	0.353	4.73	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.35 < 0.50)
+Q9BL43	0.851	3.25	true	S206	0.78	retained	H449	0.33	retained	E331	0.72	retained	S87	3.71	lost	retained	Ser200 S206 retained
+Q9BV23	0.367	4.56	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q9CBK5	0.357	4.00	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+Q9DAI6	0.403	6.12	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q9DDE3	0.992	0.85	true	S225	0.21	retained	H495	0.33	retained	E352	0.33	retained	W108	0.14	retained	retained	Ser200 S225 retained
+Q9FI59	0.297	5.64	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.30 < 0.50)
+Q9FVW6	0.414	4.07	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q9FWB5	0.367	4.63	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q9FWB6	0.366	4.52	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q9FX92	0.413	3.07	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q9GZG9	0.786	3.22	true	S208	0.62	retained	H420	0.98	retained	E342	1.72	retained	-	NA	unresolved	retained	Ser200 S208 retained
+Q9HDX3	0.415	3.54	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q9HTI0	0.410	3.46	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q9HYS1	0.417	5.16	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q9HZD2	0.418	4.16	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q9I0F2	0.381	3.88	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+Q9I6C6	0.388	4.89	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q9I6I3	0.399	4.32	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q9L6M9	0.373	3.39	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q9L6N5	0.404	4.42	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q9LVS4	0.358	4.70	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+Q9LYG5	0.405	3.97	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q9M3D0	0.420	3.99	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+Q9M3D1	0.410	4.02	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q9NFK4	0.897	2.57	true	S230	0.38	retained	H476	0.84	retained	E356	1.27	retained	L115	2.03	lost	retained	Ser200 S230 retained
+Q9NGK5	0.908	2.43	true	G400	0.67	lost	R650	1.00	lost	E538	0.50	retained	L271	4.87	unresolved	lost	Ser200 G not in expected {S}
+Q9NI53	0.562	3.11	true	S149	0.47	retained	-	NA	unresolved	E283	1.27	retained	-	NA	unresolved	retained	Ser200 S149 retained
+Q9NQE7	0.404	6.03	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q9NZ94	0.910	2.45	true	G288	0.77	lost	H523	0.21	retained	E409	0.57	retained	V130	4.76	unresolved	lost	Ser200 G not in expected {S}
+Q9P2D6	0.384	5.79	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+Q9QXE5	0.402	5.79	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q9QZC8	0.394	5.10	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q9SR22	0.448	5.11	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.45 < 0.50)
+Q9SR23	0.445	4.99	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+Q9SVL9	0.389	5.24	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+Q9U295	0.947	1.93	true	S224	0.60	retained	H473	0.64	retained	E352	0.40	retained	W110	0.57	retained	retained	Ser200 S224 retained
+Q9UKY3	0.458	2.55	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.46 < 0.50)
+Q9US38	0.412	3.61	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+Q9UT29	0.366	3.67	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q9VB93	0.346	5.00	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.35 < 0.50)
+Q9VB94	0.349	5.36	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.35 < 0.50)
+Q9VBQ2	0.368	5.99	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+Q9VIB1	0.862	2.94	true	S235	0.29	retained	H489	0.63	retained	E368	0.94	retained	-	NA	unresolved	retained	Ser200 S235 retained
+Q9VIB3	0.861	3.21	true	S218	0.30	retained	H472	0.71	retained	E353	1.16	retained	-	NA	unresolved	retained	Ser200 S218 retained
+Q9VIB5	0.858	3.01	true	S218	0.29	retained	H472	0.62	retained	E352	1.12	retained	-	NA	unresolved	retained	Ser200 S218 retained
+Q9VIB6	0.860	3.15	true	S227	0.11	retained	H476	0.83	retained	E353	1.16	retained	-	NA	unresolved	retained	Ser200 S227 retained
+Q9VIC0	0.864	3.07	true	S194	0.56	retained	H444	0.56	retained	E322	1.19	retained	-	NA	unresolved	retained	Ser200 S194 retained
+Q9VIC3	0.856	3.05	true	S219	0.25	retained	H471	0.36	retained	E352	0.97	retained	-	NA	unresolved	retained	Ser200 S219 retained
+Q9VIC6	0.910	2.36	true	G407	0.52	lost	H691	0.73	retained	E579	0.48	retained	L248	3.88	lost	lost	Ser200 G not in expected {S}
+Q9VIC7	0.910	2.38	true	S366	0.54	retained	M609	1.38	lost	E495	0.54	retained	L247	4.11	unresolved	retained	Ser200 S366 retained
+Q9VLA3	0.861	2.93	true	G230	0.26	lost	H478	0.45	retained	E361	0.69	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+Q9VLA4	0.854	3.05	true	S209	0.36	retained	H447	0.92	retained	E331	1.35	retained	-	NA	unresolved	retained	Ser200 S209 retained
+Q9VLJ1	0.839	3.32	true	V260	0.39	lost	L523	0.58	lost	G393	1.35	lost	-	NA	unresolved	lost	Ser200 V not in expected {S}
+Q9VLJ2	0.850	2.98	true	V220	0.29	lost	L482	0.80	lost	A351	1.36	lost	-	NA	unresolved	lost	Ser200 V not in expected {S}
+Q9VP25	0.823	2.71	true	S226	0.29	retained	H473	0.46	retained	D345	1.46	altered	-	NA	unresolved	retained	Ser200 S226 retained
+Q9VPZ5	0.825	3.41	true	G233	0.82	lost	H519	0.74	retained	E377	1.15	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+Q9VRW5	0.347	4.83	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.35 < 0.50)
+Q9VS02	0.402	5.84	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q9W0H3	0.362	4.92	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+Q9W1B3	0.881	2.55	true	D233	1.08	lost	K477	0.68	lost	E357	0.43	retained	I111	8.21	unresolved	lost	Ser200 D not in expected {S}
+Q9W243	0.859	2.97	true	S219	0.32	retained	H472	0.53	retained	E353	0.89	retained	-	NA	unresolved	retained	Ser200 S219 retained
+Q9W2F4	0.870	2.63	true	S205	0.11	retained	H461	0.66	retained	E343	0.97	retained	-	NA	unresolved	retained	Ser200 S205 retained
+Q9W495	0.401	5.95	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+Q9W4N5	0.888	3.06	true	S217	0.30	retained	H473	0.80	retained	E349	0.96	retained	-	NA	unresolved	retained	Ser200 S217 retained
+Q9XTG1	0.924	2.07	true	G233	0.79	lost	S490	1.37	lost	P370	0.91	lost	L114	3.81	lost	lost	Ser200 G not in expected {S}
+Q9XW75	0.854	2.79	true	D226	0.45	lost	K706	1.15	lost	E400	1.57	retained	-	NA	unresolved	lost	Ser200 D not in expected {S}
+Q9XZ70	0.860	3.05	true	S218	0.33	retained	H471	0.71	retained	E351	1.33	retained	-	NA	unresolved	retained	Ser200 S218 retained
+Q9Y141	0.861	3.26	true	S202	0.56	retained	H452	0.57	retained	E332	0.90	retained	-	NA	unresolved	retained	Ser200 S202 retained
+Q9Z218	0.390	5.42	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+R1C7N2	0.855	3.17	true	S257	0.75	retained	H504	0.26	retained	E388	0.97	retained	K139	11.86	unresolved	retained	Ser200 S257 retained
+R7UE07	0.414	3.97	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+R7VCC3	0.863	2.92	true	S183	0.81	retained	H428	1.00	retained	D308	1.66	altered	A60	8.18	unresolved	retained	Ser200 S183 retained
+R7VEI7	0.891	2.59	true	S188	0.50	retained	H435	0.89	retained	E310	0.84	retained	L73	7.43	unresolved	retained	Ser200 S188 retained
+R7Z468	0.614	3.09	true	S245	0.26	retained	-	NA	unresolved	D371	1.86	altered	G114	0.84	lost	retained	Ser200 S245 retained
+S3DBE1	0.831	3.08	true	S244	1.20	retained	H494	0.61	retained	E374	0.44	retained	-	NA	unresolved	retained	Ser200 S244 retained
+S4VFV6	0.691	1.17	true	S234	0.43	retained	-	NA	unresolved	E360	0.35	retained	W119	0.46	retained	retained	Ser200 S234 retained
+S8A324	0.849	3.17	true	S221	0.55	retained	H463	0.99	retained	E344	1.01	retained	-	NA	unresolved	retained	Ser200 S221 retained
+T1GJI9	0.663	3.16	true	S151	0.27	retained	H313	0.87	retained	E276	1.56	retained	-	NA	unresolved	retained	Ser200 S151 retained
+T1HC30	0.862	2.94	true	S201	0.61	retained	H445	0.86	retained	E328	1.07	retained	-	NA	unresolved	retained	Ser200 S201 retained
+T1HFJ2	0.828	3.22	true	G222	0.50	lost	H497	0.22	retained	E365	0.48	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+T1IS79	0.913	2.33	true	S235	0.47	retained	H506	0.35	retained	E360	1.21	retained	M121	9.04	unresolved	retained	Ser200 S235 retained
+T1J3T4	0.726	3.20	true	G286	0.86	lost	P456	1.77	lost	V352	1.66	lost	-	NA	unresolved	lost	Ser200 G not in expected {S}
+T1JEJ8	0.878	2.64	true	S208	0.36	retained	H444	1.32	retained	E329	1.82	retained	-	NA	unresolved	retained	Ser200 S208 retained
+T1JGH5	0.861	2.68	true	D200	0.26	lost	H471	0.46	retained	E333	0.72	retained	-	NA	unresolved	lost	Ser200 D not in expected {S}
+T1JW43	0.776	3.79	true	D225	0.34	lost	L470	8.96	unresolved	E344	0.86	retained	S109	10.44	unresolved	lost	Ser200 D not in expected {S}
+T1KY80	0.740	2.02	true	G96	0.57	lost	H334	0.74	retained	E221	0.30	retained	-	NA	unresolved	lost	Ser200 G not in expected {S}
+U1HMU1	0.791	3.64	true	S429	1.21	retained	H643	0.71	retained	E551	0.51	retained	P294	13.33	unresolved	retained	Ser200 S429 retained
+U2SMB7	0.432	1.78	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.43 < 0.50)
+U3AA66	0.415	3.72	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+U4LHV4	0.774	2.73	true	S219	0.31	retained	H390	0.58	retained	E337	0.97	retained	T100	5.09	unresolved	retained	Ser200 S219 retained
+U5EVS7	0.878	2.95	true	S249	0.50	retained	H507	1.18	retained	E382	1.22	retained	-	NA	unresolved	retained	Ser200 S249 retained
+U5KK45	0.559	3.13	true	S58	0.54	retained	H308	0.60	retained	E190	0.52	retained	-	NA	unresolved	retained	Ser200 S58 retained
+U7PHH2	0.316	7.72	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.32 < 0.50)
+U7PHI6	0.387	4.92	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+U7PI60	0.377	4.25	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+U7PJ02	0.847	3.28	true	S366	1.05	retained	H625	1.24	retained	E511	0.89	retained	-	NA	unresolved	retained	Ser200 S366 retained
+U7PJG8	0.386	6.13	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+U7PJX1	0.839	3.13	true	S240	0.90	retained	H485	0.31	retained	E372	0.61	retained	F117	2.32	altered	retained	Ser200 S240 retained
+U7PK84	0.821	3.19	true	S220	1.07	retained	H462	0.81	retained	E364	0.91	retained	-	NA	unresolved	retained	Ser200 S220 retained
+U7PKB8	0.847	2.82	true	S347	0.60	retained	H616	0.52	retained	E484	0.78	retained	-	NA	unresolved	retained	Ser200 S347 retained
+U7PLQ7	0.420	4.17	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+U7PMD7	0.812	2.96	true	S259	0.17	retained	H453	0.75	retained	E385	0.90	retained	A136	2.59	lost	retained	Ser200 S259 retained
+U7PNE8	0.865	2.90	true	S285	0.43	retained	H547	0.39	retained	E427	0.36	retained	-	NA	unresolved	retained	Ser200 S285 retained
+U7PNV3	0.600	3.55	true	S69	0.67	retained	H290	0.51	retained	E198	1.04	retained	-	NA	unresolved	retained	Ser200 S69 retained
+U7PNX7	0.386	4.32	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+U7PPF6	0.363	4.23	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+U7PPP8	0.393	4.35	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+U7PQG1	0.345	4.08	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.34 < 0.50)
+U7PQM8	0.416	4.32	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+U7PS37	0.382	4.03	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+U7PU33	0.358	5.07	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.36 < 0.50)
+U7PV09	0.375	4.61	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+U7PVH6	0.847	3.12	true	S230	0.92	retained	H496	0.89	retained	E356	0.91	retained	D106	2.56	lost	retained	Ser200 S230 retained
+U7PXZ1	0.400	4.96	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.40 < 0.50)
+U7PXZ2	0.376	3.94	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+U7PY39	0.803	3.43	true	S226	1.74	retained	H493	1.03	retained	E384	1.30	retained	-	NA	unresolved	retained	Ser200 S226 retained
+U7PYM2	0.415	3.54	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+U7Q034	0.376	4.35	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.38 < 0.50)
+U7Q066	0.408	4.10	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+U7Q0F4	0.433	4.48	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.43 < 0.50)
+U7Q0J7	0.440	3.77	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.44 < 0.50)
+U7Q0K7	0.393	4.96	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.39 < 0.50)
+U7Q0N0	0.826	3.30	true	S254	0.81	retained	H499	0.53	retained	E386	0.77	retained	-	NA	unresolved	retained	Ser200 S254 retained
+U7Q0P6	0.421	3.83	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.42 < 0.50)
+U7Q225	0.793	3.47	true	S253	0.76	retained	H456	1.05	retained	E361	1.07	retained	P125	9.07	unresolved	retained	Ser200 S253 retained
+U7Q2D2	0.823	3.12	true	S401	0.59	retained	H663	0.59	retained	D538	1.34	altered	-	NA	unresolved	retained	Ser200 S401 retained
+U7Q368	0.846	3.11	true	S205	0.26	retained	H433	1.17	retained	E318	1.15	retained	H88	10.24	unresolved	retained	Ser200 S205 retained
+U7Q3G5	0.374	4.52	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.37 < 0.50)
+U7Q5K7	0.415	4.45	false	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	-	NA	unresolved	unresolved	fold below TM gate (TM 0.41 < 0.50)
+U7Q8V4	0.813	3.55	true	S356	0.67	retained	H599	0.54	retained	E483	0.75	retained	-	NA	unresolved	retained	Ser200 S356 retained

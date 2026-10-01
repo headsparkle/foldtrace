@@ -1,0 +1,5 @@
+label	ref_resnum	expected	role	key	altered
+Ser200	200	S	catalytic_nucleophile	1	C
+His440	440	H	catalytic_histidine	0	
+Glu327	327	E	catalytic_base	0	D
+Trp84	84	W	acyl_pocket_aromatic	0	F,Y
