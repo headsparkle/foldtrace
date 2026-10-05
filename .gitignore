@@ -15,3 +15,4 @@ examples/tir/end_to_end_output.tsv
 pand_project/models/
 pand_project/cirpin_check/verified_pairs.txt
 pand_project/cirpin_check/other_pairs.txt
+ache_project/models/
